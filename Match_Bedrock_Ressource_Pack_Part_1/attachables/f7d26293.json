@@ -1,0 +1,40 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "r:f7d26293",
+      "materials": {
+        "default": "entity_emissive_alpha",
+        "enchanted": "entity_alphatest_glint"
+      },
+      "textures": {
+        "default": "textures/entity/i2fe2fa6/i2fe2fa6/atlas",
+        "enchanted": "textures/misc/enchanted_item_glint"
+      },
+      "geometry": {
+        "default": "geometry.r.i2fe2fa6"
+      },
+      "animations": {
+        "first_person": "animation.r.i2fe2fa6.hold_first_person",
+        "third_person": "animation.r.i2fe2fa6.hold_third_person",
+        "head": "animation.r.i2fe2fa6.head"
+      },
+      "scripts": {
+        "animate": [
+          {
+            "first_person": "context.is_first_person == 1.0 && (context.item_slot == 'main_hand' || context.item_slot == 'off_hand')"
+          },
+          {
+            "third_person": "context.is_first_person == 0.0 && (context.item_slot == 'main_hand' || context.item_slot == 'off_hand')"
+          },
+          {
+            "head": "context.is_first_person == 0.0 && context.item_slot == 'head'"
+          }
+        ]
+      },
+      "render_controllers": [
+        "controller.render.item_default"
+      ]
+    }
+  }
+}

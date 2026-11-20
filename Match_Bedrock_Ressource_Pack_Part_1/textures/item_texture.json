@@ -1,0 +1,1974 @@
+{
+  "resource_pack_name": "ResourcePackManager_Bedrock",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "b73d6623": {
+      "textures": "textures/items/b73d6623"
+    },
+    "iaad9c27": {
+      "textures": "textures/items/iaad9c27"
+    },
+    "b1657012": {
+      "textures": "textures/items/b1657012"
+    },
+    "geb39e62": {
+      "textures": "textures/items/geb39e62"
+    },
+    "p932e50d": {
+      "textures": "textures/items/p932e50d"
+    },
+    "e86c8be7": {
+      "textures": "textures/items/e86c8be7"
+    },
+    "d38357ca": {
+      "textures": "textures/items/d38357ca"
+    },
+    "m767ac00": {
+      "textures": "textures/items/m767ac00"
+    },
+    "peb30af9": {
+      "textures": "textures/items/peb30af9"
+    },
+    "l17662df": {
+      "textures": "textures/items/l17662df"
+    },
+    "dbbb9533": {
+      "textures": "textures/items/dbbb9533"
+    },
+    "n7536c20": {
+      "textures": "textures/items/n7536c20"
+    },
+    "fd2ceb26": {
+      "textures": "textures/items/fd2ceb26"
+    },
+    "n57b1222": {
+      "textures": "textures/items/n57b1222"
+    },
+    "ka8bda20": {
+      "textures": "textures/items/ka8bda20"
+    },
+    "p8be7e29": {
+      "textures": "textures/items/p8be7e29"
+    },
+    "f0afac8a": {
+      "textures": "textures/items/f0afac8a"
+    },
+    "n23c9a82": {
+      "textures": "textures/items/n23c9a82"
+    },
+    "a53638d6": {
+      "textures": "textures/items/a53638d6"
+    },
+    "mc468dd0": {
+      "textures": "textures/items/mc468dd0"
+    },
+    "lff5fa24": {
+      "textures": "textures/items/lff5fa24"
+    },
+    "m8c95572": {
+      "textures": "textures/items/m8c95572"
+    },
+    "m0559cd3": {
+      "textures": "textures/items/m0559cd3"
+    },
+    "dbc2c880": {
+      "textures": "textures/items/dbc2c880"
+    },
+    "ea1241fb": {
+      "textures": "textures/items/ea1241fb"
+    },
+    "b3d3d7a1": {
+      "textures": "textures/items/b3d3d7a1"
+    },
+    "nc8c7244": {
+      "textures": "textures/items/nc8c7244"
+    },
+    "pebe133e": {
+      "textures": "textures/items/pebe133e"
+    },
+    "o2c2426a": {
+      "textures": "textures/items/o2c2426a"
+    },
+    "icdb2916": {
+      "textures": "textures/items/icdb2916"
+    },
+    "l5fec595": {
+      "textures": "textures/items/l5fec595"
+    },
+    "h0a8ad22": {
+      "textures": "textures/items/h0a8ad22"
+    },
+    "id455ce8": {
+      "textures": "textures/items/id455ce8"
+    },
+    "f2661632": {
+      "textures": "textures/items/f2661632"
+    },
+    "l54e4dc0": {
+      "textures": "textures/items/l54e4dc0"
+    },
+    "f15bed31": {
+      "textures": "textures/items/f15bed31"
+    },
+    "ee7ec766": {
+      "textures": "textures/items/ee7ec766"
+    },
+    "l8e9ee91": {
+      "textures": "textures/items/l8e9ee91"
+    },
+    "eb014573": {
+      "textures": "textures/items/eb014573"
+    },
+    "ccd38f95": {
+      "textures": "textures/items/ccd38f95"
+    },
+    "k8573e50": {
+      "textures": "textures/items/k8573e50"
+    },
+    "bb8d26d5": {
+      "textures": "textures/items/bb8d26d5"
+    },
+    "c5fe0d46": {
+      "textures": "textures/items/c5fe0d46"
+    },
+    "m0711bf9": {
+      "textures": "textures/items/m0711bf9"
+    },
+    "f9362abd": {
+      "textures": "textures/items/f9362abd"
+    },
+    "iea6ea66": {
+      "textures": "textures/items/iea6ea66"
+    },
+    "o2e6e007": {
+      "textures": "textures/items/o2e6e007"
+    },
+    "m6ad49eb": {
+      "textures": "textures/items/m6ad49eb"
+    },
+    "o07bdaa3": {
+      "textures": "textures/items/o07bdaa3"
+    },
+    "h3499f9f": {
+      "textures": "textures/items/h3499f9f"
+    },
+    "cea50e7b": {
+      "textures": "textures/items/cea50e7b"
+    },
+    "mc5c27ca": {
+      "textures": "textures/items/mc5c27ca"
+    },
+    "k4a3b2fa": {
+      "textures": "textures/items/k4a3b2fa"
+    },
+    "gf540956": {
+      "textures": "textures/items/gf540956"
+    },
+    "b7924000": {
+      "textures": "textures/items/b7924000"
+    },
+    "c67f3f02": {
+      "textures": "textures/items/c67f3f02"
+    },
+    "g7105177": {
+      "textures": "textures/items/g7105177"
+    },
+    "n286287c": {
+      "textures": "textures/items/n286287c"
+    },
+    "g3dd77b5": {
+      "textures": "textures/items/g3dd77b5"
+    },
+    "m34520ee": {
+      "textures": "textures/items/m34520ee"
+    },
+    "ibcb12d3": {
+      "textures": "textures/items/ibcb12d3"
+    },
+    "i9d86266": {
+      "textures": "textures/items/a208cd40"
+    },
+    "o0822b6a": {
+      "textures": "textures/items/a208cd40"
+    },
+    "m4e8d243": {
+      "textures": "textures/items/a208cd40"
+    },
+    "pb3cf2f4": {
+      "textures": "textures/items/a208cd40"
+    },
+    "c444c039": {
+      "textures": "textures/items/c444c039"
+    },
+    "i00f0fec": {
+      "textures": "textures/items/i00f0fec"
+    },
+    "f10c659f": {
+      "textures": "textures/items/f10c659f"
+    },
+    "f4132584": {
+      "textures": "textures/items/a208cd40"
+    },
+    "a208cd40": {
+      "textures": "textures/items/a208cd40"
+    },
+    "n2c3b42f": {
+      "textures": "textures/items/a208cd40"
+    },
+    "c28b7eb8": {
+      "textures": "textures/items/a208cd40"
+    },
+    "h2612281": {
+      "textures": "textures/items/a208cd40"
+    },
+    "pf889d65": {
+      "textures": "textures/items/pf889d65"
+    },
+    "lcf7cac4": {
+      "textures": "textures/items/lcf7cac4"
+    },
+    "i2fe2fa6": {
+      "textures": "textures/items/i2fe2fa6"
+    },
+    "b22d75e4": {
+      "textures": "textures/items/a208cd40"
+    },
+    "ff316b77": {
+      "textures": "textures/items/a208cd40"
+    },
+    "i538f67a": {
+      "textures": "textures/items/a208cd40"
+    },
+    "l57da4c8": {
+      "textures": "textures/items/l57da4c8"
+    },
+    "o6b750b4": {
+      "textures": "textures/items/o6b750b4"
+    },
+    "d9930685": {
+      "textures": "textures/items/d9930685"
+    },
+    "odde3ded": {
+      "textures": "textures/items/odde3ded"
+    },
+    "a709e62b": {
+      "textures": "textures/items/a709e62b"
+    },
+    "j3e5fb97": {
+      "textures": "textures/items/j3e5fb97"
+    },
+    "bf2109a1": {
+      "textures": "textures/items/bf2109a1"
+    },
+    "ab41c76e": {
+      "textures": "textures/items/ab41c76e"
+    },
+    "gc2f8403": {
+      "textures": "textures/items/gc2f8403"
+    },
+    "i866350c": {
+      "textures": "textures/items/i866350c"
+    },
+    "d88ac0da": {
+      "textures": "textures/items/d88ac0da"
+    },
+    "l042bb08": {
+      "textures": "textures/items/l042bb08"
+    },
+    "g7e8921a": {
+      "textures": "textures/items/g7e8921a"
+    },
+    "a21e5947": {
+      "textures": "textures/items/a21e5947"
+    },
+    "cd592461": {
+      "textures": "textures/items/cd592461"
+    },
+    "k3547c9c": {
+      "textures": "textures/items/k3547c9c"
+    },
+    "n98a2477": {
+      "textures": "textures/items/n98a2477"
+    },
+    "bff63fc1": {
+      "textures": "textures/items/bff63fc1"
+    },
+    "ef8ca996": {
+      "textures": "textures/items/ef8ca996"
+    },
+    "d84433d3": {
+      "textures": "textures/items/d84433d3"
+    },
+    "o653303e": {
+      "textures": "textures/items/o653303e"
+    },
+    "b743bb89": {
+      "textures": "textures/items/b743bb89"
+    },
+    "p3eb861a": {
+      "textures": "textures/items/p3eb861a"
+    },
+    "j604626d": {
+      "textures": "textures/items/j604626d"
+    },
+    "o5fa9834": {
+      "textures": "textures/items/o5fa9834"
+    },
+    "d0e9c878": {
+      "textures": "textures/items/d0e9c878"
+    },
+    "cd62d1ca": {
+      "textures": "textures/items/cd62d1ca"
+    },
+    "ob7881ea": {
+      "textures": "textures/items/ob7881ea"
+    },
+    "h48da663": {
+      "textures": "textures/items/h48da663"
+    },
+    "h8775630": {
+      "textures": "textures/items/h8775630"
+    },
+    "ba338240": {
+      "textures": "textures/items/ba338240"
+    },
+    "ce3af5a0": {
+      "textures": "textures/items/ce3af5a0"
+    },
+    "p1539cab": {
+      "textures": "textures/items/p1539cab"
+    },
+    "fe0d0fa4": {
+      "textures": "textures/items/fe0d0fa4"
+    },
+    "hae08511": {
+      "textures": "textures/items/hae08511"
+    },
+    "g65f5cdc": {
+      "textures": "textures/items/g65f5cdc"
+    },
+    "b1c066d7": {
+      "textures": "textures/items/b1c066d7"
+    },
+    "bc3fcb45": {
+      "textures": "textures/items/bc3fcb45"
+    },
+    "n40fa2ab": {
+      "textures": "textures/items/n40fa2ab"
+    },
+    "o3329e42": {
+      "textures": "textures/items/o3329e42"
+    },
+    "l8ba0f57": {
+      "textures": "textures/items/a9adc8b9"
+    },
+    "o7db9e38": {
+      "textures": "textures/items/a9adc8b9"
+    },
+    "o3f6cd2f": {
+      "textures": "textures/items/a9adc8b9"
+    },
+    "id5a4582": {
+      "textures": "textures/items/a9adc8b9"
+    },
+    "nd1a3e1e": {
+      "textures": "textures/items/a9adc8b9"
+    },
+    "hbc151b9": {
+      "textures": "textures/items/a9adc8b9"
+    },
+    "ga64d47a": {
+      "textures": "textures/items/a9adc8b9"
+    },
+    "c3290985": {
+      "textures": "textures/items/a9adc8b9"
+    },
+    "j809e055": {
+      "textures": "textures/items/a9adc8b9"
+    },
+    "d9d28928": {
+      "textures": "textures/items/a9adc8b9"
+    },
+    "gb2e00e0": {
+      "textures": "textures/items/a9adc8b9"
+    },
+    "b3f8cab3": {
+      "textures": "textures/items/a9adc8b9"
+    },
+    "cc6b843a": {
+      "textures": "textures/items/a9adc8b9"
+    },
+    "bcf79aec": {
+      "textures": "textures/items/a9adc8b9"
+    },
+    "a9adc8b9": {
+      "textures": "textures/items/a9adc8b9"
+    },
+    "h0e00acd": {
+      "textures": "textures/items/a7e538f8"
+    },
+    "gc895478": {
+      "textures": "textures/items/a7e538f8"
+    },
+    "g51e8283": {
+      "textures": "textures/items/a7e538f8"
+    },
+    "a7e538f8": {
+      "textures": "textures/items/a7e538f8"
+    },
+    "a952ecde": {
+      "textures": "textures/items/a7e538f8"
+    },
+    "f8ae05a1": {
+      "textures": "textures/items/a7e538f8"
+    },
+    "o1799726": {
+      "textures": "textures/items/a7e538f8"
+    },
+    "gb2d4843": {
+      "textures": "textures/items/a7e538f8"
+    },
+    "o8225f9b": {
+      "textures": "textures/items/a7e538f8"
+    },
+    "c8119920": {
+      "textures": "textures/items/a7e538f8"
+    },
+    "i3e6b35c": {
+      "textures": "textures/items/a7e538f8"
+    },
+    "p8306359": {
+      "textures": "textures/items/a7e538f8"
+    },
+    "p8864154": {
+      "textures": "textures/items/a7e538f8"
+    },
+    "d1459952": {
+      "textures": "textures/items/a7e538f8"
+    },
+    "o3c6f2ff": {
+      "textures": "textures/items/a7e538f8"
+    },
+    "af143fa9": {
+      "textures": "textures/items/af143fa9"
+    },
+    "g89abb90": {
+      "textures": "textures/items/a0aa828e"
+    },
+    "jf723abb": {
+      "textures": "textures/items/a0aa828e"
+    },
+    "e9b055b1": {
+      "textures": "textures/items/a0aa828e"
+    },
+    "c32599f0": {
+      "textures": "textures/items/a0aa828e"
+    },
+    "lc9b3f46": {
+      "textures": "textures/items/a0aa828e"
+    },
+    "he713208": {
+      "textures": "textures/items/a0aa828e"
+    },
+    "o6c51dc7": {
+      "textures": "textures/items/a0aa828e"
+    },
+    "o12ed7ac": {
+      "textures": "textures/items/a0aa828e"
+    },
+    "a0aa828e": {
+      "textures": "textures/items/a0aa828e"
+    },
+    "la07f592": {
+      "textures": "textures/items/a0aa828e"
+    },
+    "j2f7cdca": {
+      "textures": "textures/items/a0aa828e"
+    },
+    "ha959b8c": {
+      "textures": "textures/items/a0aa828e"
+    },
+    "b0a0ec3d": {
+      "textures": "textures/items/a0aa828e"
+    },
+    "a89b2857": {
+      "textures": "textures/items/a0aa828e"
+    },
+    "bd82dfdb": {
+      "textures": "textures/items/a0aa828e"
+    },
+    "ne72960a": {
+      "textures": "textures/items/ne72960a"
+    },
+    "jfad9981": {
+      "textures": "textures/items/b8064e42"
+    },
+    "lce1d397": {
+      "textures": "textures/items/b8064e42"
+    },
+    "n196e3ac": {
+      "textures": "textures/items/b8064e42"
+    },
+    "h4fa30ea": {
+      "textures": "textures/items/b8064e42"
+    },
+    "b8064e42": {
+      "textures": "textures/items/b8064e42"
+    },
+    "g5cfacf6": {
+      "textures": "textures/items/b8064e42"
+    },
+    "l0c9fef5": {
+      "textures": "textures/items/b8064e42"
+    },
+    "p96aafca": {
+      "textures": "textures/items/b8064e42"
+    },
+    "j4d1d3a3": {
+      "textures": "textures/items/b8064e42"
+    },
+    "p68f8e39": {
+      "textures": "textures/items/b8064e42"
+    },
+    "h50a1cf7": {
+      "textures": "textures/items/b8064e42"
+    },
+    "h1f838f9": {
+      "textures": "textures/items/b8064e42"
+    },
+    "j268241b": {
+      "textures": "textures/items/b8064e42"
+    },
+    "nba2cae9": {
+      "textures": "textures/items/b8064e42"
+    },
+    "ib21236d": {
+      "textures": "textures/items/b8064e42"
+    },
+    "hd30108c": {
+      "textures": "textures/items/hd30108c"
+    },
+    "e0fe04b2": {
+      "textures": "textures/items/e0fe04b2"
+    },
+    "hc352968": {
+      "textures": "textures/items/hc352968"
+    },
+    "k0fe8e13": {
+      "textures": "textures/items/k0fe8e13"
+    },
+    "j0eae7c1": {
+      "textures": "textures/items/j0eae7c1"
+    },
+    "e129e21a": {
+      "textures": "textures/items/e129e21a"
+    },
+    "b98583a4": {
+      "textures": "textures/items/b98583a4"
+    },
+    "cfef3662": {
+      "textures": "textures/items/cfef3662"
+    },
+    "d47ce329": {
+      "textures": "textures/items/d47ce329"
+    },
+    "o9c26cca": {
+      "textures": "textures/items/o9c26cca"
+    },
+    "le36d914": {
+      "textures": "textures/items/le36d914"
+    },
+    "he96b723": {
+      "textures": "textures/items/he96b723"
+    },
+    "a1dd9205": {
+      "textures": "textures/items/a1dd9205"
+    },
+    "i399d6f5": {
+      "textures": "textures/items/i399d6f5"
+    },
+    "ie964139": {
+      "textures": "textures/items/ie964139"
+    },
+    "e34882e8": {
+      "textures": "textures/items/e34882e8"
+    },
+    "ga34bb33": {
+      "textures": "textures/items/ga34bb33"
+    },
+    "a6b93b51": {
+      "textures": "textures/items/a6b93b51"
+    },
+    "fb938731": {
+      "textures": "textures/items/fb938731"
+    },
+    "jcc90929": {
+      "textures": "textures/items/jcc90929"
+    },
+    "bbca8981": {
+      "textures": "textures/items/bbca8981"
+    },
+    "f2cdfc27": {
+      "textures": "textures/items/f2cdfc27"
+    },
+    "ff5c1fab": {
+      "textures": "textures/items/ff5c1fab"
+    },
+    "d291019f": {
+      "textures": "textures/items/d291019f"
+    },
+    "h2f0d599": {
+      "textures": "textures/items/h2f0d599"
+    },
+    "f18362dc": {
+      "textures": "textures/items/f18362dc"
+    },
+    "h166baa1": {
+      "textures": "textures/items/h166baa1"
+    },
+    "db584d27": {
+      "textures": "textures/items/db584d27"
+    },
+    "b97ef2d2": {
+      "textures": "textures/items/b97ef2d2"
+    },
+    "m5f9a97a": {
+      "textures": "textures/items/m5f9a97a"
+    },
+    "ab9e6590": {
+      "textures": "textures/items/ab9e6590"
+    },
+    "e1b75fdb": {
+      "textures": "textures/items/e1b75fdb"
+    },
+    "a58a7a40": {
+      "textures": "textures/items/a58a7a40"
+    },
+    "nd008cc8": {
+      "textures": "textures/items/nd008cc8"
+    },
+    "g3050a5c": {
+      "textures": "textures/items/g3050a5c"
+    },
+    "h8965aa5": {
+      "textures": "textures/items/h8965aa5"
+    },
+    "fb5190ff": {
+      "textures": "textures/items/fb5190ff"
+    },
+    "m2db00fe": {
+      "textures": "textures/items/m2db00fe"
+    },
+    "c9558b1e": {
+      "textures": "textures/items/c9558b1e"
+    },
+    "mf5ee2c3": {
+      "textures": "textures/items/mf5ee2c3"
+    },
+    "d585d522": {
+      "textures": "textures/items/d585d522"
+    },
+    "b8132c76": {
+      "textures": "textures/items/b8132c76"
+    },
+    "c55bbc58": {
+      "textures": "textures/items/c55bbc58"
+    },
+    "o4738e9b": {
+      "textures": "textures/items/o4738e9b"
+    },
+    "a5c03403": {
+      "textures": "textures/items/a5c03403"
+    },
+    "l8f89250": {
+      "textures": "textures/items/l8f89250"
+    },
+    "a1f055a4": {
+      "textures": "textures/items/a1f055a4"
+    },
+    "n3ac3a7c": {
+      "textures": "textures/items/n3ac3a7c"
+    },
+    "h6b86a75": {
+      "textures": "textures/items/h6b86a75"
+    },
+    "o5704866": {
+      "textures": "textures/items/o5704866"
+    },
+    "pdf5a0ef": {
+      "textures": "textures/items/pdf5a0ef"
+    },
+    "i0f3bbe8": {
+      "textures": "textures/items/i0f3bbe8"
+    },
+    "d3d5e233": {
+      "textures": "textures/items/d3d5e233"
+    },
+    "cde268e2": {
+      "textures": "textures/items/cde268e2"
+    },
+    "l7c5d77e": {
+      "textures": "textures/items/l7c5d77e"
+    },
+    "b83e5bd3": {
+      "textures": "textures/items/b83e5bd3"
+    },
+    "ge1dcd21": {
+      "textures": "textures/items/ge1dcd21"
+    },
+    "ge9aa695": {
+      "textures": "textures/items/ge9aa695"
+    },
+    "j8094b82": {
+      "textures": "textures/items/j8094b82"
+    },
+    "md690bf4": {
+      "textures": "textures/items/md690bf4"
+    },
+    "pb4fe9fb": {
+      "textures": "textures/items/pb4fe9fb"
+    },
+    "i43c83be": {
+      "textures": "textures/items/i43c83be"
+    },
+    "lffabde5": {
+      "textures": "textures/items/lffabde5"
+    },
+    "k7f7a663": {
+      "textures": "textures/items/k7f7a663"
+    },
+    "dcaabf9f": {
+      "textures": "textures/items/dcaabf9f"
+    },
+    "ab91022b": {
+      "textures": "textures/items/ab91022b"
+    },
+    "kd72b0db": {
+      "textures": "textures/items/kd72b0db"
+    },
+    "a2e00efa": {
+      "textures": "textures/items/a2e00efa"
+    },
+    "pefeddcf": {
+      "textures": "textures/items/pefeddcf"
+    },
+    "n5d14d48": {
+      "textures": "textures/items/n5d14d48"
+    },
+    "c201f063": {
+      "textures": "textures/items/c201f063"
+    },
+    "c7867c73": {
+      "textures": "textures/items/c7867c73"
+    },
+    "bbda3152": {
+      "textures": "textures/items/bbda3152"
+    },
+    "m0789293": {
+      "textures": "textures/items/m0789293"
+    },
+    "i32dfe83": {
+      "textures": "textures/items/i32dfe83"
+    },
+    "c072864c": {
+      "textures": "textures/items/c072864c"
+    },
+    "bfa7a1fc": {
+      "textures": "textures/items/bfa7a1fc"
+    },
+    "c4156782": {
+      "textures": "textures/items/c4156782"
+    },
+    "dd4feddc": {
+      "textures": "textures/items/dd4feddc"
+    },
+    "ja17abd2": {
+      "textures": "textures/items/ja17abd2"
+    },
+    "a4e78503": {
+      "textures": "textures/items/a4e78503"
+    },
+    "ica6884b": {
+      "textures": "textures/items/ica6884b"
+    },
+    "g5c737c3": {
+      "textures": "textures/items/g5c737c3"
+    },
+    "d39fec2a": {
+      "textures": "textures/items/d39fec2a"
+    },
+    "h3a67ede": {
+      "textures": "textures/items/h3a67ede"
+    },
+    "p067d878": {
+      "textures": "textures/items/p067d878"
+    },
+    "naef9714": {
+      "textures": "textures/items/naef9714"
+    },
+    "cbd01604": {
+      "textures": "textures/items/cbd01604"
+    },
+    "d9b270e0": {
+      "textures": "textures/items/d9b270e0"
+    },
+    "h2e2a622": {
+      "textures": "textures/items/h2e2a622"
+    },
+    "d687b018": {
+      "textures": "textures/items/d687b018"
+    },
+    "a772fe2d": {
+      "textures": "textures/items/a772fe2d"
+    },
+    "e0826478": {
+      "textures": "textures/items/e0826478"
+    },
+    "e2910216": {
+      "textures": "textures/items/e2910216"
+    },
+    "e34d93b3": {
+      "textures": "textures/items/e34d93b3"
+    },
+    "b847cff6": {
+      "textures": "textures/items/b847cff6"
+    },
+    "m0f7111f": {
+      "textures": "textures/items/m0f7111f"
+    },
+    "c6259522": {
+      "textures": "textures/items/c6259522"
+    },
+    "e13f9e51": {
+      "textures": "textures/items/e13f9e51"
+    },
+    "i8b02ac6": {
+      "textures": "textures/items/i8b02ac6"
+    },
+    "d5910a39": {
+      "textures": "textures/items/d5910a39"
+    },
+    "n65d82a0": {
+      "textures": "textures/items/n65d82a0"
+    },
+    "bcc17ca0": {
+      "textures": "textures/items/bcc17ca0"
+    },
+    "e4cb2922": {
+      "textures": "textures/items/e4cb2922"
+    },
+    "ibb78aad": {
+      "textures": "textures/items/ibb78aad"
+    },
+    "d2022be1": {
+      "textures": "textures/items/d2022be1"
+    },
+    "k5a97517": {
+      "textures": "textures/items/k5a97517"
+    },
+    "h76cfb3b": {
+      "textures": "textures/items/h76cfb3b"
+    },
+    "d09ba848": {
+      "textures": "textures/items/d09ba848"
+    },
+    "aa8df130": {
+      "textures": "textures/items/aa8df130"
+    },
+    "bb9861fa": {
+      "textures": "textures/items/bb9861fa"
+    },
+    "kaab67ce": {
+      "textures": "textures/items/kaab67ce"
+    },
+    "p45fa24f": {
+      "textures": "textures/items/p45fa24f"
+    },
+    "d2b54ba0": {
+      "textures": "textures/items/d2b54ba0"
+    },
+    "mf8ca477": {
+      "textures": "textures/items/mf8ca477"
+    },
+    "m6c9d46a": {
+      "textures": "textures/items/m6c9d46a"
+    },
+    "f7deebbb": {
+      "textures": "textures/items/f7deebbb"
+    },
+    "e52170d9": {
+      "textures": "textures/items/e52170d9"
+    },
+    "aa63ecbd": {
+      "textures": "textures/items/aa63ecbd"
+    },
+    "f3f57811": {
+      "textures": "textures/items/f3f57811"
+    },
+    "k8dc0e7d": {
+      "textures": "textures/items/k8dc0e7d"
+    },
+    "ned00917": {
+      "textures": "textures/items/ned00917"
+    },
+    "i7189f83": {
+      "textures": "textures/items/i7189f83"
+    },
+    "b7b8bf34": {
+      "textures": "textures/items/b7b8bf34"
+    },
+    "je398b13": {
+      "textures": "textures/items/je398b13"
+    },
+    "d1573033": {
+      "textures": "textures/items/d1573033"
+    },
+    "oe516cda": {
+      "textures": "textures/items/oe516cda"
+    },
+    "a68a8f52": {
+      "textures": "textures/items/a68a8f52"
+    },
+    "l45470df": {
+      "textures": "textures/items/l45470df"
+    },
+    "b22c3a50": {
+      "textures": "textures/items/b22c3a50"
+    },
+    "e59ee8a0": {
+      "textures": "textures/items/e59ee8a0"
+    },
+    "i2ba672c": {
+      "textures": "textures/items/i2ba672c"
+    },
+    "i6c749de": {
+      "textures": "textures/items/i6c749de"
+    },
+    "c4979b6e": {
+      "textures": "textures/items/c4979b6e"
+    },
+    "l4787102": {
+      "textures": "textures/items/l4787102"
+    },
+    "bb5d90f8": {
+      "textures": "textures/items/bb5d90f8"
+    },
+    "gfbcbace": {
+      "textures": "textures/items/gfbcbace"
+    },
+    "l833277d": {
+      "textures": "textures/items/l833277d"
+    },
+    "ndf6edd8": {
+      "textures": "textures/items/ndf6edd8"
+    },
+    "dc04801d": {
+      "textures": "textures/items/dc04801d"
+    },
+    "j7297551": {
+      "textures": "textures/items/j7297551"
+    },
+    "cf0c5d87": {
+      "textures": "textures/items/cf0c5d87"
+    },
+    "aab35772": {
+      "textures": "textures/items/aab35772"
+    },
+    "h9784039": {
+      "textures": "textures/items/h9784039"
+    },
+    "h7cfee54": {
+      "textures": "textures/items/b01caca9"
+    },
+    "n76c069c": {
+      "textures": "textures/items/b01caca9"
+    },
+    "d0d309a0": {
+      "textures": "textures/items/b01caca9"
+    },
+    "c8ebc779": {
+      "textures": "textures/items/b01caca9"
+    },
+    "c64b4bbf": {
+      "textures": "textures/items/b01caca9"
+    },
+    "fe705b9c": {
+      "textures": "textures/items/b01caca9"
+    },
+    "d685454c": {
+      "textures": "textures/items/b01caca9"
+    },
+    "g4844e56": {
+      "textures": "textures/items/b01caca9"
+    },
+    "g00d5004": {
+      "textures": "textures/items/b01caca9"
+    },
+    "b01caca9": {
+      "textures": "textures/items/b01caca9"
+    },
+    "jfcb86d7": {
+      "textures": "textures/items/b01caca9"
+    },
+    "i3d40e41": {
+      "textures": "textures/items/b01caca9"
+    },
+    "bcb4ac00": {
+      "textures": "textures/items/b01caca9"
+    },
+    "l1bb1293": {
+      "textures": "textures/items/b01caca9"
+    },
+    "e2df2857": {
+      "textures": "textures/items/b01caca9"
+    },
+    "kd732b23": {
+      "textures": "textures/items/b449ec4f"
+    },
+    "bee1c77f": {
+      "textures": "textures/items/b449ec4f"
+    },
+    "h6d10599": {
+      "textures": "textures/items/b449ec4f"
+    },
+    "k2e2a2ac": {
+      "textures": "textures/items/b449ec4f"
+    },
+    "m191d275": {
+      "textures": "textures/items/b449ec4f"
+    },
+    "ha9e76fd": {
+      "textures": "textures/items/b449ec4f"
+    },
+    "h37a115c": {
+      "textures": "textures/items/b449ec4f"
+    },
+    "lba8e12a": {
+      "textures": "textures/items/b449ec4f"
+    },
+    "dfbddb1f": {
+      "textures": "textures/items/b449ec4f"
+    },
+    "k442ea64": {
+      "textures": "textures/items/b449ec4f"
+    },
+    "b449ec4f": {
+      "textures": "textures/items/b449ec4f"
+    },
+    "l34c75d4": {
+      "textures": "textures/items/b449ec4f"
+    },
+    "j39c25aa": {
+      "textures": "textures/items/b449ec4f"
+    },
+    "gdd8e6fd": {
+      "textures": "textures/items/b449ec4f"
+    },
+    "l89263ce": {
+      "textures": "textures/items/b449ec4f"
+    },
+    "ff90751d": {
+      "textures": "textures/items/ff90751d"
+    },
+    "i8d47070": {
+      "textures": "textures/items/i8d47070"
+    },
+    "d53d2eb4": {
+      "textures": "textures/items/d53d2eb4"
+    },
+    "id9bab74": {
+      "textures": "textures/items/a0bf2b2f"
+    },
+    "efb30422": {
+      "textures": "textures/items/a0bf2b2f"
+    },
+    "p9781005": {
+      "textures": "textures/items/a0bf2b2f"
+    },
+    "i2f64794": {
+      "textures": "textures/items/a0bf2b2f"
+    },
+    "n07e4bc8": {
+      "textures": "textures/items/a0bf2b2f"
+    },
+    "a4d14161": {
+      "textures": "textures/items/a0bf2b2f"
+    },
+    "a0bf2b2f": {
+      "textures": "textures/items/a0bf2b2f"
+    },
+    "l5b486e3": {
+      "textures": "textures/items/a0bf2b2f"
+    },
+    "a0f94d68": {
+      "textures": "textures/items/a0bf2b2f"
+    },
+    "f54c2dbd": {
+      "textures": "textures/items/a0bf2b2f"
+    },
+    "m9c86703": {
+      "textures": "textures/items/a0bf2b2f"
+    },
+    "n08c9dc2": {
+      "textures": "textures/items/a0bf2b2f"
+    },
+    "c8445361": {
+      "textures": "textures/items/a0bf2b2f"
+    },
+    "ofafa33b": {
+      "textures": "textures/items/a0bf2b2f"
+    },
+    "a17fdf9e": {
+      "textures": "textures/items/a0bf2b2f"
+    },
+    "a5f86703": {
+      "textures": "textures/items/a5f86703"
+    },
+    "faad7be8": {
+      "textures": "textures/items/c48dc71c"
+    },
+    "fd4f0562": {
+      "textures": "textures/items/c48dc71c"
+    },
+    "d8104945": {
+      "textures": "textures/items/c48dc71c"
+    },
+    "ddac98df": {
+      "textures": "textures/items/c48dc71c"
+    },
+    "e13ea196": {
+      "textures": "textures/items/c48dc71c"
+    },
+    "j1f96e5e": {
+      "textures": "textures/items/c48dc71c"
+    },
+    "edab62ca": {
+      "textures": "textures/items/c48dc71c"
+    },
+    "g74da045": {
+      "textures": "textures/items/c48dc71c"
+    },
+    "d4f6dd61": {
+      "textures": "textures/items/c48dc71c"
+    },
+    "cb3339af": {
+      "textures": "textures/items/c48dc71c"
+    },
+    "l38d43c7": {
+      "textures": "textures/items/c48dc71c"
+    },
+    "oa29afb5": {
+      "textures": "textures/items/c48dc71c"
+    },
+    "c48dc71c": {
+      "textures": "textures/items/c48dc71c"
+    },
+    "hf0a2400": {
+      "textures": "textures/items/c48dc71c"
+    },
+    "f9c0caba": {
+      "textures": "textures/items/c48dc71c"
+    },
+    "d1bc7654": {
+      "textures": "textures/items/d1bc7654"
+    },
+    "k75e8eab": {
+      "textures": "textures/items/k75e8eab"
+    },
+    "id4c3a2f": {
+      "textures": "textures/items/id4c3a2f"
+    },
+    "oa14f610": {
+      "textures": "textures/items/oa14f610"
+    },
+    "kd4ea8f9": {
+      "textures": "textures/items/kd4ea8f9"
+    },
+    "j864d71a": {
+      "textures": "textures/items/j864d71a"
+    },
+    "k4c64b63": {
+      "textures": "textures/items/k4c64b63"
+    },
+    "ede48dba": {
+      "textures": "textures/items/ede48dba"
+    },
+    "e0153916": {
+      "textures": "textures/items/e0153916"
+    },
+    "j962ee0f": {
+      "textures": "textures/items/j962ee0f"
+    },
+    "d9bcb9af": {
+      "textures": "textures/items/d9bcb9af"
+    },
+    "c5c7c692": {
+      "textures": "textures/items/c5c7c692"
+    },
+    "le421613": {
+      "textures": "textures/items/le421613"
+    },
+    "h919fc69": {
+      "textures": "textures/items/h919fc69"
+    },
+    "pc00070e": {
+      "textures": "textures/items/pc00070e"
+    },
+    "p0db5b6c": {
+      "textures": "textures/items/a61c759b"
+    },
+    "c066bb2d": {
+      "textures": "textures/items/a61c759b"
+    },
+    "i790319a": {
+      "textures": "textures/items/a61c759b"
+    },
+    "o06263ad": {
+      "textures": "textures/items/a61c759b"
+    },
+    "gb49bc09": {
+      "textures": "textures/items/a61c759b"
+    },
+    "g30ef109": {
+      "textures": "textures/items/a61c759b"
+    },
+    "a61c759b": {
+      "textures": "textures/items/a61c759b"
+    },
+    "hba09629": {
+      "textures": "textures/items/a61c759b"
+    },
+    "c3718fdb": {
+      "textures": "textures/items/a61c759b"
+    },
+    "of1398db": {
+      "textures": "textures/items/a61c759b"
+    },
+    "ke07beed": {
+      "textures": "textures/items/a61c759b"
+    },
+    "bf62122c": {
+      "textures": "textures/items/a61c759b"
+    },
+    "n52b9c4c": {
+      "textures": "textures/items/a61c759b"
+    },
+    "b1c32ab5": {
+      "textures": "textures/items/a61c759b"
+    },
+    "d6d0b11f": {
+      "textures": "textures/items/a61c759b"
+    },
+    "f27fcaff": {
+      "textures": "textures/items/bf0a63e6"
+    },
+    "g2d94b2b": {
+      "textures": "textures/items/bf0a63e6"
+    },
+    "if85ccd8": {
+      "textures": "textures/items/bf0a63e6"
+    },
+    "o3519541": {
+      "textures": "textures/items/bf0a63e6"
+    },
+    "p083bf29": {
+      "textures": "textures/items/bf0a63e6"
+    },
+    "g6fe1a01": {
+      "textures": "textures/items/bf0a63e6"
+    },
+    "e2c4982b": {
+      "textures": "textures/items/bf0a63e6"
+    },
+    "mc7daa0a": {
+      "textures": "textures/items/bf0a63e6"
+    },
+    "g2e73025": {
+      "textures": "textures/items/bf0a63e6"
+    },
+    "o4f164f3": {
+      "textures": "textures/items/bf0a63e6"
+    },
+    "k0543b2b": {
+      "textures": "textures/items/bf0a63e6"
+    },
+    "bf9b4170": {
+      "textures": "textures/items/bf0a63e6"
+    },
+    "bf0a63e6": {
+      "textures": "textures/items/bf0a63e6"
+    },
+    "ia7e83af": {
+      "textures": "textures/items/bf0a63e6"
+    },
+    "fabca7d4": {
+      "textures": "textures/items/bf0a63e6"
+    },
+    "k1b1fe66": {
+      "textures": "textures/items/k1b1fe66"
+    },
+    "b8fc6f81": {
+      "textures": "textures/items/b8fc6f81"
+    },
+    "pcd03563": {
+      "textures": "textures/items/a3677921"
+    },
+    "gd02948d": {
+      "textures": "textures/items/a3677921"
+    },
+    "oc89ec55": {
+      "textures": "textures/items/a3677921"
+    },
+    "p20ac833": {
+      "textures": "textures/items/a3677921"
+    },
+    "ge5a800c": {
+      "textures": "textures/items/a3677921"
+    },
+    "a3677921": {
+      "textures": "textures/items/a3677921"
+    },
+    "l2aa4891": {
+      "textures": "textures/items/a3677921"
+    },
+    "af243d5f": {
+      "textures": "textures/items/a3677921"
+    },
+    "hefb692b": {
+      "textures": "textures/items/a3677921"
+    },
+    "la7aa7f7": {
+      "textures": "textures/items/a3677921"
+    },
+    "ceee3a9b": {
+      "textures": "textures/items/a3677921"
+    },
+    "f9ce1c25": {
+      "textures": "textures/items/a3677921"
+    },
+    "l9ecd6d9": {
+      "textures": "textures/items/a3677921"
+    },
+    "af8c155e": {
+      "textures": "textures/items/a3677921"
+    },
+    "eaa9176f": {
+      "textures": "textures/items/a3677921"
+    },
+    "fb83cf0a": {
+      "textures": "textures/items/fb83cf0a"
+    },
+    "o6ad650b": {
+      "textures": "textures/items/a145d844"
+    },
+    "e5de9620": {
+      "textures": "textures/items/a145d844"
+    },
+    "of66f724": {
+      "textures": "textures/items/a145d844"
+    },
+    "a145d844": {
+      "textures": "textures/items/a145d844"
+    },
+    "lba72527": {
+      "textures": "textures/items/a145d844"
+    },
+    "h736839c": {
+      "textures": "textures/items/a145d844"
+    },
+    "j6499bf9": {
+      "textures": "textures/items/a145d844"
+    },
+    "la08e93b": {
+      "textures": "textures/items/a145d844"
+    },
+    "b46ac38a": {
+      "textures": "textures/items/a145d844"
+    },
+    "nd941439": {
+      "textures": "textures/items/a145d844"
+    },
+    "ha206990": {
+      "textures": "textures/items/a145d844"
+    },
+    "p39afbdd": {
+      "textures": "textures/items/a145d844"
+    },
+    "jee6fe2d": {
+      "textures": "textures/items/a145d844"
+    },
+    "ia2c7a9c": {
+      "textures": "textures/items/a145d844"
+    },
+    "m40b959d": {
+      "textures": "textures/items/a145d844"
+    },
+    "p0623d0d": {
+      "textures": "textures/items/p0623d0d"
+    },
+    "bd3e5166": {
+      "textures": "textures/items/bd3e5166"
+    },
+    "m00c3eef": {
+      "textures": "textures/items/m00c3eef"
+    },
+    "k07b5b89": {
+      "textures": "textures/items/k07b5b89"
+    },
+    "l5b2fec2": {
+      "textures": "textures/items/l5b2fec2"
+    },
+    "jfcf3525": {
+      "textures": "textures/items/jfcf3525"
+    },
+    "e6147960": {
+      "textures": "textures/items/e6147960"
+    },
+    "p4b7b3fd": {
+      "textures": "textures/items/p4b7b3fd"
+    },
+    "o9739235": {
+      "textures": "textures/items/o9739235"
+    },
+    "l17ed61b": {
+      "textures": "textures/items/ae2f04dd"
+    },
+    "j8e2bf82": {
+      "textures": "textures/items/ae2f04dd"
+    },
+    "c88de786": {
+      "textures": "textures/items/ae2f04dd"
+    },
+    "e3269f4f": {
+      "textures": "textures/items/ae2f04dd"
+    },
+    "kd96f0b6": {
+      "textures": "textures/items/ae2f04dd"
+    },
+    "g11b1f20": {
+      "textures": "textures/items/ae2f04dd"
+    },
+    "nf57ec18": {
+      "textures": "textures/items/ae2f04dd"
+    },
+    "h840b7d1": {
+      "textures": "textures/items/ae2f04dd"
+    },
+    "cf57e35d": {
+      "textures": "textures/items/ae2f04dd"
+    },
+    "ae2f04dd": {
+      "textures": "textures/items/ae2f04dd"
+    },
+    "o4073404": {
+      "textures": "textures/items/ae2f04dd"
+    },
+    "e3044211": {
+      "textures": "textures/items/ae2f04dd"
+    },
+    "i2086ffa": {
+      "textures": "textures/items/ae2f04dd"
+    },
+    "lca00093": {
+      "textures": "textures/items/ae2f04dd"
+    },
+    "d15ce58b": {
+      "textures": "textures/items/ae2f04dd"
+    },
+    "efd397cc": {
+      "textures": "textures/items/a9b7930b"
+    },
+    "f7f4959a": {
+      "textures": "textures/items/a9b7930b"
+    },
+    "oc89afe3": {
+      "textures": "textures/items/a9b7930b"
+    },
+    "a9b7930b": {
+      "textures": "textures/items/a9b7930b"
+    },
+    "lfe91e08": {
+      "textures": "textures/items/a9b7930b"
+    },
+    "jbbf8cbb": {
+      "textures": "textures/items/a9b7930b"
+    },
+    "j51ceedf": {
+      "textures": "textures/items/a9b7930b"
+    },
+    "k9c2b4fc": {
+      "textures": "textures/items/a9b7930b"
+    },
+    "lcb09a69": {
+      "textures": "textures/items/a9b7930b"
+    },
+    "f9a2ae14": {
+      "textures": "textures/items/a9b7930b"
+    },
+    "i8baccba": {
+      "textures": "textures/items/a9b7930b"
+    },
+    "h9300e29": {
+      "textures": "textures/items/a9b7930b"
+    },
+    "ne4a88dc": {
+      "textures": "textures/items/a9b7930b"
+    },
+    "bb35e0b6": {
+      "textures": "textures/items/a9b7930b"
+    },
+    "m2ad2a79": {
+      "textures": "textures/items/a9b7930b"
+    },
+    "bf563ab8": {
+      "textures": "textures/items/a3c60d4d"
+    },
+    "n63ac587": {
+      "textures": "textures/items/a3c60d4d"
+    },
+    "ede0462e": {
+      "textures": "textures/items/a3c60d4d"
+    },
+    "ae36ec55": {
+      "textures": "textures/items/a3c60d4d"
+    },
+    "n94e5541": {
+      "textures": "textures/items/a3c60d4d"
+    },
+    "f14d8757": {
+      "textures": "textures/items/a3c60d4d"
+    },
+    "a3c60d4d": {
+      "textures": "textures/items/a3c60d4d"
+    },
+    "n0190e82": {
+      "textures": "textures/items/a3c60d4d"
+    },
+    "n59be8eb": {
+      "textures": "textures/items/a3c60d4d"
+    },
+    "h418883e": {
+      "textures": "textures/items/a3c60d4d"
+    },
+    "n9203141": {
+      "textures": "textures/items/a3c60d4d"
+    },
+    "fa02a353": {
+      "textures": "textures/items/a3c60d4d"
+    },
+    "i7fdb88e": {
+      "textures": "textures/items/a3c60d4d"
+    },
+    "o2bc7ee7": {
+      "textures": "textures/items/a3c60d4d"
+    },
+    "j457ca81": {
+      "textures": "textures/items/a3c60d4d"
+    },
+    "cb6e60d5": {
+      "textures": "textures/items/a3b193cd"
+    },
+    "pe231aa3": {
+      "textures": "textures/items/a3b193cd"
+    },
+    "p794a614": {
+      "textures": "textures/items/a3b193cd"
+    },
+    "nffffe44": {
+      "textures": "textures/items/a3b193cd"
+    },
+    "f2ab35dc": {
+      "textures": "textures/items/a3b193cd"
+    },
+    "p619684c": {
+      "textures": "textures/items/a3b193cd"
+    },
+    "i4cda6d4": {
+      "textures": "textures/items/a3b193cd"
+    },
+    "g8168b21": {
+      "textures": "textures/items/a3b193cd"
+    },
+    "ha874ac8": {
+      "textures": "textures/items/a3b193cd"
+    },
+    "c4c5fe9a": {
+      "textures": "textures/items/a3b193cd"
+    },
+    "a3b193cd": {
+      "textures": "textures/items/a3b193cd"
+    },
+    "e5049c59": {
+      "textures": "textures/items/a3b193cd"
+    },
+    "b260a7c7": {
+      "textures": "textures/items/a3b193cd"
+    },
+    "ge3e9467": {
+      "textures": "textures/items/a3b193cd"
+    },
+    "b71031c1": {
+      "textures": "textures/items/a3b193cd"
+    },
+    "f154f5d7": {
+      "textures": "textures/items/f154f5d7"
+    },
+    "k4e239e2": {
+      "textures": "textures/items/k4e239e2"
+    },
+    "k2841e24": {
+      "textures": "textures/items/k2841e24"
+    },
+    "gf8408be": {
+      "textures": "textures/items/gf8408be"
+    },
+    "b4913f3b": {
+      "textures": "textures/items/b4913f3b"
+    },
+    "dc69d754": {
+      "textures": "textures/items/dc69d754"
+    },
+    "hffb1390": {
+      "textures": "textures/items/hffb1390"
+    },
+    "ka1e94af": {
+      "textures": "textures/items/ka1e94af"
+    },
+    "i58159f6": {
+      "textures": "textures/items/i58159f6"
+    },
+    "e9e997a3": {
+      "textures": "textures/items/e9e997a3"
+    },
+    "h68f1b8b": {
+      "textures": "textures/items/h68f1b8b"
+    },
+    "nefc9455": {
+      "textures": "textures/items/nefc9455"
+    },
+    "ld8b98d4": {
+      "textures": "textures/items/ld8b98d4"
+    },
+    "f9379f62": {
+      "textures": "textures/items/f9379f62"
+    },
+    "o6a69b85": {
+      "textures": "textures/items/o6a69b85"
+    },
+    "h6c2cc25": {
+      "textures": "textures/items/h6c2cc25"
+    },
+    "i030e865": {
+      "textures": "textures/items/i030e865"
+    },
+    "a95f7100": {
+      "textures": "textures/items/a95f7100"
+    },
+    "j32b7df0": {
+      "textures": "textures/items/j32b7df0"
+    },
+    "j940b676": {
+      "textures": "textures/items/j940b676"
+    },
+    "b429e31a": {
+      "textures": "textures/items/b429e31a"
+    },
+    "odb6a6fe": {
+      "textures": "textures/items/odb6a6fe"
+    },
+    "had58d4e": {
+      "textures": "textures/items/had58d4e"
+    },
+    "l40527f3": {
+      "textures": "textures/items/l40527f3"
+    },
+    "g6e6c84f": {
+      "textures": "textures/items/g6e6c84f"
+    },
+    "mdefc000": {
+      "textures": "textures/items/mdefc000"
+    },
+    "d2d0536d": {
+      "textures": "textures/items/d2d0536d"
+    },
+    "l15db417": {
+      "textures": "textures/items/l15db417"
+    },
+    "ca295835": {
+      "textures": "textures/items/ca295835"
+    },
+    "h21e710d": {
+      "textures": "textures/items/h21e710d"
+    },
+    "ff74568d": {
+      "textures": "textures/items/ff74568d"
+    },
+    "cd5382d1": {
+      "textures": "textures/items/cd5382d1"
+    },
+    "ddcd538e": {
+      "textures": "textures/items/ddcd538e"
+    },
+    "c958c0f4": {
+      "textures": "textures/items/c958c0f4"
+    },
+    "od5c7077": {
+      "textures": "textures/items/od5c7077"
+    },
+    "keeee37a": {
+      "textures": "textures/items/keeee37a"
+    },
+    "j1cbd2f0": {
+      "textures": "textures/items/dd497518"
+    },
+    "oc8bc946": {
+      "textures": "textures/items/dd497518"
+    },
+    "dd497518": {
+      "textures": "textures/items/dd497518"
+    },
+    "j81de2ee": {
+      "textures": "textures/items/j4481a8e"
+    },
+    "j5286844": {
+      "textures": "textures/items/j4481a8e"
+    },
+    "j4481a8e": {
+      "textures": "textures/items/j4481a8e"
+    },
+    "hbcc6e1f": {
+      "textures": "textures/items/ba1d1c7f"
+    },
+    "ba1d1c7f": {
+      "textures": "textures/items/ba1d1c7f"
+    },
+    "f040a138": {
+      "textures": "textures/items/ba1d1c7f"
+    },
+    "fabbf87e": {
+      "textures": "textures/items/aeca9632"
+    },
+    "hbdd26d7": {
+      "textures": "textures/items/aeca9632"
+    },
+    "aeca9632": {
+      "textures": "textures/items/aeca9632"
+    },
+    "ca05e16b": {
+      "textures": "textures/items/ab033f16"
+    },
+    "lcfca56f": {
+      "textures": "textures/items/ab033f16"
+    },
+    "ab033f16": {
+      "textures": "textures/items/ab033f16"
+    },
+    "kcd977a5": {
+      "textures": "textures/items/f4012c63"
+    },
+    "f4012c63": {
+      "textures": "textures/items/f4012c63"
+    },
+    "n1106f34": {
+      "textures": "textures/items/f4012c63"
+    },
+    "dfc44a59": {
+      "textures": "textures/items/cd38773d"
+    },
+    "m4bbbd6c": {
+      "textures": "textures/items/cd38773d"
+    },
+    "cd38773d": {
+      "textures": "textures/items/cd38773d"
+    },
+    "k47926d0": {
+      "textures": "textures/items/i2b66da0"
+    },
+    "o2e67630": {
+      "textures": "textures/items/i2b66da0"
+    },
+    "i2b66da0": {
+      "textures": "textures/items/i2b66da0"
+    },
+    "e73ecd6c": {
+      "textures": "textures/items/aa168782"
+    },
+    "k887e83c": {
+      "textures": "textures/items/aa168782"
+    },
+    "aa168782": {
+      "textures": "textures/items/aa168782"
+    },
+    "cbf1406b": {
+      "textures": "textures/items/b688a2a0"
+    },
+    "lf6a708b": {
+      "textures": "textures/items/b688a2a0"
+    },
+    "b688a2a0": {
+      "textures": "textures/items/b688a2a0"
+    },
+    "g7697c5d": {
+      "textures": "textures/items/g7697c5d"
+    },
+    "gaa08042": {
+      "textures": "textures/items/g7697c5d"
+    },
+    "gef39381": {
+      "textures": "textures/items/g7697c5d"
+    },
+    "fd270ba0": {
+      "textures": "textures/items/fd270ba0"
+    },
+    "h7f17d90": {
+      "textures": "textures/items/fd270ba0"
+    },
+    "keb3b4dd": {
+      "textures": "textures/items/fd270ba0"
+    },
+    "j2ee98ed": {
+      "textures": "textures/items/de00cb74"
+    },
+    "de00cb74": {
+      "textures": "textures/items/de00cb74"
+    },
+    "ee8f739a": {
+      "textures": "textures/items/de00cb74"
+    },
+    "gaf48da3": {
+      "textures": "textures/items/c1f6f267"
+    },
+    "c1f6f267": {
+      "textures": "textures/items/c1f6f267"
+    },
+    "h5397dbd": {
+      "textures": "textures/items/c1f6f267"
+    },
+    "n1ad2dc5": {
+      "textures": "textures/items/l3bb01a8"
+    },
+    "n5196553": {
+      "textures": "textures/items/l3bb01a8"
+    },
+    "l3bb01a8": {
+      "textures": "textures/items/l3bb01a8"
+    },
+    "b5e62d06": {
+      "textures": "textures/items/b5e62d06"
+    },
+    "c6c2bde5": {
+      "textures": "textures/items/b5e62d06"
+    },
+    "n1b0c48f": {
+      "textures": "textures/items/b5e62d06"
+    },
+    "c43f827f": {
+      "textures": "textures/items/c43f827f"
+    },
+    "o293e1db": {
+      "textures": "textures/items/c43f827f"
+    },
+    "fb862956": {
+      "textures": "textures/items/c43f827f"
+    },
+    "m8939d87": {
+      "textures": "textures/items/cec7ad03"
+    },
+    "cec7ad03": {
+      "textures": "textures/items/cec7ad03"
+    },
+    "oae60fde": {
+      "textures": "textures/items/cec7ad03"
+    },
+    "g936d8e0": {
+      "textures": "textures/items/d014a5f2"
+    },
+    "d014a5f2": {
+      "textures": "textures/items/d014a5f2"
+    },
+    "k908aea3": {
+      "textures": "textures/items/d014a5f2"
+    },
+    "i1977a46": {
+      "textures": "textures/items/i1977a46"
+    },
+    "o6309ac3": {
+      "textures": "textures/items/i1977a46"
+    },
+    "md990c5f": {
+      "textures": "textures/items/i1977a46"
+    },
+    "g6d4f5ed": {
+      "textures": "textures/items/f5a2e19f"
+    },
+    "f5a2e19f": {
+      "textures": "textures/items/f5a2e19f"
+    },
+    "p9e4988e": {
+      "textures": "textures/items/f5a2e19f"
+    },
+    "g0a32e7e": {
+      "textures": "textures/items/ce800ef4"
+    },
+    "ce800ef4": {
+      "textures": "textures/items/ce800ef4"
+    },
+    "k3b94196": {
+      "textures": "textures/items/ce800ef4"
+    },
+    "nbcfe48d": {
+      "textures": "textures/items/f184ee62"
+    },
+    "o04f7ce2": {
+      "textures": "textures/items/f184ee62"
+    },
+    "f184ee62": {
+      "textures": "textures/items/f184ee62"
+    },
+    "p882a25a": {
+      "textures": "textures/items/e4af2324"
+    },
+    "e4af2324": {
+      "textures": "textures/items/e4af2324"
+    },
+    "mb33bd61": {
+      "textures": "textures/items/e4af2324"
+    },
+    "i4dd1579": {
+      "textures": "textures/items/c271185d"
+    },
+    "eca14b43": {
+      "textures": "textures/items/c271185d"
+    },
+    "c271185d": {
+      "textures": "textures/items/c271185d"
+    },
+    "b78018ac": {
+      "textures": "textures/items/b78018ac"
+    },
+    "n6553b00": {
+      "textures": "textures/items/b78018ac"
+    },
+    "gca81b10": {
+      "textures": "textures/items/b78018ac"
+    },
+    "k900f735": {
+      "textures": "textures/items/c47088bd"
+    },
+    "n452cfc9": {
+      "textures": "textures/items/c47088bd"
+    },
+    "c47088bd": {
+      "textures": "textures/items/c47088bd"
+    },
+    "kd43d049": {
+      "textures": "textures/items/k66d7f28"
+    },
+    "k66d7f28": {
+      "textures": "textures/items/k66d7f28"
+    },
+    "oe31496e": {
+      "textures": "textures/items/k66d7f28"
+    }
+  }
+}

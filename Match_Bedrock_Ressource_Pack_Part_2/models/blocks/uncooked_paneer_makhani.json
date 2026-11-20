@@ -1,0 +1,966 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:geometry": [
+    {
+      "description": {
+        "identifier": "geometry.matcha.uncooked_paneer_makhani",
+        "texture_width": 16.0,
+        "texture_height": 16.0,
+        "visible_bounds_offset": [
+          0.0,
+          0.25,
+          0.0
+        ],
+        "visible_bounds_width": 2.0,
+        "visible_bounds_height": 2.0
+      },
+      "bones": [
+        {
+          "cubes": [
+            {
+              "origin": [
+                -3.0,
+                9.5,
+                -3.0
+              ],
+              "pivot": [
+                0.0,
+                7.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                -0.0,
+                0.0
+              ],
+              "size": [
+                6.0,
+                0.0,
+                6.0
+              ],
+              "uv": {
+                "up": {
+                  "uv": [
+                    0.0,
+                    0.0
+                  ],
+                  "uv_size": [
+                    6.0,
+                    6.0
+                  ],
+                  "material_instance": "1"
+                }
+              }
+            }
+          ],
+          "name": "bone_0",
+          "pivot": [
+            8.0,
+            0.0,
+            -8.0
+          ]
+        },
+        {
+          "cubes": [
+            {
+              "origin": [
+                -2.25,
+                9.5,
+                -2.5
+              ],
+              "pivot": [
+                -1.5,
+                10.0,
+                -1.0
+              ],
+              "rotation": [
+                0.0,
+                22.5,
+                0.0
+              ],
+              "size": [
+                2.0,
+                1.0,
+                2.0
+              ],
+              "uv": {
+                "north": {
+                  "uv": [
+                    2.0,
+                    10.0
+                  ],
+                  "uv_size": [
+                    2.0,
+                    1.0
+                  ],
+                  "material_instance": "1"
+                },
+                "south": {
+                  "uv": [
+                    6.0,
+                    10.0
+                  ],
+                  "uv_size": [
+                    2.0,
+                    1.0
+                  ],
+                  "material_instance": "1"
+                },
+                "east": {
+                  "uv": [
+                    0.0,
+                    10.0
+                  ],
+                  "uv_size": [
+                    2.0,
+                    1.0
+                  ],
+                  "material_instance": "1"
+                },
+                "west": {
+                  "uv": [
+                    4.0,
+                    10.0
+                  ],
+                  "uv_size": [
+                    2.0,
+                    1.0
+                  ],
+                  "material_instance": "1"
+                },
+                "up": {
+                  "uv": [
+                    2.0,
+                    8.0
+                  ],
+                  "uv_size": [
+                    2.0,
+                    2.0
+                  ],
+                  "material_instance": "1"
+                },
+                "down": {
+                  "uv": [
+                    4.0,
+                    10.0
+                  ],
+                  "uv_size": [
+                    2.0,
+                    -2.0
+                  ],
+                  "material_instance": "1"
+                }
+              }
+            }
+          ],
+          "name": "bone_1",
+          "pivot": [
+            8.0,
+            0.0,
+            -8.0
+          ]
+        },
+        {
+          "cubes": [
+            {
+              "origin": [
+                0.5,
+                9.0,
+                -1.5
+              ],
+              "pivot": [
+                1.5,
+                9.5,
+                -0.5
+              ],
+              "rotation": [
+                0.0,
+                -22.5,
+                0.0
+              ],
+              "size": [
+                2.0,
+                1.0,
+                2.0
+              ],
+              "uv": {
+                "north": {
+                  "uv": [
+                    2.0,
+                    10.0
+                  ],
+                  "uv_size": [
+                    2.0,
+                    1.0
+                  ],
+                  "material_instance": "1"
+                },
+                "south": {
+                  "uv": [
+                    6.0,
+                    10.0
+                  ],
+                  "uv_size": [
+                    2.0,
+                    1.0
+                  ],
+                  "material_instance": "1"
+                },
+                "east": {
+                  "uv": [
+                    0.0,
+                    10.0
+                  ],
+                  "uv_size": [
+                    2.0,
+                    1.0
+                  ],
+                  "material_instance": "1"
+                },
+                "west": {
+                  "uv": [
+                    4.0,
+                    10.0
+                  ],
+                  "uv_size": [
+                    2.0,
+                    1.0
+                  ],
+                  "material_instance": "1"
+                },
+                "up": {
+                  "uv": [
+                    2.0,
+                    8.0
+                  ],
+                  "uv_size": [
+                    2.0,
+                    2.0
+                  ],
+                  "material_instance": "1"
+                },
+                "down": {
+                  "uv": [
+                    4.0,
+                    10.0
+                  ],
+                  "uv_size": [
+                    2.0,
+                    -2.0
+                  ],
+                  "material_instance": "1"
+                }
+              }
+            }
+          ],
+          "name": "bone_2",
+          "pivot": [
+            8.0,
+            0.0,
+            -8.0
+          ]
+        },
+        {
+          "cubes": [
+            {
+              "origin": [
+                -2.5173197,
+                9.0,
+                1.3874502
+              ],
+              "pivot": [
+                -2.0173197,
+                9.5,
+                1.8874502
+              ],
+              "rotation": [
+                0.0,
+                32.5,
+                0.0
+              ],
+              "size": [
+                1.0,
+                1.0,
+                1.0
+              ],
+              "uv": {
+                "north": {
+                  "uv": [
+                    1.0,
+                    7.0
+                  ],
+                  "uv_size": [
+                    1.0,
+                    1.0
+                  ],
+                  "material_instance": "1"
+                },
+                "south": {
+                  "uv": [
+                    3.0,
+                    7.0
+                  ],
+                  "uv_size": [
+                    1.0,
+                    1.0
+                  ],
+                  "material_instance": "1"
+                },
+                "east": {
+                  "uv": [
+                    0.0,
+                    7.0
+                  ],
+                  "uv_size": [
+                    1.0,
+                    1.0
+                  ],
+                  "material_instance": "1"
+                },
+                "west": {
+                  "uv": [
+                    2.0,
+                    7.0
+                  ],
+                  "uv_size": [
+                    1.0,
+                    1.0
+                  ],
+                  "material_instance": "1"
+                },
+                "up": {
+                  "uv": [
+                    1.0,
+                    6.0
+                  ],
+                  "uv_size": [
+                    1.0,
+                    1.0
+                  ],
+                  "material_instance": "1"
+                },
+                "down": {
+                  "uv": [
+                    2.0,
+                    7.0
+                  ],
+                  "uv_size": [
+                    1.0,
+                    -1.0
+                  ],
+                  "material_instance": "1"
+                }
+              }
+            }
+          ],
+          "name": "bone_3",
+          "pivot": [
+            8.0,
+            0.0,
+            -8.0
+          ]
+        },
+        {
+          "cubes": [
+            {
+              "origin": [
+                -1.4070597,
+                9.0,
+                0.15802956
+              ],
+              "pivot": [
+                -0.90705967,
+                9.5,
+                0.65802956
+              ],
+              "rotation": [
+                0.0,
+                -20.0,
+                0.0
+              ],
+              "size": [
+                1.0,
+                1.0,
+                1.0
+              ],
+              "uv": {
+                "north": {
+                  "uv": [
+                    1.0,
+                    7.0
+                  ],
+                  "uv_size": [
+                    1.0,
+                    1.0
+                  ],
+                  "material_instance": "1"
+                },
+                "south": {
+                  "uv": [
+                    3.0,
+                    7.0
+                  ],
+                  "uv_size": [
+                    1.0,
+                    1.0
+                  ],
+                  "material_instance": "1"
+                },
+                "east": {
+                  "uv": [
+                    0.0,
+                    7.0
+                  ],
+                  "uv_size": [
+                    1.0,
+                    1.0
+                  ],
+                  "material_instance": "1"
+                },
+                "west": {
+                  "uv": [
+                    2.0,
+                    7.0
+                  ],
+                  "uv_size": [
+                    1.0,
+                    1.0
+                  ],
+                  "material_instance": "1"
+                },
+                "up": {
+                  "uv": [
+                    1.0,
+                    6.0
+                  ],
+                  "uv_size": [
+                    1.0,
+                    1.0
+                  ],
+                  "material_instance": "1"
+                },
+                "down": {
+                  "uv": [
+                    2.0,
+                    7.0
+                  ],
+                  "uv_size": [
+                    1.0,
+                    -1.0
+                  ],
+                  "material_instance": "1"
+                }
+              }
+            }
+          ],
+          "name": "bone_4",
+          "pivot": [
+            8.0,
+            0.0,
+            -8.0
+          ]
+        },
+        {
+          "cubes": [
+            {
+              "origin": [
+                -3.0,
+                7.0,
+                -3.0
+              ],
+              "pivot": [
+                0.0,
+                7.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                -0.0,
+                0.0
+              ],
+              "size": [
+                6.0,
+                1.0,
+                6.0
+              ],
+              "uv": {
+                "north": {
+                  "uv": [
+                    3.0,
+                    3.0
+                  ],
+                  "uv_size": [
+                    3.0,
+                    0.5
+                  ],
+                  "material_instance": "0"
+                },
+                "south": {
+                  "uv": [
+                    9.0,
+                    3.0
+                  ],
+                  "uv_size": [
+                    3.0,
+                    0.5
+                  ],
+                  "material_instance": "0"
+                },
+                "east": {
+                  "uv": [
+                    0.0,
+                    3.0
+                  ],
+                  "uv_size": [
+                    3.0,
+                    0.5
+                  ],
+                  "material_instance": "0"
+                },
+                "west": {
+                  "uv": [
+                    6.0,
+                    3.0
+                  ],
+                  "uv_size": [
+                    3.0,
+                    0.5
+                  ],
+                  "material_instance": "0"
+                },
+                "up": {
+                  "uv": [
+                    3.0,
+                    0.0
+                  ],
+                  "uv_size": [
+                    3.0,
+                    3.0
+                  ],
+                  "material_instance": "0"
+                },
+                "down": {
+                  "uv": [
+                    6.0,
+                    3.0
+                  ],
+                  "uv_size": [
+                    3.0,
+                    -3.0
+                  ],
+                  "material_instance": "0"
+                }
+              }
+            }
+          ],
+          "name": "bone_5",
+          "pivot": [
+            8.0,
+            0.0,
+            -8.0
+          ]
+        },
+        {
+          "cubes": [
+            {
+              "origin": [
+                -3.0,
+                7.0,
+                -4.0
+              ],
+              "pivot": [
+                0.0,
+                7.0,
+                -3.0
+              ],
+              "rotation": [
+                0.0,
+                -0.0,
+                0.0
+              ],
+              "size": [
+                6.0,
+                3.0,
+                1.0
+              ],
+              "uv": {
+                "north": {
+                  "uv": [
+                    0.5,
+                    4.0
+                  ],
+                  "uv_size": [
+                    3.0,
+                    1.5
+                  ],
+                  "material_instance": "0"
+                },
+                "south": {
+                  "uv": [
+                    4.0,
+                    4.0
+                  ],
+                  "uv_size": [
+                    3.0,
+                    1.5
+                  ],
+                  "material_instance": "0"
+                },
+                "east": {
+                  "uv": [
+                    0.0,
+                    4.0
+                  ],
+                  "uv_size": [
+                    0.5,
+                    1.5
+                  ],
+                  "material_instance": "0"
+                },
+                "west": {
+                  "uv": [
+                    3.5,
+                    4.0
+                  ],
+                  "uv_size": [
+                    0.5,
+                    1.5
+                  ],
+                  "material_instance": "0"
+                },
+                "up": {
+                  "uv": [
+                    0.5,
+                    3.5
+                  ],
+                  "uv_size": [
+                    3.0,
+                    0.5
+                  ],
+                  "material_instance": "0"
+                },
+                "down": {
+                  "uv": [
+                    3.5,
+                    4.0
+                  ],
+                  "uv_size": [
+                    3.0,
+                    -0.5
+                  ],
+                  "material_instance": "0"
+                }
+              }
+            }
+          ],
+          "name": "bone_6",
+          "pivot": [
+            8.0,
+            0.0,
+            -8.0
+          ]
+        },
+        {
+          "cubes": [
+            {
+              "origin": [
+                -3.0,
+                7.0,
+                3.0
+              ],
+              "pivot": [
+                0.0,
+                7.0,
+                3.0
+              ],
+              "rotation": [
+                0.0,
+                -0.0,
+                0.0
+              ],
+              "size": [
+                6.0,
+                3.0,
+                1.0
+              ],
+              "uv": {
+                "north": {
+                  "uv": [
+                    4.0,
+                    4.0
+                  ],
+                  "uv_size": [
+                    3.0,
+                    1.5
+                  ],
+                  "material_instance": "0"
+                },
+                "south": {
+                  "uv": [
+                    0.5,
+                    4.0
+                  ],
+                  "uv_size": [
+                    3.0,
+                    1.5
+                  ],
+                  "material_instance": "0"
+                },
+                "east": {
+                  "uv": [
+                    3.5,
+                    4.0
+                  ],
+                  "uv_size": [
+                    0.5,
+                    1.5
+                  ],
+                  "material_instance": "0"
+                },
+                "west": {
+                  "uv": [
+                    0.0,
+                    4.0
+                  ],
+                  "uv_size": [
+                    0.5,
+                    1.5
+                  ],
+                  "material_instance": "0"
+                },
+                "up": {
+                  "uv": [
+                    3.5,
+                    3.5
+                  ],
+                  "uv_size": [
+                    -3.0,
+                    0.5
+                  ],
+                  "material_instance": "0"
+                },
+                "down": {
+                  "uv": [
+                    6.5,
+                    4.0
+                  ],
+                  "uv_size": [
+                    -3.0,
+                    -0.5
+                  ],
+                  "material_instance": "0"
+                }
+              }
+            }
+          ],
+          "name": "bone_7",
+          "pivot": [
+            8.0,
+            0.0,
+            -8.0
+          ]
+        },
+        {
+          "cubes": [
+            {
+              "origin": [
+                -6.0,
+                7.0,
+                -1.0
+              ],
+              "pivot": [
+                -3.0,
+                7.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                90.0,
+                0.0
+              ],
+              "size": [
+                6.0,
+                3.0,
+                1.0
+              ],
+              "uv": {
+                "north": {
+                  "uv": [
+                    0.5,
+                    4.0
+                  ],
+                  "uv_size": [
+                    3.0,
+                    1.5
+                  ],
+                  "material_instance": "0"
+                },
+                "south": {
+                  "uv": [
+                    4.0,
+                    4.0
+                  ],
+                  "uv_size": [
+                    3.0,
+                    1.5
+                  ],
+                  "material_instance": "0"
+                },
+                "east": {
+                  "uv": [
+                    0.0,
+                    4.0
+                  ],
+                  "uv_size": [
+                    0.5,
+                    1.5
+                  ],
+                  "material_instance": "0"
+                },
+                "west": {
+                  "uv": [
+                    3.5,
+                    4.0
+                  ],
+                  "uv_size": [
+                    0.5,
+                    1.5
+                  ],
+                  "material_instance": "0"
+                },
+                "up": {
+                  "uv": [
+                    0.5,
+                    3.5
+                  ],
+                  "uv_size": [
+                    3.0,
+                    0.5
+                  ],
+                  "material_instance": "0"
+                },
+                "down": {
+                  "uv": [
+                    3.5,
+                    4.0
+                  ],
+                  "uv_size": [
+                    3.0,
+                    -0.5
+                  ],
+                  "material_instance": "0"
+                }
+              }
+            }
+          ],
+          "name": "bone_8",
+          "pivot": [
+            8.0,
+            0.0,
+            -8.0
+          ]
+        },
+        {
+          "cubes": [
+            {
+              "origin": [
+                0.0,
+                7.0,
+                0.0
+              ],
+              "pivot": [
+                3.0,
+                7.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                90.0,
+                0.0
+              ],
+              "size": [
+                6.0,
+                3.0,
+                1.0
+              ],
+              "uv": {
+                "north": {
+                  "uv": [
+                    4.0,
+                    4.0
+                  ],
+                  "uv_size": [
+                    3.0,
+                    1.5
+                  ],
+                  "material_instance": "0"
+                },
+                "south": {
+                  "uv": [
+                    0.5,
+                    4.0
+                  ],
+                  "uv_size": [
+                    3.0,
+                    1.5
+                  ],
+                  "material_instance": "0"
+                },
+                "east": {
+                  "uv": [
+                    3.5,
+                    4.0
+                  ],
+                  "uv_size": [
+                    0.5,
+                    1.5
+                  ],
+                  "material_instance": "0"
+                },
+                "west": {
+                  "uv": [
+                    0.0,
+                    4.0
+                  ],
+                  "uv_size": [
+                    0.5,
+                    1.5
+                  ],
+                  "material_instance": "0"
+                },
+                "up": {
+                  "uv": [
+                    3.5,
+                    3.5
+                  ],
+                  "uv_size": [
+                    -3.0,
+                    0.5
+                  ],
+                  "material_instance": "0"
+                },
+                "down": {
+                  "uv": [
+                    6.5,
+                    4.0
+                  ],
+                  "uv_size": [
+                    -3.0,
+                    -0.5
+                  ],
+                  "material_instance": "0"
+                }
+              }
+            }
+          ],
+          "name": "bone_9",
+          "pivot": [
+            8.0,
+            0.0,
+            -8.0
+          ]
+        }
+      ]
+    }
+  ]
+}

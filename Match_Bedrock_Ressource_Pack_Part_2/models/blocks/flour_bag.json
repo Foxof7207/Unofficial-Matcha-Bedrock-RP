@@ -1,0 +1,121 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:geometry": [
+    {
+      "description": {
+        "identifier": "geometry.matcha.flour_bag",
+        "texture_width": 16.0,
+        "texture_height": 16.0,
+        "visible_bounds_offset": [
+          0.0,
+          0.25,
+          0.0
+        ],
+        "visible_bounds_width": 2.0,
+        "visible_bounds_height": 2.0
+      },
+      "bones": [
+        {
+          "cubes": [
+            {
+              "origin": [
+                -2.5,
+                7.0,
+                -1.5
+              ],
+              "pivot": [
+                0.0,
+                7.0,
+                0.0
+              ],
+              "rotation": [
+                0.0,
+                -0.0,
+                0.0
+              ],
+              "size": [
+                5.0,
+                7.0,
+                3.0
+              ],
+              "uv": {
+                "north": {
+                  "uv": [
+                    3.0,
+                    3.0
+                  ],
+                  "uv_size": [
+                    5.0,
+                    7.0
+                  ],
+                  "material_instance": "0"
+                },
+                "south": {
+                  "uv": [
+                    8.0,
+                    3.0
+                  ],
+                  "uv_size": [
+                    5.0,
+                    7.0
+                  ],
+                  "material_instance": "0"
+                },
+                "east": {
+                  "uv": [
+                    0.0,
+                    3.0
+                  ],
+                  "uv_size": [
+                    3.0,
+                    7.0
+                  ],
+                  "material_instance": "0"
+                },
+                "west": {
+                  "uv": [
+                    0.0,
+                    3.0
+                  ],
+                  "uv_size": [
+                    3.0,
+                    7.0
+                  ],
+                  "material_instance": "0"
+                },
+                "up": {
+                  "uv": [
+                    3.0,
+                    0.0
+                  ],
+                  "uv_size": [
+                    5.0,
+                    3.0
+                  ],
+                  "material_instance": "0"
+                },
+                "down": {
+                  "uv": [
+                    8.0,
+                    3.0
+                  ],
+                  "uv_size": [
+                    5.0,
+                    -3.0
+                  ],
+                  "material_instance": "0"
+                }
+              }
+            }
+          ],
+          "name": "bone_0",
+          "pivot": [
+            8.0,
+            0.0,
+            -8.0
+          ]
+        }
+      ]
+    }
+  ]
+}
