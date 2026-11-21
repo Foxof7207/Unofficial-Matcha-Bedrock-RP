@@ -7,7 +7,7 @@
     "version": [
       79,
       259,
-      285
+      289
     ],
     "min_engine_version": [
       1,
@@ -24,13 +24,13 @@
       "version": [
         79,
         259,
-        285
+        289
       ]
     }
   ],
   "metadata": {
     "authors": [
-      "ResourcePackManager"
+      "Foxof7207"
     ],
     "generated_with": {
       "ResourcePackManager": [

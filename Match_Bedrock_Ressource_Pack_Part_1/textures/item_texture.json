@@ -1969,6 +1969,90 @@
     },
     "oe31496e": {
       "textures": "textures/items/k66d7f28"
+    },
+    "qdd39a35": {
+      "textures": "textures/items/qdd39a35"
+    },
+    "q8fc5ccf": {
+      "textures": "textures/items/q8fc5ccf"
+    },
+    "qa5f0482": {
+      "textures": "textures/items/qa5f0482"
+    },
+    "q50dd165": {
+      "textures": "textures/items/q50dd165"
+    },
+    "q651c9c8": {
+      "textures": "textures/items/q651c9c8"
+    },
+    "v537ab3b": {
+      "textures": "textures/items/v537ab3b"
+    },
+    "v788ba2c": {
+      "textures": "textures/items/v788ba2c"
+    },
+    "vafbf048": {
+      "textures": "textures/items/vafbf048"
+    },
+    "v374403d": {
+      "textures": "textures/items/v374403d"
+    },
+    "v952bbb0": {
+      "textures": "textures/items/v952bbb0"
+    },
+    "v3e61fe8": {
+      "textures": "textures/items/v3e61fe8"
+    },
+    "v57dd792": {
+      "textures": "textures/items/v57dd792"
+    },
+    "v96221a9": {
+      "textures": "textures/items/v96221a9"
+    },
+    "v14aff43": {
+      "textures": "textures/items/v14aff43"
+    },
+    "v392dbea": {
+      "textures": "textures/items/v392dbea"
+    },
+    "vbb164d5": {
+      "textures": "textures/items/vbb164d5"
+    },
+    "vb91d862": {
+      "textures": "textures/items/vb91d862"
+    },
+    "v5a7be97": {
+      "textures": "textures/items/v5a7be97"
+    },
+    "v7b41c90": {
+      "textures": "textures/items/v7b41c90"
+    },
+    "v4cb8508": {
+      "textures": "textures/items/v4cb8508"
+    },
+    "v134e070": {
+      "textures": "textures/items/v134e070"
+    },
+    "vc1a0c44": {
+      "textures": "textures/items/vc1a0c44"
+    },
+    "vcf4c89c": {
+      "textures": "textures/items/vcf4c89c"
+    },
+    "vea162ed": {
+      "textures": "textures/items/vea162ed"
+    },
+    "v499293a": {
+      "textures": "textures/items/v499293a"
+    },
+    "vda13e7d": {
+      "textures": "textures/items/vda13e7d"
+    },
+    "vd5bd6b9": {
+      "textures": "textures/items/vd5bd6b9"
+    },
+    "vc187ec6": {
+      "textures": "textures/items/vc187ec6"
     }
   }
 }

@@ -2,6 +2,7 @@
 
 An unofficial, **incomplete** Bedrock resource pack for use with a Minecraft server running GeyserMC. It includes resource-pack files and a custom mappings file.
 
+
 ## Requirements
 
 - A Minecraft server with [GeyserMC](https://geysermc.org/wiki/geyser/setup) installed

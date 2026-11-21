@@ -5,6 +5,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:h85d7f83",
+        "display_name": "Saltwater Cold",
         "bedrock_options": {
           "icon": "l4787102"
         },
@@ -15,6 +16,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:l4e8a184",
+        "display_name": "Fish Bones",
         "bedrock_options": {
           "icon": "o9c26cca"
         },
@@ -25,6 +27,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:bb37d531",
+        "display_name": "The Avesta",
         "bedrock_options": {
           "icon": "n23c9a82"
         },
@@ -33,6 +36,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c90dc2fe",
+        "display_name": "The Tanakh",
         "bedrock_options": {
           "icon": "e9e997a3"
         },
@@ -41,6 +45,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:d8d9d73c",
+        "display_name": "The Book of Enoch",
         "bedrock_options": {
           "icon": "e129e21a"
         },
@@ -49,6 +54,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:h0e8164e",
+        "display_name": "The Divine Comedy",
         "bedrock_options": {
           "icon": "bc3fcb45"
         },
@@ -57,6 +63,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:he1fa2b7",
+        "display_name": "The Lesser Key of Solomon",
         "bedrock_options": {
           "icon": "c5c7c692"
         },
@@ -65,6 +72,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:j2756d29",
+        "display_name": "The Quran",
         "bedrock_options": {
           "icon": "d1573033"
         },
@@ -73,6 +81,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:l132c4d5",
+        "display_name": "Angler's Almanac",
         "bedrock_options": {
           "icon": "dbbb9533"
         },
@@ -81,6 +90,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:o0a2f262",
+        "display_name": "Paradise Lost",
         "bedrock_options": {
           "icon": "d09ba848"
         },
@@ -91,6 +101,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:e8eb4ad7",
+        "display_name": "Compound Bow",
         "bedrock_options": {
           "icon": "n98a2477"
         },
@@ -101,6 +112,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:g71f4639",
+        "display_name": "Saltwater Warm",
         "bedrock_options": {
           "icon": "ndf6edd8"
         },
@@ -111,6 +123,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f0c0cd6d",
+        "display_name": "Naan",
         "bedrock_options": {
           "icon": "e0826478"
         },
@@ -121,6 +134,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a2efb3d6",
+        "display_name": "Archeologist's Brush",
         "bedrock_options": {
           "icon": "p8be7e29"
         },
@@ -131,6 +145,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a23b00d4",
+        "display_name": "Seed Bundle",
         "bedrock_options": {
           "icon": "cf0c5d87"
         },
@@ -139,6 +154,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f09208be",
+        "display_name": "Floral Bundle",
         "bedrock_options": {
           "icon": "le36d914"
         },
@@ -147,6 +163,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:he77a97c",
+        "display_name": "Exotic Seed Bundle",
         "bedrock_options": {
           "icon": "cfef3662"
         },
@@ -155,6 +172,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:lc9b23aa",
+        "display_name": "Mushy Bundle",
         "bedrock_options": {
           "icon": "d39fec2a"
         },
@@ -165,6 +183,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:e6bbcf0e",
+        "display_name": "Freshwater Hot Dry",
         "bedrock_options": {
           "icon": "fb938731"
         },
@@ -175,6 +194,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:bbf3073c",
+        "display_name": "Chainmail Boots",
         "predicate": [
           {
             "type": "match",
@@ -193,6 +213,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ee0e6c42",
+        "display_name": "Chainmail Boots",
         "predicate": [
           {
             "type": "match",
@@ -211,6 +232,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ia30c09f",
+        "display_name": "Chainmail Boots",
         "predicate": [
           {
             "type": "match",
@@ -231,6 +253,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:d69a8339",
+        "display_name": "Chainmail Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -249,6 +272,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ia055e8d",
+        "display_name": "Chainmail Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -267,6 +291,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:kd860d48",
+        "display_name": "Chainmail Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -287,6 +312,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:gb21b10c",
+        "display_name": "Chainmail Helmet",
         "predicate": [
           {
             "type": "match",
@@ -305,6 +331,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:l08962b3",
+        "display_name": "Chainmail Helmet",
         "predicate": [
           {
             "type": "match",
@@ -323,6 +350,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:nd6b6fdb",
+        "display_name": "Chainmail Helmet",
         "predicate": [
           {
             "type": "match",
@@ -343,6 +371,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:cb34926b",
+        "display_name": "Chainmail Leggings",
         "predicate": [
           {
             "type": "match",
@@ -361,6 +390,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ga98b416",
+        "display_name": "Chainmail Leggings",
         "predicate": [
           {
             "type": "match",
@@ -379,6 +409,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:l8072652",
+        "display_name": "Chainmail Leggings",
         "predicate": [
           {
             "type": "match",
@@ -399,6 +430,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a2e03274",
+        "display_name": "Beacon Kindling",
         "bedrock_options": {
           "icon": "m8c95572"
         },
@@ -407,6 +439,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ne9771bf",
+        "display_name": "Axolotl",
         "bedrock_options": {
           "icon": "a53638d6"
         },
@@ -415,16 +448,36 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:oc8da0ef",
+        "display_name": "Baby Bobwhite",
         "bedrock_options": {
           "icon": "o07bdaa3"
         },
         "model": "matcha:bobwhite_spawn_egg"
+      },
+      {
+        "type": "definition",
+        "bedrock_identifier": "r:q441acdc",
+        "display_name": "Bedrock Buster",
+        "bedrock_options": {
+          "icon": "qdd39a35"
+        },
+        "model": "matcha:bedrock_buster"
+      },
+      {
+        "type": "definition",
+        "bedrock_identifier": "r:q693c948",
+        "display_name": "Warding Stone",
+        "bedrock_options": {
+          "icon": "q651c9c8"
+        },
+        "model": "matcha:warding_stone"
       }
     ],
     "minecraft:cod": [
       {
         "type": "definition",
         "bedrock_identifier": "r:a088624c",
+        "display_name": "Bluegill",
         "bedrock_options": {
           "icon": "m6ad49eb"
         },
@@ -433,6 +486,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a8157bd3",
+        "display_name": "Creaking Fish",
         "bedrock_options": {
           "icon": "ibb78aad"
         },
@@ -441,6 +495,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b6a9eac1",
+        "display_name": "Lamprey",
         "bedrock_options": {
           "icon": "c201f063"
         },
@@ -449,6 +504,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:bf98c568",
+        "display_name": "Humpback Whitefish",
         "bedrock_options": {
           "icon": "k7f7a663"
         },
@@ -457,6 +513,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:dfae7c41",
+        "display_name": "Guppy",
         "bedrock_options": {
           "icon": "mf5ee2c3"
         },
@@ -465,6 +522,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f39d5969",
+        "display_name": "Mediterranean Killifish",
         "bedrock_options": {
           "icon": "c4156782"
         },
@@ -473,6 +531,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f9fdf82e",
+        "display_name": "Echo Eel",
         "bedrock_options": {
           "icon": "n40fa2ab"
         },
@@ -481,6 +540,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:gfcc4f5c",
+        "display_name": "Bujurqui",
         "bedrock_options": {
           "icon": "ibcb12d3"
         },
@@ -489,6 +549,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:h9238128",
+        "display_name": "Piranha",
         "bedrock_options": {
           "icon": "e52170d9"
         },
@@ -497,6 +558,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:i009ee5c",
+        "display_name": "Herring",
         "bedrock_options": {
           "icon": "pb4fe9fb"
         },
@@ -505,6 +567,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:j74dfc08",
+        "display_name": "Anchovy",
         "bedrock_options": {
           "icon": "l17662df"
         },
@@ -513,6 +576,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:j8fb45bd",
+        "display_name": "Gurnard",
         "bedrock_options": {
           "icon": "d585d522"
         },
@@ -521,6 +585,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:k4eb9ace",
+        "display_name": "Shad",
         "bedrock_options": {
           "icon": "aab35772"
         },
@@ -529,6 +594,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:lbb48bd8",
+        "display_name": "Spoonhead Sculpin",
         "bedrock_options": {
           "icon": "le421613"
         },
@@ -537,6 +603,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ld2f7e52",
+        "display_name": "Walleye",
         "bedrock_options": {
           "icon": "h21e710d"
         },
@@ -545,6 +612,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:n6af2d79",
+        "display_name": "Crappie",
         "bedrock_options": {
           "icon": "b743bb89"
         },
@@ -553,6 +621,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:nc31db25",
+        "display_name": "Striped Perch",
         "bedrock_options": {
           "icon": "p4b7b3fd"
         },
@@ -561,6 +630,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ne7a5c15",
+        "display_name": "Rainbow Wrasse",
         "bedrock_options": {
           "icon": "oe516cda"
         },
@@ -569,6 +639,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:o53b062c",
+        "display_name": "Flying Fish",
         "bedrock_options": {
           "icon": "a1dd9205"
         },
@@ -577,6 +648,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:p4021ee1",
+        "display_name": "Alaska Blackfish",
         "bedrock_options": {
           "icon": "p932e50d"
         },
@@ -587,6 +659,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ba851abd",
+        "display_name": "Small Egg",
         "bedrock_options": {
           "icon": "j962ee0f"
         },
@@ -595,6 +668,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:d0376ac9",
+        "display_name": "Chocolate",
         "bedrock_options": {
           "icon": "g7e8921a"
         },
@@ -603,6 +677,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:da64d91a",
+        "display_name": "Pale Garden",
         "bedrock_options": {
           "icon": "d2022be1"
         },
@@ -611,6 +686,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:e8283527",
+        "display_name": "Brown Feather",
         "bedrock_options": {
           "icon": "g7105177"
         },
@@ -619,6 +695,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:e83f4955",
+        "display_name": "Shipwreck Map",
         "bedrock_options": {
           "icon": "j864d71a"
         },
@@ -627,6 +704,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:g30661fe",
+        "display_name": "Abbey Map",
         "bedrock_options": {
           "icon": "b73d6623"
         },
@@ -635,6 +713,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:g68e546c",
+        "display_name": "Braised Brown Mushroom",
         "bedrock_options": {
           "icon": "k4a3b2fa"
         },
@@ -643,6 +722,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:m7a116da",
+        "display_name": "Papal Outpost Map",
         "bedrock_options": {
           "icon": "h76cfb3b"
         },
@@ -651,6 +731,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:m96965bf",
+        "display_name": "Sweet Berry Mash",
         "bedrock_options": {
           "icon": "b4913f3b"
         },
@@ -659,6 +740,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:mbe83f0a",
+        "display_name": "Trail Ruins Map",
         "bedrock_options": {
           "icon": "f9379f62"
         },
@@ -667,6 +749,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:n0b1fbde",
+        "display_name": "Green Egg",
         "bedrock_options": {
           "icon": "fb5190ff"
         },
@@ -675,6 +758,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ne235807",
+        "display_name": "Music Disc Dry Hands",
         "bedrock_options": {
           "icon": "naef9714"
         },
@@ -683,16 +767,48 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ob46413a",
+        "display_name": "Glow Mash",
         "bedrock_options": {
           "icon": "b97ef2d2"
         },
         "model": "matcha:glow_mash"
+      },
+      {
+        "type": "definition",
+        "bedrock_identifier": "r:q4595345",
+        "display_name": "Copper Compass",
+        "bedrock_options": {
+          "icon": "q8fc5ccf",
+          "display_handheld": false
+        },
+        "model": "matcha:copper_compass"
+      },
+      {
+        "type": "definition",
+        "bedrock_identifier": "r:qfc400a9",
+        "display_name": "Golden Compass",
+        "bedrock_options": {
+          "icon": "qa5f0482",
+          "display_handheld": false
+        },
+        "model": "matcha:golden_compass"
+      },
+      {
+        "type": "definition",
+        "bedrock_identifier": "r:q9ff2feb",
+        "display_name": "Titanium Compass",
+        "bedrock_options": {
+          "icon": "q50dd165",
+          "display_handheld": false
+        },
+        "model": "matcha:titanium_compass"
       }
     ],
     "minecraft:cooked_cod": [
       {
         "type": "definition",
         "bedrock_identifier": "r:ccfa3ded",
+        "display_name": "Cooked Pufferfish",
         "bedrock_options": {
           "icon": "bff63fc1"
         },
@@ -703,6 +819,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:p6f9d576",
+        "display_name": "Copper Dolabra",
         "bedrock_options": {
           "icon": "ef8ca996",
           "display_handheld": true
@@ -714,6 +831,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b4404190",
+        "display_name": "Shakudo Boots",
         "bedrock_options": {
           "icon": "e2df2857"
         },
@@ -722,6 +840,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:o14d8eb3",
+        "display_name": "Hepatizon Boots",
         "bedrock_options": {
           "icon": "l8f89250"
         },
@@ -730,6 +849,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ab24ae88",
+        "display_name": "Shakudo Boots",
         "predicate": [
           {
             "type": "match",
@@ -745,6 +865,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:abb4c947",
+        "display_name": "Shakudo Boots",
         "predicate": [
           {
             "type": "match",
@@ -760,6 +881,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c6acdf0a",
+        "display_name": "Copper Boots",
         "predicate": [
           {
             "type": "match",
@@ -775,6 +897,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c9273596",
+        "display_name": "Shakudo Boots",
         "predicate": [
           {
             "type": "match",
@@ -790,6 +913,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:cf971f5d",
+        "display_name": "Shakudo Boots",
         "predicate": [
           {
             "type": "match",
@@ -805,6 +929,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:h1eae9c7",
+        "display_name": "Shakudo Boots",
         "predicate": [
           {
             "type": "match",
@@ -820,6 +945,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:h9033636",
+        "display_name": "Shakudo Boots",
         "predicate": [
           {
             "type": "match",
@@ -835,6 +961,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:i5499f2e",
+        "display_name": "Shakudo Boots",
         "predicate": [
           {
             "type": "match",
@@ -850,6 +977,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:k364f70a",
+        "display_name": "Shakudo Boots",
         "predicate": [
           {
             "type": "match",
@@ -865,6 +993,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:l2153d1c",
+        "display_name": "Shakudo Boots",
         "predicate": [
           {
             "type": "match",
@@ -880,6 +1009,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:l29f24e4",
+        "display_name": "Copper Boots",
         "predicate": [
           {
             "type": "match",
@@ -895,6 +1025,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:l5ac970e",
+        "display_name": "Copper Boots",
         "predicate": [
           {
             "type": "match",
@@ -910,6 +1041,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:md86f3f1",
+        "display_name": "Shakudo Boots",
         "predicate": [
           {
             "type": "match",
@@ -925,6 +1057,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:med90d58",
+        "display_name": "Shakudo Boots",
         "predicate": [
           {
             "type": "match",
@@ -940,6 +1073,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:o41dbab0",
+        "display_name": "Shakudo Boots",
         "predicate": [
           {
             "type": "match",
@@ -955,6 +1089,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:oc1c2085",
+        "display_name": "Shakudo Boots",
         "predicate": [
           {
             "type": "match",
@@ -970,6 +1105,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:p31638a8",
+        "display_name": "Shakudo Boots",
         "predicate": [
           {
             "type": "match",
@@ -987,6 +1123,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:df2a34b0",
+        "display_name": "Shakudo Chestplate",
         "bedrock_options": {
           "icon": "l89263ce"
         },
@@ -995,6 +1132,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:jc414c1a",
+        "display_name": "Hepatizon Chestplate",
         "bedrock_options": {
           "icon": "a1f055a4"
         },
@@ -1003,6 +1141,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a1c714d8",
+        "display_name": "Shakudo Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -1018,6 +1157,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a7dd3f45",
+        "display_name": "Shakudo Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -1033,6 +1173,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b1183812",
+        "display_name": "Shakudo Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -1048,6 +1189,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c3c6daaf",
+        "display_name": "Shakudo Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -1063,6 +1205,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c4704703",
+        "display_name": "Shakudo Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -1078,6 +1221,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c612aeff",
+        "display_name": "Shakudo Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -1093,6 +1237,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:dab45d9a",
+        "display_name": "Copper Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -1108,6 +1253,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:e4a49c0e",
+        "display_name": "Copper Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -1123,6 +1269,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:e7186322",
+        "display_name": "Shakudo Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -1138,6 +1285,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:eab0bcc8",
+        "display_name": "Shakudo Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -1153,6 +1301,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ib8e1e70",
+        "display_name": "Copper Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -1168,6 +1317,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:jfa3b7ad",
+        "display_name": "Shakudo Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -1183,6 +1333,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:jfdd1a0f",
+        "display_name": "Shakudo Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -1198,6 +1349,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:kf5c345b",
+        "display_name": "Shakudo Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -1213,6 +1365,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:n83f6c93",
+        "display_name": "Shakudo Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -1228,6 +1381,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:o3f9ad90",
+        "display_name": "Shakudo Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -1243,6 +1397,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:oc49cc0f",
+        "display_name": "Shakudo Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -1260,6 +1415,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b7254558",
+        "display_name": "Shakudo Helmet",
         "bedrock_options": {
           "icon": "a17fdf9e"
         },
@@ -1268,6 +1424,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:jb77811b",
+        "display_name": "Hepatizon Helmet",
         "bedrock_options": {
           "icon": "pdf5a0ef"
         },
@@ -1276,6 +1433,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a2cdf9aa",
+        "display_name": "Shakudo Helmet",
         "predicate": [
           {
             "type": "match",
@@ -1291,6 +1449,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a6484cc2",
+        "display_name": "Shakudo Helmet",
         "predicate": [
           {
             "type": "match",
@@ -1306,6 +1465,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b760de0b",
+        "display_name": "Shakudo Helmet",
         "predicate": [
           {
             "type": "match",
@@ -1321,6 +1481,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c0d3adee",
+        "display_name": "Shakudo Helmet",
         "predicate": [
           {
             "type": "match",
@@ -1336,6 +1497,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c394afd3",
+        "display_name": "Shakudo Helmet",
         "predicate": [
           {
             "type": "match",
@@ -1351,6 +1513,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c49d95b1",
+        "display_name": "Copper Helmet",
         "predicate": [
           {
             "type": "match",
@@ -1366,6 +1529,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:cc8587ef",
+        "display_name": "Shakudo Helmet",
         "predicate": [
           {
             "type": "match",
@@ -1381,6 +1545,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:d5dd7884",
+        "display_name": "Copper Helmet",
         "predicate": [
           {
             "type": "match",
@@ -1396,6 +1561,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:e022fedb",
+        "display_name": "Shakudo Helmet",
         "predicate": [
           {
             "type": "match",
@@ -1411,6 +1577,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ed2ee660",
+        "display_name": "Shakudo Helmet",
         "predicate": [
           {
             "type": "match",
@@ -1426,6 +1593,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:g600d5cd",
+        "display_name": "Shakudo Helmet",
         "predicate": [
           {
             "type": "match",
@@ -1441,6 +1609,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:h46165eb",
+        "display_name": "Shakudo Helmet",
         "predicate": [
           {
             "type": "match",
@@ -1456,6 +1625,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:jd9e24a2",
+        "display_name": "Shakudo Helmet",
         "predicate": [
           {
             "type": "match",
@@ -1471,6 +1641,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:k2d81c5b",
+        "display_name": "Shakudo Helmet",
         "predicate": [
           {
             "type": "match",
@@ -1486,6 +1657,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:n6d9c5e4",
+        "display_name": "Shakudo Helmet",
         "predicate": [
           {
             "type": "match",
@@ -1501,6 +1673,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:o7fbc2d1",
+        "display_name": "Shakudo Helmet",
         "predicate": [
           {
             "type": "match",
@@ -1516,6 +1689,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:pec8139f",
+        "display_name": "Copper Helmet",
         "predicate": [
           {
             "type": "match",
@@ -1533,6 +1707,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ncaffd1d",
+        "display_name": "Copper Mattock",
         "bedrock_options": {
           "icon": "d84433d3",
           "display_handheld": true
@@ -1544,6 +1719,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ked56c3c",
+        "display_name": "Shakudo Leggings",
         "bedrock_options": {
           "icon": "f9c0caba"
         },
@@ -1552,6 +1728,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:pf13bb92",
+        "display_name": "Hepatizon Leggings",
         "bedrock_options": {
           "icon": "cde268e2"
         },
@@ -1560,6 +1737,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a187f56b",
+        "display_name": "Shakudo Leggings",
         "predicate": [
           {
             "type": "match",
@@ -1575,6 +1753,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a6b9ccb5",
+        "display_name": "Shakudo Leggings",
         "predicate": [
           {
             "type": "match",
@@ -1590,6 +1769,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b5a30447",
+        "display_name": "Shakudo Leggings",
         "predicate": [
           {
             "type": "match",
@@ -1605,6 +1785,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ba408f2f",
+        "display_name": "Copper Leggings",
         "predicate": [
           {
             "type": "match",
@@ -1620,6 +1801,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:be282f81",
+        "display_name": "Shakudo Leggings",
         "predicate": [
           {
             "type": "match",
@@ -1635,6 +1817,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:d32a8f80",
+        "display_name": "Shakudo Leggings",
         "predicate": [
           {
             "type": "match",
@@ -1650,6 +1833,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:d4f51caf",
+        "display_name": "Shakudo Leggings",
         "predicate": [
           {
             "type": "match",
@@ -1665,6 +1849,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:df437801",
+        "display_name": "Shakudo Leggings",
         "predicate": [
           {
             "type": "match",
@@ -1680,6 +1865,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f449b1ad",
+        "display_name": "Shakudo Leggings",
         "predicate": [
           {
             "type": "match",
@@ -1695,6 +1881,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f5142160",
+        "display_name": "Shakudo Leggings",
         "predicate": [
           {
             "type": "match",
@@ -1710,6 +1897,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:fb97e6ca",
+        "display_name": "Copper Leggings",
         "predicate": [
           {
             "type": "match",
@@ -1725,6 +1913,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:g820ee2f",
+        "display_name": "Shakudo Leggings",
         "predicate": [
           {
             "type": "match",
@@ -1740,6 +1929,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:kfeed09e",
+        "display_name": "Shakudo Leggings",
         "predicate": [
           {
             "type": "match",
@@ -1755,6 +1945,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:m1ee583b",
+        "display_name": "Shakudo Leggings",
         "predicate": [
           {
             "type": "match",
@@ -1770,6 +1961,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:nc8a14a4",
+        "display_name": "Shakudo Leggings",
         "predicate": [
           {
             "type": "match",
@@ -1785,6 +1977,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:o9241cab",
+        "display_name": "Copper Leggings",
         "predicate": [
           {
             "type": "match",
@@ -1800,6 +1993,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:oc21c458",
+        "display_name": "Shakudo Leggings",
         "predicate": [
           {
             "type": "match",
@@ -1817,6 +2011,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:n2f0f20e",
+        "display_name": "Highland Calf",
         "bedrock_options": {
           "icon": "p3eb861a"
         },
@@ -1825,6 +2020,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:nb88e4f9",
+        "display_name": "Sindhi Calf",
         "bedrock_options": {
           "icon": "h8775630"
         },
@@ -1833,6 +2029,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:oc4a5a82",
+        "display_name": "Calf",
         "bedrock_options": {
           "icon": "ob7881ea"
         },
@@ -1843,6 +2040,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:bdef2a6b",
+        "display_name": "Diamond Dolabra",
         "bedrock_options": {
           "icon": "hae08511",
           "display_handheld": true
@@ -1854,6 +2052,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:d85b8207",
+        "display_name": "Diamond Boots",
         "predicate": [
           {
             "type": "match",
@@ -1872,6 +2071,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:mfdadaa3",
+        "display_name": "Diamond Boots",
         "predicate": [
           {
             "type": "match",
@@ -1890,6 +2090,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:n46b7d99",
+        "display_name": "Diamond Boots",
         "predicate": [
           {
             "type": "match",
@@ -1910,6 +2111,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c78b8c2d",
+        "display_name": "Diamond Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -1928,6 +2130,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:id2c6119",
+        "display_name": "Diamond Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -1946,6 +2149,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:k8a4ba38",
+        "display_name": "Diamond Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -1966,6 +2170,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:abd80e51",
+        "display_name": "Diamond Helmet",
         "predicate": [
           {
             "type": "match",
@@ -1984,6 +2189,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:fa7668a1",
+        "display_name": "Diamond Helmet",
         "predicate": [
           {
             "type": "match",
@@ -2002,6 +2208,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:h857f465",
+        "display_name": "Diamond Helmet",
         "predicate": [
           {
             "type": "match",
@@ -2022,6 +2229,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f18543c2",
+        "display_name": "Diamond Mattock",
         "bedrock_options": {
           "icon": "b1c066d7",
           "display_handheld": true
@@ -2033,6 +2241,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:e496eadc",
+        "display_name": "Diamond Leggings",
         "predicate": [
           {
             "type": "match",
@@ -2051,6 +2260,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:g111a3a2",
+        "display_name": "Diamond Leggings",
         "predicate": [
           {
             "type": "match",
@@ -2069,6 +2279,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:n0481fca",
+        "display_name": "Diamond Leggings",
         "predicate": [
           {
             "type": "match",
@@ -2089,6 +2300,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a1ac6fa6",
+        "display_name": "Shipwreck Map",
         "bedrock_options": {
           "icon": "j864d71a"
         },
@@ -2097,6 +2309,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c915ef63",
+        "display_name": "Small Egg",
         "bedrock_options": {
           "icon": "j962ee0f"
         },
@@ -2105,6 +2318,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ccf47e4e",
+        "display_name": "Chocolate",
         "bedrock_options": {
           "icon": "g7e8921a"
         },
@@ -2113,6 +2327,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f7d744a3",
+        "display_name": "Abbey Map",
         "bedrock_options": {
           "icon": "b73d6623"
         },
@@ -2121,6 +2336,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f9188c0e",
+        "display_name": "Green Egg",
         "bedrock_options": {
           "icon": "fb5190ff"
         },
@@ -2129,6 +2345,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:g315f471",
+        "display_name": "Papal Outpost Map",
         "bedrock_options": {
           "icon": "h76cfb3b"
         },
@@ -2137,6 +2354,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:k4a9718c",
+        "display_name": "Pale Garden",
         "bedrock_options": {
           "icon": "d2022be1"
         },
@@ -2145,6 +2363,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:l435756c",
+        "display_name": "Music Disc Dry Hands",
         "bedrock_options": {
           "icon": "naef9714"
         },
@@ -2153,6 +2372,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:n30383b8",
+        "display_name": "Brown Feather",
         "bedrock_options": {
           "icon": "g7105177"
         },
@@ -2161,6 +2381,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:n7a4b594",
+        "display_name": "Sweet Berry Mash",
         "bedrock_options": {
           "icon": "b4913f3b"
         },
@@ -2169,6 +2390,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:p5d5c332",
+        "display_name": "Glow Mash",
         "bedrock_options": {
           "icon": "b97ef2d2"
         },
@@ -2177,6 +2399,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:pd1f764b",
+        "display_name": "Braised Brown Mushroom",
         "bedrock_options": {
           "icon": "k4a3b2fa"
         },
@@ -2185,6 +2408,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:pe4501e7",
+        "display_name": "Trail Ruins Map",
         "bedrock_options": {
           "icon": "f9379f62"
         },
@@ -2195,6 +2419,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:p3dc226d",
+        "display_name": "Freshwater Cool",
         "bedrock_options": {
           "icon": "a6b93b51"
         },
@@ -2205,6 +2430,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:hb9fefd4",
+        "display_name": "Shakudo Elytra",
         "predicate": [
           {
             "type": "condition",
@@ -2223,6 +2449,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:le58668b",
+        "display_name": "Hepatizon Elytra",
         "predicate": [
           {
             "type": "condition",
@@ -2241,6 +2468,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:nd9f238d",
+        "display_name": "Hepatizon Elytra",
         "predicate": [
           {
             "type": "condition",
@@ -2259,6 +2487,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:p0b67ea0",
+        "display_name": "Shakudo Elytra",
         "predicate": [
           {
             "type": "condition",
@@ -2279,6 +2508,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b1f05080",
+        "display_name": "Gay Fish",
         "bedrock_options": {
           "icon": "h2f0d599"
         },
@@ -2287,6 +2517,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b4bf12c9",
+        "display_name": "Clay Fetish",
         "bedrock_options": {
           "icon": "d88ac0da"
         },
@@ -2295,6 +2526,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:d963e708",
+        "display_name": "Carp",
         "bedrock_options": {
           "icon": "a709e62b"
         },
@@ -2303,6 +2535,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:dfdefc51",
+        "display_name": "Opal",
         "bedrock_options": {
           "icon": "d5910a39"
         },
@@ -2311,6 +2544,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ea85146c",
+        "display_name": "Amber",
         "bedrock_options": {
           "icon": "e86c8be7"
         },
@@ -2319,6 +2553,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f8585974",
+        "display_name": "Asylum Seeker",
         "bedrock_options": {
           "icon": "n57b1222"
         },
@@ -2327,6 +2562,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:h094b6af",
+        "display_name": "Blessing",
         "bedrock_options": {
           "icon": "l54e4dc0"
         },
@@ -2335,6 +2571,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:j9e0ad9a",
+        "display_name": "Heart",
         "bedrock_options": {
           "icon": "b8132c76"
         },
@@ -2343,6 +2580,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:l4999957",
+        "display_name": "Beacon Kindling",
         "bedrock_options": {
           "icon": "m8c95572"
         },
@@ -2351,6 +2589,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:o1cfb607",
+        "display_name": "Topaz",
         "bedrock_options": {
           "icon": "nefc9455"
         },
@@ -2359,6 +2598,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:oea5a57a",
+        "display_name": "Wooden Cross",
         "bedrock_options": {
           "icon": "keeee37a"
         },
@@ -2367,6 +2607,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:pda1a160",
+        "display_name": "Ruby",
         "bedrock_options": {
           "icon": "i2ba672c"
         },
@@ -2377,6 +2618,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:af22f959",
+        "display_name": "Blessing",
         "bedrock_options": {
           "icon": "k8573e50"
         },
@@ -2385,6 +2627,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c0b6a676",
+        "display_name": "Blessing",
         "bedrock_options": {
           "icon": "ee7ec766"
         },
@@ -2393,6 +2636,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:da17da81",
+        "display_name": "Blessing",
         "bedrock_options": {
           "icon": "bb8d26d5"
         },
@@ -2401,6 +2645,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:dfae7efd",
+        "display_name": "Blessing",
         "bedrock_options": {
           "icon": "l54e4dc0"
         },
@@ -2409,6 +2654,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:e066a4fa",
+        "display_name": "Blessing",
         "bedrock_options": {
           "icon": "l8e9ee91"
         },
@@ -2417,6 +2663,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:e9e9084c",
+        "display_name": "Blessing",
         "bedrock_options": {
           "icon": "o2c2426a"
         },
@@ -2425,6 +2672,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:eafade01",
+        "display_name": "Blessing",
         "bedrock_options": {
           "icon": "ea1241fb"
         },
@@ -2433,6 +2681,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f39c3484",
+        "display_name": "Blessing",
         "bedrock_options": {
           "icon": "nc8c7244"
         },
@@ -2441,6 +2690,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:fd80071d",
+        "display_name": "Ofuda",
         "bedrock_options": {
           "icon": "e13f9e51"
         },
@@ -2449,6 +2699,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:g6309622",
+        "display_name": "Blessing",
         "bedrock_options": {
           "icon": "iea6ea66"
         },
@@ -2457,6 +2708,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:gddcf661",
+        "display_name": "Blessing",
         "bedrock_options": {
           "icon": "h0a8ad22"
         },
@@ -2465,6 +2717,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:hfcabd51",
+        "display_name": "Blessing",
         "bedrock_options": {
           "icon": "l5fec595"
         },
@@ -2473,6 +2726,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:l104afe1",
+        "display_name": "Blessing",
         "bedrock_options": {
           "icon": "f2661632"
         },
@@ -2481,6 +2735,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:l4821a35",
+        "display_name": "Blessing",
         "bedrock_options": {
           "icon": "id455ce8"
         },
@@ -2489,6 +2744,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:l8a85184",
+        "display_name": "Blessing",
         "bedrock_options": {
           "icon": "c5fe0d46"
         },
@@ -2497,6 +2753,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:m25b1c31",
+        "display_name": "Blessing",
         "bedrock_options": {
           "icon": "dbc2c880"
         },
@@ -2505,6 +2762,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:m8634988",
+        "display_name": "Blessing",
         "bedrock_options": {
           "icon": "m0711bf9"
         },
@@ -2513,6 +2771,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:me0499d3",
+        "display_name": "Blessing",
         "bedrock_options": {
           "icon": "eb014573"
         },
@@ -2521,6 +2780,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:n54c7e88",
+        "display_name": "Blessing",
         "bedrock_options": {
           "icon": "pebe133e"
         },
@@ -2529,6 +2789,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:nf673dc2",
+        "display_name": "Blessing",
         "bedrock_options": {
           "icon": "ccd38f95"
         },
@@ -2537,6 +2798,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:o065df9e",
+        "display_name": "Blessing",
         "bedrock_options": {
           "icon": "f9362abd"
         },
@@ -2545,6 +2807,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:od2b4a9c",
+        "display_name": "Blessing",
         "bedrock_options": {
           "icon": "icdb2916"
         },
@@ -2553,6 +2816,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:pecb09d8",
+        "display_name": "Blessing",
         "bedrock_options": {
           "icon": "f15bed31"
         },
@@ -2561,6 +2825,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:pf124028",
+        "display_name": "Blessing",
         "bedrock_options": {
           "icon": "b3d3d7a1"
         },
@@ -2571,6 +2836,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:p846f310",
+        "display_name": "Saltwater Hot",
         "bedrock_options": {
           "icon": "gfbcbace"
         },
@@ -2581,6 +2847,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:e9409dc3",
+        "display_name": "Angler's Almanac",
         "bedrock_options": {
           "icon": "dbbb9533"
         },
@@ -2591,6 +2858,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:nc3b0d82",
+        "display_name": "Tinder",
         "bedrock_options": {
           "icon": "h68f1b8b"
         },
@@ -2601,6 +2869,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:e5bd0776",
+        "display_name": "Baked Golden Apple",
         "bedrock_options": {
           "icon": "mc468dd0"
         },
@@ -2609,6 +2878,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:j024958c",
+        "display_name": "Warding Sword",
         "bedrock_options": {
           "icon": "ff74568d",
           "display_handheld": true
@@ -2618,17 +2888,28 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:p4599f41",
+        "display_name": "Silver Sword",
         "bedrock_options": {
           "icon": "ede48dba",
           "display_handheld": true
         },
         "model": "matcha:silver_sword"
+      },
+      {
+        "type": "definition",
+        "bedrock_identifier": "r:vb69f753",
+        "display_name": "Baked Golden Apple",
+        "bedrock_options": {
+          "icon": "v57dd792"
+        },
+        "model": "minecraft:glistering_melon_slice"
       }
     ],
     "minecraft:goat_horn": [
       {
         "type": "definition",
         "bedrock_identifier": "r:g70b8e3c",
+        "display_name": "Clay Fetish",
         "bedrock_options": {
           "icon": "a4e78503"
         },
@@ -2637,6 +2918,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:lb4353fe",
+        "display_name": "Clay Fetish",
         "bedrock_options": {
           "icon": "d88ac0da"
         },
@@ -2647,6 +2929,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b6619361",
+        "display_name": "Golden Boots",
         "predicate": [
           {
             "type": "match",
@@ -2665,6 +2948,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:j2c92042",
+        "display_name": "Golden Boots",
         "predicate": [
           {
             "type": "match",
@@ -2683,6 +2967,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:pb1880c1",
+        "display_name": "Golden Boots",
         "predicate": [
           {
             "type": "match",
@@ -2703,6 +2988,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:o42c2955",
+        "display_name": "Golden Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -2721,6 +3007,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:p45755d6",
+        "display_name": "Golden Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -2739,6 +3026,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:p518f081",
+        "display_name": "Golden Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -2759,6 +3047,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:hafa74a5",
+        "display_name": "Golden Crown",
         "predicate": [
           {
             "type": "match",
@@ -2777,6 +3066,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:m169a743",
+        "display_name": "Golden Crown",
         "predicate": [
           {
             "type": "match",
@@ -2795,6 +3085,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:n82d6162",
+        "display_name": "Golden Crown",
         "predicate": [
           {
             "type": "match",
@@ -2815,6 +3106,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:aef74783",
+        "display_name": "Golden Leggings",
         "predicate": [
           {
             "type": "match",
@@ -2833,6 +3125,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:h8e43341",
+        "display_name": "Golden Leggings",
         "predicate": [
           {
             "type": "match",
@@ -2851,6 +3144,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:k093bd8f",
+        "display_name": "Golden Leggings",
         "predicate": [
           {
             "type": "match",
@@ -2871,6 +3165,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b83ab094",
+        "display_name": "Small Egg",
         "bedrock_options": {
           "icon": "j962ee0f"
         },
@@ -2879,6 +3174,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b9796ef7",
+        "display_name": "Glow Mash",
         "bedrock_options": {
           "icon": "b97ef2d2"
         },
@@ -2887,6 +3183,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:d02b6ad9",
+        "display_name": "Braised Brown Mushroom",
         "bedrock_options": {
           "icon": "k4a3b2fa"
         },
@@ -2895,6 +3192,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:d7226489",
+        "display_name": "Shipwreck Map",
         "bedrock_options": {
           "icon": "j864d71a"
         },
@@ -2903,6 +3201,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:df0e1a11",
+        "display_name": "Trail Ruins Map",
         "bedrock_options": {
           "icon": "f9379f62"
         },
@@ -2911,6 +3210,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:e1579865",
+        "display_name": "Papal Outpost Map",
         "bedrock_options": {
           "icon": "h76cfb3b"
         },
@@ -2919,6 +3219,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:i621a6d7",
+        "display_name": "Chocolate",
         "bedrock_options": {
           "icon": "g7e8921a"
         },
@@ -2927,6 +3228,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:i7ccbb66",
+        "display_name": "Brown Feather",
         "bedrock_options": {
           "icon": "g7105177"
         },
@@ -2935,6 +3237,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:jc747a67",
+        "display_name": "Pale Garden",
         "bedrock_options": {
           "icon": "d2022be1"
         },
@@ -2943,6 +3246,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:k671a220",
+        "display_name": "Music Disc Dry Hands",
         "bedrock_options": {
           "icon": "naef9714"
         },
@@ -2951,6 +3255,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:l5922eb4",
+        "display_name": "Green Egg",
         "bedrock_options": {
           "icon": "fb5190ff"
         },
@@ -2959,6 +3264,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:o129a6d8",
+        "display_name": "Abbey Map",
         "bedrock_options": {
           "icon": "b73d6623"
         },
@@ -2967,6 +3273,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:p4336609",
+        "display_name": "Sweet Berry Mash",
         "bedrock_options": {
           "icon": "b4913f3b"
         },
@@ -2977,6 +3284,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:m111fe1e",
+        "display_name": "Nopales",
         "bedrock_options": {
           "icon": "e34d93b3"
         },
@@ -2987,6 +3295,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:p5683516",
+        "display_name": "Tallow",
         "bedrock_options": {
           "icon": "i58159f6"
         },
@@ -2997,6 +3306,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:occa9fee",
+        "display_name": "Freshwater Cold",
         "bedrock_options": {
           "icon": "ga34bb33"
         },
@@ -3007,6 +3317,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:bebf56e6",
+        "display_name": "Iron Dolabra",
         "bedrock_options": {
           "icon": "kd72b0db",
           "display_handheld": true
@@ -3016,6 +3327,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:h67a6090",
+        "display_name": "Rusty Axe",
         "bedrock_options": {
           "icon": "c4979b6e",
           "display_handheld": true
@@ -3025,6 +3337,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:j5cb4388",
+        "display_name": "Hatchet",
         "bedrock_options": {
           "icon": "o2e6e007",
           "display_handheld": true
@@ -3036,6 +3349,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f7cea606",
+        "display_name": "Steel Boots",
         "bedrock_options": {
           "icon": "d6d0b11f",
           "tags": [
@@ -3047,6 +3361,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b7db95ec",
+        "display_name": "Steel Boots",
         "predicate": [
           {
             "type": "match",
@@ -3065,6 +3380,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b91b374f",
+        "display_name": "Steel Boots",
         "predicate": [
           {
             "type": "match",
@@ -3083,6 +3399,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c3e92cbb",
+        "display_name": "Steel Boots",
         "predicate": [
           {
             "type": "match",
@@ -3101,6 +3418,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c8ead5b4",
+        "display_name": "Steel Boots",
         "predicate": [
           {
             "type": "match",
@@ -3119,6 +3437,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ef573db6",
+        "display_name": "Steel Boots",
         "predicate": [
           {
             "type": "match",
@@ -3137,6 +3456,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f338da89",
+        "display_name": "Steel Boots",
         "predicate": [
           {
             "type": "match",
@@ -3155,6 +3475,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:fdd5befe",
+        "display_name": "Steel Boots",
         "predicate": [
           {
             "type": "match",
@@ -3173,6 +3494,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:g90a8298",
+        "display_name": "Steel Boots",
         "predicate": [
           {
             "type": "match",
@@ -3191,6 +3513,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:g9a8ecaa",
+        "display_name": "Steel Boots",
         "predicate": [
           {
             "type": "match",
@@ -3209,6 +3532,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:gb38d111",
+        "display_name": "Steel Boots",
         "predicate": [
           {
             "type": "match",
@@ -3227,6 +3551,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:h7eb1a23",
+        "display_name": "Steel Boots",
         "predicate": [
           {
             "type": "match",
@@ -3245,6 +3570,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:he957c26",
+        "display_name": "Iron Boots",
         "predicate": [
           {
             "type": "match",
@@ -3263,6 +3589,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:i9e2886d",
+        "display_name": "Iron Boots",
         "predicate": [
           {
             "type": "match",
@@ -3281,6 +3608,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ie45909c",
+        "display_name": "Steel Boots",
         "predicate": [
           {
             "type": "match",
@@ -3299,6 +3627,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:mbbd835e",
+        "display_name": "Steel Boots",
         "predicate": [
           {
             "type": "match",
@@ -3317,6 +3646,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:n7db23d7",
+        "display_name": "Steel Boots",
         "predicate": [
           {
             "type": "match",
@@ -3335,6 +3665,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:nd40f26e",
+        "display_name": "Iron Boots",
         "predicate": [
           {
             "type": "match",
@@ -3355,6 +3686,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a30b5444",
+        "display_name": "Steel Chestplate",
         "bedrock_options": {
           "icon": "fabca7d4",
           "tags": [
@@ -3366,6 +3698,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a6d904e2",
+        "display_name": "Steel Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -3384,6 +3717,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a84d81b6",
+        "display_name": "Iron Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -3402,6 +3736,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:d3aa91bd",
+        "display_name": "Steel Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -3420,6 +3755,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:e01d6361",
+        "display_name": "Iron Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -3438,6 +3774,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f05833df",
+        "display_name": "Steel Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -3456,6 +3793,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f84baa71",
+        "display_name": "Steel Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -3474,6 +3812,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:fdb435ab",
+        "display_name": "Steel Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -3492,6 +3831,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:g31da54b",
+        "display_name": "Steel Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -3510,6 +3850,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ib1afb4b",
+        "display_name": "Iron Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -3528,6 +3869,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:je12c533",
+        "display_name": "Steel Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -3546,6 +3888,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:k62a4018",
+        "display_name": "Steel Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -3564,6 +3907,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:le6d03a7",
+        "display_name": "Steel Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -3582,6 +3926,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:lf2c7291",
+        "display_name": "Steel Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -3600,6 +3945,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:m6edbdae",
+        "display_name": "Steel Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -3618,6 +3964,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:oa5d34b1",
+        "display_name": "Steel Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -3636,6 +3983,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:obce5336",
+        "display_name": "Steel Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -3654,6 +4002,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:p72b6944",
+        "display_name": "Steel Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -3674,6 +4023,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b6107b9c",
+        "display_name": "Steel Helmet",
         "bedrock_options": {
           "icon": "eaa9176f",
           "tags": [
@@ -3685,6 +4035,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b4aa7542",
+        "display_name": "Steel Helmet",
         "predicate": [
           {
             "type": "match",
@@ -3703,6 +4054,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ba9dad8c",
+        "display_name": "Steel Helmet",
         "predicate": [
           {
             "type": "match",
@@ -3721,6 +4073,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c3ad0bd2",
+        "display_name": "Steel Helmet",
         "predicate": [
           {
             "type": "match",
@@ -3739,6 +4092,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:d4f58936",
+        "display_name": "Steel Helmet",
         "predicate": [
           {
             "type": "match",
@@ -3757,6 +4111,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:hc9fb75a",
+        "display_name": "Steel Helmet",
         "predicate": [
           {
             "type": "match",
@@ -3775,6 +4130,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:hd2d4125",
+        "display_name": "Iron Helmet",
         "predicate": [
           {
             "type": "match",
@@ -3793,6 +4149,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:jf421d65",
+        "display_name": "Steel Helmet",
         "predicate": [
           {
             "type": "match",
@@ -3811,6 +4168,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:k0769c1d",
+        "display_name": "Steel Helmet",
         "predicate": [
           {
             "type": "match",
@@ -3829,6 +4187,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:kc2caec1",
+        "display_name": "Steel Helmet",
         "predicate": [
           {
             "type": "match",
@@ -3847,6 +4206,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:kd52267a",
+        "display_name": "Steel Helmet",
         "predicate": [
           {
             "type": "match",
@@ -3865,6 +4225,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:lb562117",
+        "display_name": "Steel Helmet",
         "predicate": [
           {
             "type": "match",
@@ -3883,6 +4244,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:mabec1ad",
+        "display_name": "Steel Helmet",
         "predicate": [
           {
             "type": "match",
@@ -3901,6 +4263,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:mcff26d8",
+        "display_name": "Steel Helmet",
         "predicate": [
           {
             "type": "match",
@@ -3919,6 +4282,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:n1e2ad84",
+        "display_name": "Steel Helmet",
         "predicate": [
           {
             "type": "match",
@@ -3937,6 +4301,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:o71c74e2",
+        "display_name": "Iron Helmet",
         "predicate": [
           {
             "type": "match",
@@ -3955,6 +4320,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:oaae0583",
+        "display_name": "Steel Helmet",
         "predicate": [
           {
             "type": "match",
@@ -3973,6 +4339,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:p9692460",
+        "display_name": "Iron Helmet",
         "predicate": [
           {
             "type": "match",
@@ -3993,6 +4360,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:j8857af3",
+        "display_name": "Iron Mattock",
         "bedrock_options": {
           "icon": "a2e00efa",
           "display_handheld": true
@@ -4004,6 +4372,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:hffe9360",
+        "display_name": "Steel Leggings",
         "bedrock_options": {
           "icon": "m40b959d",
           "tags": [
@@ -4015,6 +4384,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ace50725",
+        "display_name": "Steel Leggings",
         "predicate": [
           {
             "type": "match",
@@ -4033,6 +4403,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c584aecf",
+        "display_name": "Steel Leggings",
         "predicate": [
           {
             "type": "match",
@@ -4051,6 +4422,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c806e21a",
+        "display_name": "Steel Leggings",
         "predicate": [
           {
             "type": "match",
@@ -4069,6 +4441,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:d584f680",
+        "display_name": "Steel Leggings",
         "predicate": [
           {
             "type": "match",
@@ -4087,6 +4460,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:g68679c1",
+        "display_name": "Steel Leggings",
         "predicate": [
           {
             "type": "match",
@@ -4105,6 +4479,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:hbb98e57",
+        "display_name": "Steel Leggings",
         "predicate": [
           {
             "type": "match",
@@ -4123,6 +4498,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:i10dae4e",
+        "display_name": "Steel Leggings",
         "predicate": [
           {
             "type": "match",
@@ -4141,6 +4517,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:j7995ae4",
+        "display_name": "Steel Leggings",
         "predicate": [
           {
             "type": "match",
@@ -4159,6 +4536,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:l4c3ad62",
+        "display_name": "Iron Leggings",
         "predicate": [
           {
             "type": "match",
@@ -4177,6 +4555,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:m8bc1da7",
+        "display_name": "Steel Leggings",
         "predicate": [
           {
             "type": "match",
@@ -4195,6 +4574,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:mb76584c",
+        "display_name": "Steel Leggings",
         "predicate": [
           {
             "type": "match",
@@ -4213,6 +4593,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:nc9af2a1",
+        "display_name": "Steel Leggings",
         "predicate": [
           {
             "type": "match",
@@ -4231,6 +4612,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ne2eb0db",
+        "display_name": "Steel Leggings",
         "predicate": [
           {
             "type": "match",
@@ -4249,6 +4631,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:o2d1da75",
+        "display_name": "Steel Leggings",
         "predicate": [
           {
             "type": "match",
@@ -4267,6 +4650,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:o8e1f4e4",
+        "display_name": "Steel Leggings",
         "predicate": [
           {
             "type": "match",
@@ -4285,6 +4669,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:p4f6f00f",
+        "display_name": "Iron Leggings",
         "predicate": [
           {
             "type": "match",
@@ -4303,6 +4688,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:p7c8fa15",
+        "display_name": "Iron Leggings",
         "predicate": [
           {
             "type": "match",
@@ -4323,6 +4709,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:hd5d342c",
+        "display_name": "Steel Pickaxe",
         "bedrock_options": {
           "icon": "bd3e5166",
           "display_handheld": true
@@ -4332,6 +4719,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:icd9ee6f",
+        "display_name": "Snow Shovel",
         "bedrock_options": {
           "icon": "d9bcb9af",
           "display_handheld": true
@@ -4343,6 +4731,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a36d1f1b",
+        "display_name": "Music Disc Dry Hands",
         "bedrock_options": {
           "icon": "naef9714"
         },
@@ -4351,6 +4740,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ae852ac6",
+        "display_name": "Shipwreck Map",
         "bedrock_options": {
           "icon": "j864d71a"
         },
@@ -4359,6 +4749,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:e971e6a3",
+        "display_name": "Glow Mash",
         "bedrock_options": {
           "icon": "b97ef2d2"
         },
@@ -4367,6 +4758,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:fa7febec",
+        "display_name": "Trail Ruins Map",
         "bedrock_options": {
           "icon": "f9379f62"
         },
@@ -4375,6 +4767,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:g319e75c",
+        "display_name": "Papal Outpost Map",
         "bedrock_options": {
           "icon": "h76cfb3b"
         },
@@ -4383,6 +4776,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:g554fc27",
+        "display_name": "Braised Brown Mushroom",
         "bedrock_options": {
           "icon": "k4a3b2fa"
         },
@@ -4391,6 +4785,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ge7e32a0",
+        "display_name": "Green Egg",
         "bedrock_options": {
           "icon": "fb5190ff"
         },
@@ -4399,6 +4794,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:h44b4eec",
+        "display_name": "Abbey Map",
         "bedrock_options": {
           "icon": "b73d6623"
         },
@@ -4407,6 +4803,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:hbd22220",
+        "display_name": "Sweet Berry Mash",
         "bedrock_options": {
           "icon": "b4913f3b"
         },
@@ -4415,6 +4812,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:jb455485",
+        "display_name": "Brown Feather",
         "bedrock_options": {
           "icon": "g7105177"
         },
@@ -4423,6 +4821,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:k93370fd",
+        "display_name": "Small Egg",
         "bedrock_options": {
           "icon": "j962ee0f"
         },
@@ -4431,6 +4830,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:l4116db5",
+        "display_name": "Chocolate",
         "bedrock_options": {
           "icon": "g7e8921a"
         },
@@ -4439,6 +4839,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:l4a29213",
+        "display_name": "Pale Garden",
         "bedrock_options": {
           "icon": "d2022be1"
         },
@@ -4449,6 +4850,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:nc26f905",
+        "display_name": "Invisible Item Frame",
         "bedrock_options": {
           "icon": "ab91022b"
         },
@@ -4459,6 +4861,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a86fd1c0",
+        "display_name": "Sturdy Leather Boots",
         "bedrock_options": {
           "icon": "d15ce58b",
           "tags": [
@@ -4470,6 +4873,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:bd081b22",
+        "display_name": "Sturdy Leather Boots",
         "predicate": [
           {
             "type": "match",
@@ -4488,6 +4892,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c46b74ce",
+        "display_name": "Sturdy Leather Boots",
         "predicate": [
           {
             "type": "match",
@@ -4506,6 +4911,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c4b3a768",
+        "display_name": "Leather Boots",
         "predicate": [
           {
             "type": "match",
@@ -4524,6 +4930,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:e7ce150d",
+        "display_name": "Sturdy Leather Boots",
         "predicate": [
           {
             "type": "match",
@@ -4542,6 +4949,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f399c652",
+        "display_name": "Sturdy Leather Boots",
         "predicate": [
           {
             "type": "match",
@@ -4560,6 +4968,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:h1a24195",
+        "display_name": "Sturdy Leather Boots",
         "predicate": [
           {
             "type": "match",
@@ -4578,6 +4987,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ka092ee2",
+        "display_name": "Sturdy Leather Boots",
         "predicate": [
           {
             "type": "match",
@@ -4596,6 +5006,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:kc41abcc",
+        "display_name": "Sturdy Leather Boots",
         "predicate": [
           {
             "type": "match",
@@ -4614,6 +5025,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:kc881dc3",
+        "display_name": "Leather Boots",
         "predicate": [
           {
             "type": "match",
@@ -4632,6 +5044,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:l1f4ec3b",
+        "display_name": "Sturdy Leather Boots",
         "predicate": [
           {
             "type": "match",
@@ -4650,6 +5063,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:lf8216d9",
+        "display_name": "Sturdy Leather Boots",
         "predicate": [
           {
             "type": "match",
@@ -4668,6 +5082,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:m7b0c7d0",
+        "display_name": "Leather Boots",
         "predicate": [
           {
             "type": "match",
@@ -4686,6 +5101,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:md40a385",
+        "display_name": "Sturdy Leather Boots",
         "predicate": [
           {
             "type": "match",
@@ -4704,6 +5120,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:o241ecb9",
+        "display_name": "Sturdy Leather Boots",
         "predicate": [
           {
             "type": "match",
@@ -4722,6 +5139,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:o6d4b37d",
+        "display_name": "Sturdy Leather Boots",
         "predicate": [
           {
             "type": "match",
@@ -4740,6 +5158,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:oaf88bb7",
+        "display_name": "Sturdy Leather Boots",
         "predicate": [
           {
             "type": "match",
@@ -4758,6 +5177,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:p443f601",
+        "display_name": "Sturdy Leather Boots",
         "predicate": [
           {
             "type": "match",
@@ -4778,6 +5198,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:dacccea4",
+        "display_name": "Sturdy Leather Gambeson",
         "bedrock_options": {
           "icon": "m2ad2a79",
           "tags": [
@@ -4789,6 +5210,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:aa411680",
+        "display_name": "Leather Pauldron",
         "predicate": [
           {
             "type": "match",
@@ -4807,6 +5229,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b243b63e",
+        "display_name": "Leather Pauldron",
         "predicate": [
           {
             "type": "match",
@@ -4825,6 +5248,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c427e881",
+        "display_name": "Sturdy Leather Gambeson",
         "predicate": [
           {
             "type": "match",
@@ -4843,6 +5267,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:cc1508d3",
+        "display_name": "Sturdy Leather Gambeson",
         "predicate": [
           {
             "type": "match",
@@ -4861,6 +5286,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:d35d4419",
+        "display_name": "Sturdy Leather Gambeson",
         "predicate": [
           {
             "type": "match",
@@ -4879,6 +5305,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f7a28332",
+        "display_name": "Sturdy Leather Gambeson",
         "predicate": [
           {
             "type": "match",
@@ -4897,6 +5324,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:g37a6557",
+        "display_name": "Sturdy Leather Gambeson",
         "predicate": [
           {
             "type": "match",
@@ -4915,6 +5343,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:i1425d1c",
+        "display_name": "Sturdy Leather Gambeson",
         "predicate": [
           {
             "type": "match",
@@ -4933,6 +5362,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:j21bb826",
+        "display_name": "Sturdy Leather Gambeson",
         "predicate": [
           {
             "type": "match",
@@ -4951,6 +5381,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:k0a57894",
+        "display_name": "Sturdy Leather Gambeson",
         "predicate": [
           {
             "type": "match",
@@ -4969,6 +5400,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:la5ea125",
+        "display_name": "Sturdy Leather Gambeson",
         "predicate": [
           {
             "type": "match",
@@ -4987,6 +5419,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:lbe49c8f",
+        "display_name": "Sturdy Leather Gambeson",
         "predicate": [
           {
             "type": "match",
@@ -5005,6 +5438,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:n1d3b64f",
+        "display_name": "Sturdy Leather Gambeson",
         "predicate": [
           {
             "type": "match",
@@ -5023,6 +5457,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:nd79a891",
+        "display_name": "Sturdy Leather Gambeson",
         "predicate": [
           {
             "type": "match",
@@ -5041,6 +5476,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:p2eca680",
+        "display_name": "Sturdy Leather Gambeson",
         "predicate": [
           {
             "type": "match",
@@ -5059,6 +5495,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:pe3e2483",
+        "display_name": "Leather Pauldron",
         "predicate": [
           {
             "type": "match",
@@ -5077,6 +5514,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:pebdb527",
+        "display_name": "Sturdy Leather Gambeson",
         "predicate": [
           {
             "type": "match",
@@ -5097,6 +5535,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:o4743dba",
+        "display_name": "Sturdy Leather Helmet",
         "bedrock_options": {
           "icon": "j457ca81",
           "tags": [
@@ -5108,6 +5547,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a85527af",
+        "display_name": "Sturdy Leather Helmet",
         "predicate": [
           {
             "type": "match",
@@ -5126,6 +5566,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ac5dae68",
+        "display_name": "Sturdy Leather Helmet",
         "predicate": [
           {
             "type": "match",
@@ -5144,6 +5585,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b6dbe146",
+        "display_name": "Sturdy Leather Helmet",
         "predicate": [
           {
             "type": "match",
@@ -5162,6 +5604,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b6e87620",
+        "display_name": "Leather Hood",
         "predicate": [
           {
             "type": "match",
@@ -5180,6 +5623,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:bc2dcf1f",
+        "display_name": "Sturdy Leather Helmet",
         "predicate": [
           {
             "type": "match",
@@ -5198,6 +5642,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c596dd65",
+        "display_name": "Sturdy Leather Helmet",
         "predicate": [
           {
             "type": "match",
@@ -5216,6 +5661,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:cdaccc96",
+        "display_name": "Sturdy Leather Helmet",
         "predicate": [
           {
             "type": "match",
@@ -5234,6 +5680,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:d107fc3b",
+        "display_name": "Sturdy Leather Helmet",
         "predicate": [
           {
             "type": "match",
@@ -5252,6 +5699,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:h334482c",
+        "display_name": "Sturdy Leather Helmet",
         "predicate": [
           {
             "type": "match",
@@ -5270,6 +5718,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:hbe3b531",
+        "display_name": "Sturdy Leather Helmet",
         "predicate": [
           {
             "type": "match",
@@ -5288,6 +5737,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:hfe9ac00",
+        "display_name": "Sturdy Leather Helmet",
         "predicate": [
           {
             "type": "match",
@@ -5306,6 +5756,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:j2a9fb9f",
+        "display_name": "Leather Hood",
         "predicate": [
           {
             "type": "match",
@@ -5324,6 +5775,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:jbf3c0b5",
+        "display_name": "Sturdy Leather Helmet",
         "predicate": [
           {
             "type": "match",
@@ -5342,6 +5794,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:kc7f2052",
+        "display_name": "Sturdy Leather Helmet",
         "predicate": [
           {
             "type": "match",
@@ -5360,6 +5813,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:mba6f00f",
+        "display_name": "Sturdy Leather Helmet",
         "predicate": [
           {
             "type": "match",
@@ -5378,6 +5832,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:mc673420",
+        "display_name": "Sturdy Leather Helmet",
         "predicate": [
           {
             "type": "match",
@@ -5396,6 +5851,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:o002aad1",
+        "display_name": "Leather Hood",
         "predicate": [
           {
             "type": "match",
@@ -5416,6 +5872,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:d843a3a3",
+        "display_name": "Sturdy Leather Leggings",
         "bedrock_options": {
           "icon": "b71031c1",
           "tags": [
@@ -5427,6 +5884,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a863c218",
+        "display_name": "Leather Leggings",
         "predicate": [
           {
             "type": "match",
@@ -5445,6 +5903,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:e3a946d6",
+        "display_name": "Leather Leggings",
         "predicate": [
           {
             "type": "match",
@@ -5463,6 +5922,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f39ca828",
+        "display_name": "Sturdy Leather Leggings",
         "predicate": [
           {
             "type": "match",
@@ -5481,6 +5941,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:g2339bf0",
+        "display_name": "Sturdy Leather Leggings",
         "predicate": [
           {
             "type": "match",
@@ -5499,6 +5960,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ge3887f0",
+        "display_name": "Sturdy Leather Leggings",
         "predicate": [
           {
             "type": "match",
@@ -5517,6 +5979,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:gff5e5fb",
+        "display_name": "Sturdy Leather Leggings",
         "predicate": [
           {
             "type": "match",
@@ -5535,6 +5998,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:h98007bd",
+        "display_name": "Sturdy Leather Leggings",
         "predicate": [
           {
             "type": "match",
@@ -5553,6 +6017,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:heeced75",
+        "display_name": "Sturdy Leather Leggings",
         "predicate": [
           {
             "type": "match",
@@ -5571,6 +6036,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:i190c8f5",
+        "display_name": "Sturdy Leather Leggings",
         "predicate": [
           {
             "type": "match",
@@ -5589,6 +6055,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:idbf274f",
+        "display_name": "Sturdy Leather Leggings",
         "predicate": [
           {
             "type": "match",
@@ -5607,6 +6074,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:j0e2828d",
+        "display_name": "Sturdy Leather Leggings",
         "predicate": [
           {
             "type": "match",
@@ -5625,6 +6093,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:k37ef7be",
+        "display_name": "Sturdy Leather Leggings",
         "predicate": [
           {
             "type": "match",
@@ -5643,6 +6112,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:l2b263d3",
+        "display_name": "Sturdy Leather Leggings",
         "predicate": [
           {
             "type": "match",
@@ -5661,6 +6131,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:m7fcdb96",
+        "display_name": "Sturdy Leather Leggings",
         "predicate": [
           {
             "type": "match",
@@ -5679,6 +6150,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:md8f2c04",
+        "display_name": "Sturdy Leather Leggings",
         "predicate": [
           {
             "type": "match",
@@ -5697,6 +6169,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:me05b3e7",
+        "display_name": "Sturdy Leather Leggings",
         "predicate": [
           {
             "type": "match",
@@ -5715,6 +6188,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:n6465941",
+        "display_name": "Leather Leggings",
         "predicate": [
           {
             "type": "match",
@@ -5735,6 +6209,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f0896756",
+        "display_name": "Freshwater Hot Wet",
         "bedrock_options": {
           "icon": "jcc90929"
         },
@@ -5745,6 +6220,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:m066868d",
+        "display_name": "Brackish",
         "bedrock_options": {
           "icon": "mc5c27ca"
         },
@@ -5755,6 +6231,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a44fafdc",
+        "display_name": "Music Disc Malachite",
         "bedrock_options": {
           "icon": "d687b018"
         },
@@ -5763,6 +6240,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b45a3392",
+        "display_name": "Music Disc Elegy Of The Abbey",
         "bedrock_options": {
           "icon": "cbd01604"
         },
@@ -5771,6 +6249,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:dd533651",
+        "display_name": "Music Disc Labyrinthine",
         "bedrock_options": {
           "icon": "h2e2a622"
         },
@@ -5779,6 +6258,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f2495ce5",
+        "display_name": "Music Disc Crete",
         "bedrock_options": {
           "icon": "p067d878"
         },
@@ -5787,6 +6267,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:j02d5459",
+        "display_name": "Music Disc Golden",
         "bedrock_options": {
           "icon": "d9b270e0"
         },
@@ -5795,6 +6276,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:p41d5302",
+        "display_name": "Music Disc Abbey",
         "bedrock_options": {
           "icon": "h3a67ede"
         },
@@ -5805,6 +6287,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ne134425",
+        "display_name": "Music Disc Labyrinthine",
         "bedrock_options": {
           "icon": "h2e2a622"
         },
@@ -5815,6 +6298,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a7c7d87c",
+        "display_name": "Shipwreck Map",
         "bedrock_options": {
           "icon": "j864d71a"
         },
@@ -5823,6 +6307,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ad8cc10c",
+        "display_name": "Abbey Map",
         "bedrock_options": {
           "icon": "b73d6623"
         },
@@ -5831,6 +6316,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b5569076",
+        "display_name": "Pale Garden",
         "bedrock_options": {
           "icon": "d2022be1"
         },
@@ -5839,6 +6325,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:cea2c1f8",
+        "display_name": "Braised Brown Mushroom",
         "bedrock_options": {
           "icon": "k4a3b2fa"
         },
@@ -5847,6 +6334,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:e953de6d",
+        "display_name": "Brown Feather",
         "bedrock_options": {
           "icon": "g7105177"
         },
@@ -5855,6 +6343,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f952fdac",
+        "display_name": "Trail Ruins Map",
         "bedrock_options": {
           "icon": "f9379f62"
         },
@@ -5863,6 +6352,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:h73fe045",
+        "display_name": "Chocolate",
         "bedrock_options": {
           "icon": "g7e8921a"
         },
@@ -5871,6 +6361,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:j4c4023a",
+        "display_name": "Glow Mash",
         "bedrock_options": {
           "icon": "b97ef2d2"
         },
@@ -5879,6 +6370,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:j6e3045f",
+        "display_name": "Sweet Berry Mash",
         "bedrock_options": {
           "icon": "b4913f3b"
         },
@@ -5887,6 +6379,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:jabf9132",
+        "display_name": "Small Egg",
         "bedrock_options": {
           "icon": "j962ee0f"
         },
@@ -5895,6 +6388,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:k4bd6d66",
+        "display_name": "Papal Outpost Map",
         "bedrock_options": {
           "icon": "h76cfb3b"
         },
@@ -5903,6 +6397,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:n6099b3a",
+        "display_name": "Green Egg",
         "bedrock_options": {
           "icon": "fb5190ff"
         },
@@ -5911,6 +6406,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:p4478c0b",
+        "display_name": "Music Disc Dry Hands",
         "bedrock_options": {
           "icon": "naef9714"
         },
@@ -5921,6 +6417,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:gaec330e",
+        "display_name": "Electrum Axe",
         "bedrock_options": {
           "icon": "o3329e42",
           "display_handheld": true
@@ -5930,6 +6427,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:p2241776",
+        "display_name": "Electrum Dolabra",
         "bedrock_options": {
           "icon": "af143fa9",
           "display_handheld": true
@@ -5939,6 +6437,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:pe838a33",
+        "display_name": "Adamant Dolabra",
         "bedrock_options": {
           "icon": "b1657012",
           "display_handheld": true
@@ -5950,6 +6449,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:j81c9f53",
+        "display_name": "Electrum Boots",
         "bedrock_options": {
           "icon": "a9adc8b9",
           "tags": [
@@ -5961,6 +6461,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:bf2d1ccd",
+        "display_name": "Electrum Boots",
         "predicate": [
           {
             "type": "match",
@@ -5979,6 +6480,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:bf983da0",
+        "display_name": "Electrum Boots",
         "predicate": [
           {
             "type": "match",
@@ -5997,6 +6499,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c1a42040",
+        "display_name": "Electrum Boots",
         "predicate": [
           {
             "type": "match",
@@ -6015,6 +6518,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c3d2ee1f",
+        "display_name": "Electrum Boots",
         "predicate": [
           {
             "type": "match",
@@ -6033,6 +6537,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c8554d4a",
+        "display_name": "Electrum Boots",
         "predicate": [
           {
             "type": "match",
@@ -6051,6 +6556,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:d7134b95",
+        "display_name": "Electrum Boots",
         "predicate": [
           {
             "type": "match",
@@ -6069,6 +6575,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f7942424",
+        "display_name": "Adamant Boots",
         "predicate": [
           {
             "type": "match",
@@ -6087,6 +6594,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:g8df918b",
+        "display_name": "Electrum Boots",
         "predicate": [
           {
             "type": "match",
@@ -6105,6 +6613,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:h94523af",
+        "display_name": "Adamant Boots",
         "predicate": [
           {
             "type": "match",
@@ -6123,6 +6632,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:id4e85b0",
+        "display_name": "Electrum Boots",
         "predicate": [
           {
             "type": "match",
@@ -6141,6 +6651,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:k73e605a",
+        "display_name": "Electrum Boots",
         "predicate": [
           {
             "type": "match",
@@ -6159,6 +6670,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:la594c10",
+        "display_name": "Electrum Boots",
         "predicate": [
           {
             "type": "match",
@@ -6177,6 +6689,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:m9a680fc",
+        "display_name": "Adamant Boots",
         "predicate": [
           {
             "type": "match",
@@ -6195,6 +6708,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:n89de94f",
+        "display_name": "Electrum Boots",
         "predicate": [
           {
             "type": "match",
@@ -6213,6 +6727,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:nbc6d731",
+        "display_name": "Electrum Boots",
         "predicate": [
           {
             "type": "match",
@@ -6231,6 +6746,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:nf2672a3",
+        "display_name": "Electrum Boots",
         "predicate": [
           {
             "type": "match",
@@ -6249,6 +6765,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:p6fba6c5",
+        "display_name": "Electrum Boots",
         "predicate": [
           {
             "type": "match",
@@ -6269,6 +6786,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:e4382e75",
+        "display_name": "Electrum Chestplate",
         "bedrock_options": {
           "icon": "o3c6f2ff",
           "tags": [
@@ -6280,6 +6798,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a0bd5746",
+        "display_name": "Electrum Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -6298,6 +6817,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:af28981c",
+        "display_name": "Adamant Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -6316,6 +6836,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:afe881cd",
+        "display_name": "Electrum Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -6334,6 +6855,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b96d47c7",
+        "display_name": "Electrum Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -6352,6 +6874,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:d65add21",
+        "display_name": "Adamant Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -6370,6 +6893,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:e722c4e2",
+        "display_name": "Electrum Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -6388,6 +6912,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f02a922a",
+        "display_name": "Electrum Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -6406,6 +6931,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f35f8368",
+        "display_name": "Electrum Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -6424,6 +6950,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:g2ab0364",
+        "display_name": "Adamant Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -6442,6 +6969,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ha057e9f",
+        "display_name": "Electrum Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -6460,6 +6988,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:j0bd1d45",
+        "display_name": "Electrum Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -6478,6 +7007,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:jf7cd06d",
+        "display_name": "Electrum Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -6496,6 +7026,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:kfe77f3e",
+        "display_name": "Electrum Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -6514,6 +7045,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:m098b698",
+        "display_name": "Electrum Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -6532,6 +7064,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:mb4e59ac",
+        "display_name": "Electrum Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -6550,6 +7083,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:mcbf6625",
+        "display_name": "Electrum Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -6568,6 +7102,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:o3efd973",
+        "display_name": "Electrum Chestplate",
         "predicate": [
           {
             "type": "match",
@@ -6588,6 +7123,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:bd1e63b2",
+        "display_name": "Amber Earrings",
         "bedrock_options": {
           "icon": "d38357ca",
           "tags": [
@@ -6599,6 +7135,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:d70de96f",
+        "display_name": "Hepatizon Laurel",
         "bedrock_options": {
           "icon": "d3d5e233",
           "tags": [
@@ -6610,6 +7147,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:fd3e37c8",
+        "display_name": "Topaz Earrings",
         "bedrock_options": {
           "icon": "ld8b98d4",
           "tags": [
@@ -6621,6 +7159,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:jb9963d3",
+        "display_name": "Ruby Circlet",
         "bedrock_options": {
           "icon": "i6c749de",
           "tags": [
@@ -6632,6 +7171,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:k45043a7",
+        "display_name": "Electrum Helmet",
         "bedrock_options": {
           "icon": "bd82dfdb",
           "tags": [
@@ -6643,6 +7183,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:l73d7209",
+        "display_name": "Amethyst Earrings",
         "bedrock_options": {
           "icon": "m767ac00",
           "tags": [
@@ -6654,6 +7195,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:m087443d",
+        "display_name": "Opal Earrings",
         "bedrock_options": {
           "icon": "n65d82a0",
           "tags": [
@@ -6665,6 +7207,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:p0c4bec6",
+        "display_name": "Lapis Earrings",
         "bedrock_options": {
           "icon": "c7867c73",
           "tags": [
@@ -6676,6 +7219,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:pf199959",
+        "display_name": "Diamond Earrings",
         "bedrock_options": {
           "icon": "g65f5cdc",
           "tags": [
@@ -6687,6 +7231,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a4bc8939",
+        "display_name": "Electrum Helmet",
         "predicate": [
           {
             "type": "match",
@@ -6705,6 +7250,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:acbc4f55",
+        "display_name": "Electrum Helmet",
         "predicate": [
           {
             "type": "match",
@@ -6723,6 +7269,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b2e15b7e",
+        "display_name": "Adamant Helmet",
         "predicate": [
           {
             "type": "match",
@@ -6741,6 +7288,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:be83a000",
+        "display_name": "Electrum Helmet",
         "predicate": [
           {
             "type": "match",
@@ -6759,6 +7307,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c386f6f1",
+        "display_name": "Electrum Helmet",
         "predicate": [
           {
             "type": "match",
@@ -6777,6 +7326,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:d9aed3d9",
+        "display_name": "Electrum Helmet",
         "predicate": [
           {
             "type": "match",
@@ -6795,6 +7345,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:e2c8249b",
+        "display_name": "Electrum Helmet",
         "predicate": [
           {
             "type": "match",
@@ -6813,6 +7364,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:fb75801d",
+        "display_name": "Electrum Helmet",
         "predicate": [
           {
             "type": "match",
@@ -6831,6 +7383,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:g256cbdb",
+        "display_name": "Electrum Helmet",
         "predicate": [
           {
             "type": "match",
@@ -6849,6 +7402,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:g2d3d964",
+        "display_name": "Electrum Helmet",
         "predicate": [
           {
             "type": "match",
@@ -6867,6 +7421,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:g90a5a89",
+        "display_name": "Adamant Helmet",
         "predicate": [
           {
             "type": "match",
@@ -6885,6 +7440,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:h9b63f3a",
+        "display_name": "Electrum Helmet",
         "predicate": [
           {
             "type": "match",
@@ -6903,6 +7459,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:k3aa1a6d",
+        "display_name": "Electrum Helmet",
         "predicate": [
           {
             "type": "match",
@@ -6921,6 +7478,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ka4458ea",
+        "display_name": "Adamant Helmet",
         "predicate": [
           {
             "type": "match",
@@ -6939,6 +7497,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:l15318bf",
+        "display_name": "Electrum Helmet",
         "predicate": [
           {
             "type": "match",
@@ -6957,6 +7516,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:lf4779ae",
+        "display_name": "Electrum Helmet",
         "predicate": [
           {
             "type": "match",
@@ -6975,6 +7535,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:pc683c3e",
+        "display_name": "Electrum Helmet",
         "predicate": [
           {
             "type": "match",
@@ -6995,6 +7556,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:aa39799b",
+        "display_name": "Electrum Hoe",
         "bedrock_options": {
           "icon": "ne72960a",
           "display_handheld": true
@@ -7004,6 +7566,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:l32d4f9a",
+        "display_name": "Adamant Mattock",
         "bedrock_options": {
           "icon": "geb39e62",
           "display_handheld": true
@@ -7013,6 +7576,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:odda4df0",
+        "display_name": "Electrum Mattock",
         "bedrock_options": {
           "icon": "hd30108c",
           "display_handheld": true
@@ -7024,6 +7588,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:g39b17b3",
+        "display_name": "Electrum Leggings",
         "bedrock_options": {
           "icon": "ib21236d",
           "tags": [
@@ -7035,6 +7600,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:d2d55814",
+        "display_name": "Electrum Leggings",
         "predicate": [
           {
             "type": "match",
@@ -7053,6 +7619,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:dd1ee819",
+        "display_name": "Electrum Leggings",
         "predicate": [
           {
             "type": "match",
@@ -7071,6 +7638,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:df9a4167",
+        "display_name": "Adamant Leggings",
         "predicate": [
           {
             "type": "match",
@@ -7089,6 +7657,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:e8591129",
+        "display_name": "Electrum Leggings",
         "predicate": [
           {
             "type": "match",
@@ -7107,6 +7676,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ee6ffd8c",
+        "display_name": "Electrum Leggings",
         "predicate": [
           {
             "type": "match",
@@ -7125,6 +7695,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:gef8e01d",
+        "display_name": "Electrum Leggings",
         "predicate": [
           {
             "type": "match",
@@ -7143,6 +7714,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:h5621172",
+        "display_name": "Electrum Leggings",
         "predicate": [
           {
             "type": "match",
@@ -7161,6 +7733,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:k65447b0",
+        "display_name": "Adamant Leggings",
         "predicate": [
           {
             "type": "match",
@@ -7179,6 +7752,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:kef843b8",
+        "display_name": "Adamant Leggings",
         "predicate": [
           {
             "type": "match",
@@ -7197,6 +7771,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:l28c69d7",
+        "display_name": "Electrum Leggings",
         "predicate": [
           {
             "type": "match",
@@ -7215,6 +7790,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:lddff221",
+        "display_name": "Electrum Leggings",
         "predicate": [
           {
             "type": "match",
@@ -7233,6 +7809,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:mafcc453",
+        "display_name": "Electrum Leggings",
         "predicate": [
           {
             "type": "match",
@@ -7251,6 +7828,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:mb6aa5e9",
+        "display_name": "Electrum Leggings",
         "predicate": [
           {
             "type": "match",
@@ -7269,6 +7847,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ncb0732b",
+        "display_name": "Electrum Leggings",
         "predicate": [
           {
             "type": "match",
@@ -7287,6 +7866,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:p3ddf96f",
+        "display_name": "Electrum Leggings",
         "predicate": [
           {
             "type": "match",
@@ -7305,6 +7885,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:p8c9b051",
+        "display_name": "Electrum Leggings",
         "predicate": [
           {
             "type": "match",
@@ -7323,6 +7904,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:pe9947b6",
+        "display_name": "Electrum Leggings",
         "predicate": [
           {
             "type": "match",
@@ -7343,6 +7925,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:g478f52e",
+        "display_name": "Electrum Pickaxe",
         "bedrock_options": {
           "icon": "e0fe04b2",
           "display_handheld": true
@@ -7354,6 +7937,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:m5d049a7",
+        "display_name": "Electrum Shovel",
         "bedrock_options": {
           "icon": "hc352968",
           "display_handheld": true
@@ -7365,6 +7949,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:k5f67d25",
+        "display_name": "Electrum Spear",
         "bedrock_options": {
           "icon": "k0fe8e13"
         },
@@ -7375,6 +7960,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a0c02176",
+        "display_name": "Abbey Map",
         "bedrock_options": {
           "icon": "b73d6623"
         },
@@ -7383,6 +7969,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a278c796",
+        "display_name": "Braised Brown Mushroom",
         "bedrock_options": {
           "icon": "k4a3b2fa"
         },
@@ -7391,6 +7978,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b6007f9d",
+        "display_name": "Brown Feather",
         "bedrock_options": {
           "icon": "g7105177"
         },
@@ -7399,6 +7987,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:df1cb1f1",
+        "display_name": "Trail Ruins Map",
         "bedrock_options": {
           "icon": "f9379f62"
         },
@@ -7407,6 +7996,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:e5923d99",
+        "display_name": "Chocolate",
         "bedrock_options": {
           "icon": "g7e8921a"
         },
@@ -7415,6 +8005,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:e75532f0",
+        "display_name": "Adamant Claymore",
         "bedrock_options": {
           "icon": "iaad9c27",
           "display_handheld": true
@@ -7424,6 +8015,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:hbecad01",
+        "display_name": "Music Disc Dry Hands",
         "bedrock_options": {
           "icon": "naef9714"
         },
@@ -7432,6 +8024,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:i320011e",
+        "display_name": "Pale Garden",
         "bedrock_options": {
           "icon": "d2022be1"
         },
@@ -7440,6 +8033,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:i3bb9bcb",
+        "display_name": "Shipwreck Map",
         "bedrock_options": {
           "icon": "j864d71a"
         },
@@ -7448,6 +8042,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:j07f1b9e",
+        "display_name": "Electrum Sword",
         "bedrock_options": {
           "icon": "j0eae7c1",
           "display_handheld": true
@@ -7457,6 +8052,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:j5ccffda",
+        "display_name": "Small Egg",
         "bedrock_options": {
           "icon": "j962ee0f"
         },
@@ -7465,6 +8061,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:k2b45893",
+        "display_name": "Papal Outpost Map",
         "bedrock_options": {
           "icon": "h76cfb3b"
         },
@@ -7473,6 +8070,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:mad47426",
+        "display_name": "Green Egg",
         "bedrock_options": {
           "icon": "fb5190ff"
         },
@@ -7481,6 +8079,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:mb64e14c",
+        "display_name": "Sweet Berry Mash",
         "bedrock_options": {
           "icon": "b4913f3b"
         },
@@ -7489,6 +8088,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:p245e269",
+        "display_name": "Glow Mash",
         "bedrock_options": {
           "icon": "b97ef2d2"
         },
@@ -7499,6 +8099,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:jc36baa2",
+        "display_name": "Saltwater Cool",
         "bedrock_options": {
           "icon": "bb5d90f8"
         },
@@ -7509,6 +8110,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:aaaaba05",
+        "display_name": "Music Disc Dry Hands",
         "bedrock_options": {
           "icon": "naef9714"
         },
@@ -7517,6 +8119,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:aab13283",
+        "display_name": "Papal Outpost Map",
         "bedrock_options": {
           "icon": "h76cfb3b"
         },
@@ -7525,6 +8128,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b03a30b4",
+        "display_name": "Cooking Recipe",
         "bedrock_options": {
           "icon": "hffb1390"
         },
@@ -7533,6 +8137,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b763403b",
+        "display_name": "Sweet Berry Mash",
         "bedrock_options": {
           "icon": "b4913f3b"
         },
@@ -7541,6 +8146,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c8ae7644",
+        "display_name": "Green Egg",
         "bedrock_options": {
           "icon": "fb5190ff"
         },
@@ -7549,6 +8155,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c9adff91",
+        "display_name": "Abbey Map",
         "bedrock_options": {
           "icon": "b73d6623"
         },
@@ -7557,6 +8164,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:cd42ee4f",
+        "display_name": "Cooking Recipe",
         "bedrock_options": {
           "icon": "k3547c9c"
         },
@@ -7565,6 +8173,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:da1a25b0",
+        "display_name": "Glow Mash",
         "bedrock_options": {
           "icon": "b97ef2d2"
         },
@@ -7573,6 +8182,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f30e5990",
+        "display_name": "Shipwreck Map",
         "bedrock_options": {
           "icon": "j864d71a"
         },
@@ -7581,6 +8191,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:h7bc31e9",
+        "display_name": "Cooking Recipe",
         "bedrock_options": {
           "icon": "c958c0f4"
         },
@@ -7589,6 +8200,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:i74071ee",
+        "display_name": "Cooking Recipe",
         "bedrock_options": {
           "icon": "ab9e6590"
         },
@@ -7597,6 +8209,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ic99db44",
+        "display_name": "Chocolate",
         "bedrock_options": {
           "icon": "g7e8921a"
         },
@@ -7605,6 +8218,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:k34abd72",
+        "display_name": "Brown Feather",
         "bedrock_options": {
           "icon": "g7105177"
         },
@@ -7613,6 +8227,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:l764de9e",
+        "display_name": "Braised Brown Mushroom",
         "bedrock_options": {
           "icon": "k4a3b2fa"
         },
@@ -7621,6 +8236,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:lf06c3f0",
+        "display_name": "Pale Garden",
         "bedrock_options": {
           "icon": "d2022be1"
         },
@@ -7629,6 +8245,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:n5f83c95",
+        "display_name": "Trail Ruins Map",
         "bedrock_options": {
           "icon": "f9379f62"
         },
@@ -7637,6 +8254,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:o56475ce",
+        "display_name": "Small Egg",
         "bedrock_options": {
           "icon": "j962ee0f"
         },
@@ -7647,6 +8265,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a53e528c",
+        "display_name": "Bushpiglet",
         "bedrock_options": {
           "icon": "ba338240"
         },
@@ -7655,6 +8274,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:g7cb5bd7",
+        "display_name": "Mangalica Piglet",
         "bedrock_options": {
           "icon": "j604626d"
         },
@@ -7663,6 +8283,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:l68bcc7c",
+        "display_name": "Piglet",
         "bedrock_options": {
           "icon": "h48da663"
         },
@@ -7673,6 +8294,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a03fb5ff",
+        "display_name": "Brachio Chicken Nugget",
         "bedrock_options": {
           "icon": "cea50e7b"
         },
@@ -7681,6 +8303,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a2f51042",
+        "display_name": "Chorus Mochi",
         "bedrock_options": {
           "icon": "cd592461"
         },
@@ -7689,6 +8312,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a32bb0be",
+        "display_name": "Steamed Golden Carrots",
         "bedrock_options": {
           "icon": "g3050a5c"
         },
@@ -7697,6 +8321,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a3b57705",
+        "display_name": "Smithing Trim Color",
         "bedrock_options": {
           "icon": "mdefc000"
         },
@@ -7705,6 +8330,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a5605fa5",
+        "display_name": "Bulk Tuff",
         "bedrock_options": {
           "icon": "i538f67a"
         },
@@ -7713,6 +8339,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a7b6f7f7",
+        "display_name": "Apple Empanada",
         "bedrock_options": {
           "icon": "fd2ceb26"
         },
@@ -7721,6 +8348,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a901d726",
+        "display_name": "Toadstool Stroganoff",
         "bedrock_options": {
           "icon": "l45470df"
         },
@@ -7729,6 +8357,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a929e502",
+        "display_name": "Grilled Tomatoes",
         "bedrock_options": {
           "icon": "c9558b1e"
         },
@@ -7737,6 +8366,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ac00654e",
+        "display_name": "Smithing Trim Color",
         "bedrock_options": {
           "icon": "g6e6c84f"
         },
@@ -7745,6 +8375,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:acfe6152",
+        "display_name": "Bulk Limestone",
         "bedrock_options": {
           "icon": "b22d75e4"
         },
@@ -7753,6 +8384,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:af14d530",
+        "display_name": "Golden Carrot Cupcake",
         "bedrock_options": {
           "icon": "a58a7a40"
         },
@@ -7761,6 +8393,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b1ab51db",
+        "display_name": "Honied French Toast",
         "bedrock_options": {
           "icon": "lffabde5"
         },
@@ -7769,6 +8402,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b3b29daf",
+        "display_name": "Smithing Trim Color",
         "bedrock_options": {
           "icon": "j940b676"
         },
@@ -7777,6 +8411,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b40574a9",
+        "display_name": "Bulk Smooth Basalt",
         "bedrock_options": {
           "icon": "h2612281"
         },
@@ -7785,6 +8420,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b4cd9383",
+        "display_name": "Bokguk",
         "bedrock_options": {
           "icon": "h3499f9f"
         },
@@ -7793,6 +8429,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b64a0f4c",
+        "display_name": "Glow Berry Jam",
         "bedrock_options": {
           "icon": "db584d27"
         },
@@ -7801,6 +8438,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b7fdddb3",
+        "display_name": "Pickle Everything",
         "bedrock_options": {
           "icon": "aa8df130"
         },
@@ -7809,6 +8447,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b8578961",
+        "display_name": "Pickled Potatoes",
         "bedrock_options": {
           "icon": "d2b54ba0"
         },
@@ -7817,6 +8456,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b8adaf4c",
+        "display_name": "Honey Ginger Tea",
         "bedrock_options": {
           "icon": "i43c83be"
         },
@@ -7825,6 +8465,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b96fe30a",
+        "display_name": "Bulk Glass",
         "bedrock_options": {
           "icon": "a208cd40"
         },
@@ -7833,6 +8474,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:bbd7fc88",
+        "display_name": "Pumpkin Jam",
         "bedrock_options": {
           "icon": "b7b8bf34"
         },
@@ -7841,6 +8483,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:bd05dbc6",
+        "display_name": "Braised Crimson Fungus",
         "bedrock_options": {
           "icon": "gf540956"
         },
@@ -7849,6 +8492,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c0ebedb9",
+        "display_name": "Mushroom Pizza",
         "bedrock_options": {
           "icon": "ica6884b"
         },
@@ -7857,6 +8501,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c3d6b862",
+        "display_name": "Pumpkin Curry",
         "bedrock_options": {
           "icon": "ned00917"
         },
@@ -7865,6 +8510,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c4c4414a",
+        "display_name": "Smithing Trim Color",
         "bedrock_options": {
           "icon": "l40527f3"
         },
@@ -7873,6 +8519,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c5b55054",
+        "display_name": "Charred Potato",
         "bedrock_options": {
           "icon": "i866350c"
         },
@@ -7881,6 +8528,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c6b86c0d",
+        "display_name": "Bulk Malachite",
         "bedrock_options": {
           "icon": "c28b7eb8"
         },
@@ -7889,6 +8537,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c8fdc441",
+        "display_name": "Bulk Diorite",
         "bedrock_options": {
           "icon": "i00f0fec"
         },
@@ -7897,6 +8546,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:cd7dbe71",
+        "display_name": "Warped Stroganoff",
         "bedrock_options": {
           "icon": "ddcd538e"
         },
@@ -7905,6 +8555,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:d0a9dd88",
+        "display_name": "Glow Berry Crumble",
         "bedrock_options": {
           "icon": "h166baa1"
         },
@@ -7913,6 +8564,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:d272f9b5",
+        "display_name": "Mead",
         "bedrock_options": {
           "icon": "c072864c"
         },
@@ -7921,6 +8573,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:d5ae6a82",
+        "display_name": "Opal Earrings",
         "bedrock_options": {
           "icon": "n65d82a0"
         },
@@ -7929,6 +8582,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:d883434e",
+        "display_name": "Cyan Rose",
         "bedrock_options": {
           "icon": "fe0d0fa4"
         },
@@ -7937,6 +8591,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:d95144c4",
+        "display_name": "Fish and Chips",
         "bedrock_options": {
           "icon": "d47ce329"
         },
@@ -7945,6 +8600,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:dda780f7",
+        "display_name": "Bulk Blackstone",
         "bedrock_options": {
           "icon": "o0822b6a"
         },
@@ -7953,6 +8609,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:e1008faf",
+        "display_name": "Ruby",
         "bedrock_options": {
           "icon": "i2ba672c"
         },
@@ -7961,6 +8618,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:e2893ad0",
+        "display_name": "Bulk Cinnabar",
         "bedrock_options": {
           "icon": "pb3cf2f4"
         },
@@ -7969,6 +8627,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:e41afc04",
+        "display_name": "Heartbreaker",
         "bedrock_options": {
           "icon": "o4738e9b"
         },
@@ -7977,6 +8636,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:e9414a32",
+        "display_name": "Hepatizon Laurel",
         "bedrock_options": {
           "icon": "d3d5e233"
         },
@@ -7985,6 +8645,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ea852bb2",
+        "display_name": "Latke",
         "bedrock_options": {
           "icon": "bbda3152"
         },
@@ -7993,6 +8654,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ecb6f167",
+        "display_name": "Opal",
         "bedrock_options": {
           "icon": "d5910a39"
         },
@@ -8001,6 +8663,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:edcb1f08",
+        "display_name": "Wooden Cross",
         "bedrock_options": {
           "icon": "keeee37a"
         },
@@ -8009,6 +8672,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ee000979",
+        "display_name": "Pickled Carrots",
         "bedrock_options": {
           "icon": "bb9861fa"
         },
@@ -8017,6 +8681,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ee4a476c",
+        "display_name": "Apple Cinnamon Oatmeal",
         "bedrock_options": {
           "icon": "c6259522"
         },
@@ -8025,6 +8690,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ee85a77e",
+        "display_name": "Smithing Trim Color",
         "bedrock_options": {
           "icon": "odb6a6fe"
         },
@@ -8033,6 +8699,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ee9d3181",
+        "display_name": "Amethyst Earrings",
         "bedrock_options": {
           "icon": "m767ac00"
         },
@@ -8041,6 +8708,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f3bb1f20",
+        "display_name": "Lapis Earrings",
         "bedrock_options": {
           "icon": "c7867c73"
         },
@@ -8049,6 +8717,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f3dcef10",
+        "display_name": "Bulk Calcite",
         "bedrock_options": {
           "icon": "m4e8d243"
         },
@@ -8057,6 +8726,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f471663f",
+        "display_name": "Japanese Curry",
         "bedrock_options": {
           "icon": "pefeddcf"
         },
@@ -8065,6 +8735,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f65d1871",
+        "display_name": "Tricero Chicken Nugget",
         "bedrock_options": {
           "icon": "o6a69b85"
         },
@@ -8073,6 +8744,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f6b466fc",
+        "display_name": "Pumpkin Empanada",
         "bedrock_options": {
           "icon": "i7189f83"
         },
@@ -8081,6 +8753,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f758e2b4",
+        "display_name": "Meat Pizza",
         "bedrock_options": {
           "icon": "bfa7a1fc"
         },
@@ -8089,6 +8762,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f7d26293",
+        "display_name": "Bulk Smooth Sandstone",
         "bedrock_options": {
           "icon": "i2fe2fa6"
         },
@@ -8097,6 +8771,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:fa21da62",
+        "display_name": "Paneer Makhani",
         "bedrock_options": {
           "icon": "k5a97517"
         },
@@ -8105,6 +8780,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:fb47d239",
+        "display_name": "Braised Warped Fungus",
         "bedrock_options": {
           "icon": "c67f3f02"
         },
@@ -8113,6 +8789,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:fbe3a80b",
+        "display_name": "Pickled Mushrooms",
         "bedrock_options": {
           "icon": "p45fa24f"
         },
@@ -8121,6 +8798,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:fcacaaa7",
+        "display_name": "Sweet Berry Jam",
         "bedrock_options": {
           "icon": "gf8408be"
         },
@@ -8129,6 +8807,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:fd3afd58",
+        "display_name": "Canned Golden Apples",
         "bedrock_options": {
           "icon": "odde3ded"
         },
@@ -8137,6 +8816,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:fd971279",
+        "display_name": "Amber Earrings",
         "bedrock_options": {
           "icon": "d38357ca"
         },
@@ -8145,6 +8825,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:g076455f",
+        "display_name": "French Toast",
         "bedrock_options": {
           "icon": "e34882e8"
         },
@@ -8153,6 +8834,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:g1dbbde3",
+        "display_name": "Bulk Granite",
         "bedrock_options": {
           "icon": "n2c3b42f"
         },
@@ -8161,6 +8843,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:g1f940a5",
+        "display_name": "Carrot Cupcake",
         "bedrock_options": {
           "icon": "j3e5fb97"
         },
@@ -8169,6 +8852,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:g4f4531d",
+        "display_name": "Ruby Circlet",
         "bedrock_options": {
           "icon": "i6c749de"
         },
@@ -8177,6 +8861,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ge8f8bb2",
+        "display_name": "Ptero Chicken Nugget",
         "bedrock_options": {
           "icon": "f3f57811"
         },
@@ -8185,6 +8870,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:h03d5713",
+        "display_name": "Bulk Smooth Quartz",
         "bedrock_options": {
           "icon": "pf889d65"
         },
@@ -8193,6 +8879,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:h205cfc8",
+        "display_name": "Secret Meal",
         "bedrock_options": {
           "icon": "j7297551"
         },
@@ -8201,6 +8888,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:h373f8da",
+        "display_name": "Braised Toadstool",
         "bedrock_options": {
           "icon": "b7924000"
         },
@@ -8209,6 +8897,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:h5e7da0b",
+        "display_name": "Rose",
         "bedrock_options": {
           "icon": "e59ee8a0"
         },
@@ -8217,6 +8906,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:h93f5260",
+        "display_name": "Bulk Terracotta",
         "bedrock_options": {
           "icon": "ff316b77"
         },
@@ -8225,6 +8915,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:hc7f029f",
+        "display_name": "Steamed Carrots",
         "bedrock_options": {
           "icon": "h919fc69"
         },
@@ -8233,6 +8924,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:i4111ed8",
+        "display_name": "Melon Sorbet",
         "bedrock_options": {
           "icon": "dd4feddc"
         },
@@ -8241,6 +8933,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:i422ade2",
+        "display_name": "Chocolate Chip Cookie",
         "bedrock_options": {
           "icon": "a21e5947"
         },
@@ -8249,6 +8942,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:i44e6a1c",
+        "display_name": "Canned Apples",
         "bedrock_options": {
           "icon": "d9930685"
         },
@@ -8257,6 +8951,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:i49d1d46",
+        "display_name": "Bulk Dirt",
         "bedrock_options": {
           "icon": "f10c659f"
         },
@@ -8265,6 +8960,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:i811a9dc",
+        "display_name": "Grilled Melon",
         "bedrock_options": {
           "icon": "m2db00fe"
         },
@@ -8273,6 +8969,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:i83c2d0f",
+        "display_name": "Smithing Trim Color",
         "bedrock_options": {
           "icon": "l15db417"
         },
@@ -8281,6 +8978,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ib896f93",
+        "display_name": "Smithing Trim Color",
         "bedrock_options": {
           "icon": "j32b7df0"
         },
@@ -8289,6 +8987,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:j50d2f1b",
+        "display_name": "Golden Pickled Carrots",
         "bedrock_options": {
           "icon": "nd008cc8"
         },
@@ -8297,6 +8996,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:j64d2fd5",
+        "display_name": "Crystal Heart",
         "bedrock_options": {
           "icon": "c55bbc58"
         },
@@ -8305,6 +9005,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:j69233ad",
+        "display_name": "Gimmari",
         "bedrock_options": {
           "icon": "f18362dc"
         },
@@ -8313,6 +9014,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:j8a8c8aa",
+        "display_name": "Bulk Deepslate",
         "bedrock_options": {
           "icon": "c444c039"
         },
@@ -8321,6 +9023,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:j8cdb821",
+        "display_name": "Sun-dried Tomatoes",
         "bedrock_options": {
           "icon": "m6c9d46a"
         },
@@ -8329,6 +9032,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:j95d7fa4",
+        "display_name": "Brownie",
         "bedrock_options": {
           "icon": "n286287c"
         },
@@ -8337,6 +9041,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:j9fca701",
+        "display_name": "Suimono",
         "bedrock_options": {
           "icon": "g5c737c3"
         },
@@ -8345,6 +9050,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:jb66e585",
+        "display_name": "Amber",
         "bedrock_options": {
           "icon": "e86c8be7"
         },
@@ -8353,6 +9059,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:jf0276a2",
+        "display_name": "Topaz",
         "bedrock_options": {
           "icon": "nefc9455"
         },
@@ -8361,6 +9068,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:k4a512ce",
+        "display_name": "Smithing Trim Color",
         "bedrock_options": {
           "icon": "h6c2cc25"
         },
@@ -8369,6 +9077,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:k69bc75a",
+        "display_name": "Bulk Smooth Red Sandstone",
         "bedrock_options": {
           "icon": "lcf7cac4"
         },
@@ -8377,6 +9086,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:kde0c909",
+        "display_name": "Puerquito",
         "bedrock_options": {
           "icon": "k8dc0e7d"
         },
@@ -8385,6 +9095,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:kf899018",
+        "display_name": "Secret Ingredient",
         "bedrock_options": {
           "icon": "dc04801d"
         },
@@ -8393,6 +9104,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:l46d1db4",
+        "display_name": "Warped Pizza",
         "bedrock_options": {
           "icon": "cd5382d1"
         },
@@ -8401,6 +9113,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:le71a9a6",
+        "display_name": "Green Curry",
         "bedrock_options": {
           "icon": "h8965aa5"
         },
@@ -8409,6 +9122,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:m1426560",
+        "display_name": "Pupusa",
         "bedrock_options": {
           "icon": "je398b13"
         },
@@ -8417,6 +9131,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:m18a18d5",
+        "display_name": "Fried Egg",
         "bedrock_options": {
           "icon": "ff5c1fab"
         },
@@ -8425,6 +9140,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:m2f3c77b",
+        "display_name": "Ice Cream",
         "bedrock_options": {
           "icon": "dcaabf9f"
         },
@@ -8433,6 +9149,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:m36755f0",
+        "display_name": "Lumpia",
         "bedrock_options": {
           "icon": "m0789293"
         },
@@ -8441,6 +9158,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:m97b94ff",
+        "display_name": "Charred Meat",
         "bedrock_options": {
           "icon": "gc2f8403"
         },
@@ -8449,6 +9167,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:mb26ebb6",
+        "display_name": "Stroganoff",
         "bedrock_options": {
           "icon": "o9739235"
         },
@@ -8457,6 +9176,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:mbcf5e1a",
+        "display_name": "Smithing Trim Color",
         "bedrock_options": {
           "icon": "i030e865"
         },
@@ -8465,6 +9185,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:me2f2a1f",
+        "display_name": "Smithing Trim Color",
         "bedrock_options": {
           "icon": "a95f7100"
         },
@@ -8473,6 +9194,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:n40093cc",
+        "display_name": "Stego Chicken Nugget",
         "bedrock_options": {
           "icon": "e6147960"
         },
@@ -8481,6 +9203,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:n6586a8c",
+        "display_name": "Gnocchi",
         "bedrock_options": {
           "icon": "m5f9a97a"
         },
@@ -8489,6 +9212,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:n7560573",
+        "display_name": "Bruschetta",
         "bedrock_options": {
           "icon": "g3dd77b5"
         },
@@ -8497,6 +9221,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:n9742a49",
+        "display_name": "Pad Thai",
         "bedrock_options": {
           "icon": "bcc17ca0"
         },
@@ -8505,6 +9230,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:na03ce51",
+        "display_name": "Gilded Empanada",
         "bedrock_options": {
           "icon": "e1b75fdb"
         },
@@ -8513,6 +9239,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:nc0123e1",
+        "display_name": "Topaz Earrings",
         "bedrock_options": {
           "icon": "ld8b98d4"
         },
@@ -8521,6 +9248,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:nc630367",
+        "display_name": "Charred Fish",
         "bedrock_options": {
           "icon": "ab41c76e"
         },
@@ -8529,6 +9257,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:o12fbe20",
+        "display_name": "Amnestic",
         "bedrock_options": {
           "icon": "peb30af9"
         },
@@ -8537,6 +9266,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:o2ba1cc1",
+        "display_name": "Bu\u00f1uelo",
         "bedrock_options": {
           "icon": "l57da4c8"
         },
@@ -8545,6 +9275,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:o6d9409f",
+        "display_name": "Sweet Berry Toast",
         "bedrock_options": {
           "icon": "dc69d754"
         },
@@ -8553,6 +9284,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:oa2a8d13",
+        "display_name": "Crimson Stroganoff",
         "bedrock_options": {
           "icon": "ce3af5a0"
         },
@@ -8561,6 +9293,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ob8ccec5",
+        "display_name": "Smithing Trim Color",
         "bedrock_options": {
           "icon": "b429e31a"
         },
@@ -8569,6 +9302,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:obe9bcb1",
+        "display_name": "Rind Jam",
         "bedrock_options": {
           "icon": "b22c3a50"
         },
@@ -8577,6 +9311,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:of1574a2",
+        "display_name": "Cheese Pizza",
         "bedrock_options": {
           "icon": "l042bb08"
         },
@@ -8585,6 +9320,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:p1da9316",
+        "display_name": "Bulk Andesite",
         "bedrock_options": {
           "icon": "i9d86266"
         },
@@ -8593,6 +9329,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:p5a15818",
+        "display_name": "Smithing Trim Color",
         "bedrock_options": {
           "icon": "had58d4e"
         },
@@ -8601,6 +9338,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:p617b892",
+        "display_name": "Sweet Berry Danish",
         "bedrock_options": {
           "icon": "k2841e24"
         },
@@ -8609,6 +9347,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:p7cae4be",
+        "display_name": "Diamond Earrings",
         "bedrock_options": {
           "icon": "g65f5cdc"
         },
@@ -8617,6 +9356,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:p8780dc3",
+        "display_name": "Tonkotsu Ramen",
         "bedrock_options": {
           "icon": "a68a8f52"
         },
@@ -8625,6 +9365,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:pb92ea82",
+        "display_name": "Smithing Trim Color",
         "bedrock_options": {
           "icon": "d2d0536d"
         },
@@ -8633,6 +9374,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:pe0599af",
+        "display_name": "Bulk Flowstone",
         "bedrock_options": {
           "icon": "f4132584"
         },
@@ -8641,6 +9383,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:pf1ba31c",
+        "display_name": "Kontomire-Dandelion Stew",
         "bedrock_options": {
           "icon": "n5d14d48"
         },
@@ -8651,6 +9394,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:caa29f73",
+        "display_name": "Porkchop",
         "bedrock_options": {
           "icon": "aa63ecbd"
         },
@@ -8661,6 +9405,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:j28b4820",
+        "display_name": "Freshwater Puffer",
         "bedrock_options": {
           "icon": "bbca8981"
         },
@@ -8671,6 +9416,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a8cbb7a9",
+        "display_name": "Fox Pelt",
         "bedrock_options": {
           "icon": "i399d6f5"
         },
@@ -8679,6 +9425,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:oc9a420e",
+        "display_name": "Fox Pelt",
         "bedrock_options": {
           "icon": "ie964139"
         },
@@ -8689,6 +9436,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:d15ce9f5",
+        "display_name": "Tonkotsu Ramen",
         "bedrock_options": {
           "icon": "a68a8f52"
         },
@@ -8697,6 +9445,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:g3d413d2",
+        "display_name": "Japanese Curry",
         "bedrock_options": {
           "icon": "pefeddcf"
         },
@@ -8705,6 +9454,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:iccbd39d",
+        "display_name": "Green Curry",
         "bedrock_options": {
           "icon": "h8965aa5"
         },
@@ -8713,6 +9463,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:o8909230",
+        "display_name": "Paneer Makhani",
         "bedrock_options": {
           "icon": "k5a97517"
         },
@@ -8723,6 +9474,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a1a0ac3c",
+        "display_name": "Arapaima",
         "bedrock_options": {
           "icon": "ka8bda20"
         },
@@ -8731,6 +9483,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a6e0f4da",
+        "display_name": "Painted Moray",
         "bedrock_options": {
           "icon": "e4cb2922"
         },
@@ -8739,6 +9492,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a6f1e839",
+        "display_name": "Bass",
         "bedrock_options": {
           "icon": "lff5fa24"
         },
@@ -8747,6 +9501,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:aee57cd1",
+        "display_name": "Gar",
         "bedrock_options": {
           "icon": "d291019f"
         },
@@ -8755,6 +9510,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b189c712",
+        "display_name": "Wolffish",
         "bedrock_options": {
           "icon": "od5c7077"
         },
@@ -8763,6 +9519,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b6e2b4f9",
+        "display_name": "Black Seabass",
         "bedrock_options": {
           "icon": "m0559cd3"
         },
@@ -8771,6 +9528,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c9d93fb2",
+        "display_name": "Siberian Sturgeon",
         "bedrock_options": {
           "icon": "k4c64b63"
         },
@@ -8779,6 +9537,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f6a57d0e",
+        "display_name": "European Eel",
         "bedrock_options": {
           "icon": "b98583a4"
         },
@@ -8787,6 +9546,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f6b7c5d2",
+        "display_name": "Catfish",
         "bedrock_options": {
           "icon": "bf2109a1"
         },
@@ -8795,6 +9555,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:g0419cf6",
+        "display_name": "Blue Marlin",
         "bedrock_options": {
           "icon": "ka1e94af"
         },
@@ -8803,6 +9564,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:i92cfec8",
+        "display_name": "Tunisian Barb",
         "bedrock_options": {
           "icon": "ca295835"
         },
@@ -8811,6 +9573,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:if4e18fb",
+        "display_name": "Skate",
         "bedrock_options": {
           "icon": "e0153916"
         },
@@ -8819,6 +9582,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:j2ae76ba",
+        "display_name": "Opah",
         "bedrock_options": {
           "icon": "i8b02ac6"
         },
@@ -8827,6 +9591,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:k2ae18a1",
+        "display_name": "Oarfish",
         "bedrock_options": {
           "icon": "m0f7111f"
         },
@@ -8835,6 +9600,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:m1e9334f",
+        "display_name": "Flounder",
         "bedrock_options": {
           "icon": "he96b723"
         },
@@ -8843,6 +9609,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:m44b388e",
+        "display_name": "Echo Eel",
         "bedrock_options": {
           "icon": "n40fa2ab"
         },
@@ -8851,6 +9618,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:mf045a61",
+        "display_name": "Muskellunge",
         "bedrock_options": {
           "icon": "a772fe2d"
         },
@@ -8859,6 +9627,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:o1648df5",
+        "display_name": "Northern Pike",
         "bedrock_options": {
           "icon": "b847cff6"
         },
@@ -8867,6 +9636,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:o2e96e79",
+        "display_name": "Carp",
         "bedrock_options": {
           "icon": "a709e62b"
         },
@@ -8875,6 +9645,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:o92ded7a",
+        "display_name": "Walleye",
         "bedrock_options": {
           "icon": "h21e710d"
         },
@@ -8883,6 +9654,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:p288e9d4",
+        "display_name": "Armoured Catfish",
         "bedrock_options": {
           "icon": "f0afac8a"
         },
@@ -8891,6 +9663,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:p5d145a9",
+        "display_name": "Mahi mahi",
         "bedrock_options": {
           "icon": "i32dfe83"
         },
@@ -8899,6 +9672,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:p700c67f",
+        "display_name": "Monkfish",
         "bedrock_options": {
           "icon": "ja17abd2"
         },
@@ -8907,6 +9681,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:pca4ac8b",
+        "display_name": "Sturgeon",
         "bedrock_options": {
           "icon": "f154f5d7"
         },
@@ -8917,6 +9692,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:n3424a5f",
+        "display_name": "Freshwater Temperate",
         "bedrock_options": {
           "icon": "f2cdfc27"
         },
@@ -8927,6 +9703,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c603c180",
+        "display_name": "Copper Shears",
         "bedrock_options": {
           "icon": "o653303e",
           "display_handheld": true
@@ -8936,6 +9713,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:g80769a3",
+        "display_name": "Shepherd's Shears",
         "bedrock_options": {
           "icon": "ge1dcd21",
           "display_handheld": true
@@ -8945,6 +9723,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:n2d0529c",
+        "display_name": "Steel Shears",
         "bedrock_options": {
           "icon": "m00c3eef",
           "display_handheld": true
@@ -8956,6 +9735,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:e8e61bc7",
+        "display_name": "Brown Lamb",
         "bedrock_options": {
           "icon": "d0e9c878"
         },
@@ -8964,6 +9744,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f5bbd0d8",
+        "display_name": "White Lamb",
         "bedrock_options": {
           "icon": "cd62d1ca"
         },
@@ -8972,6 +9753,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:g82e2010",
+        "display_name": "Black Lamb",
         "bedrock_options": {
           "icon": "o5fa9834"
         },
@@ -8982,6 +9764,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:g5b7c441",
+        "display_name": "Sulfur Goo",
         "bedrock_options": {
           "icon": "k4e239e2"
         },
@@ -8992,6 +9775,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:g8799653",
+        "display_name": "Sparkling Mead",
         "bedrock_options": {
           "icon": "m34520ee"
         },
@@ -9000,6 +9784,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:j5c25043",
+        "display_name": "Pickled Crimson Fungus",
         "bedrock_options": {
           "icon": "kaab67ce"
         },
@@ -9008,6 +9793,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:j7128589",
+        "display_name": "Pickled Warped Fungus",
         "bedrock_options": {
           "icon": "f7deebbb"
         },
@@ -9016,6 +9802,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:lb794c5b",
+        "display_name": "Pickled Toadstools",
         "bedrock_options": {
           "icon": "mf8ca477"
         },
@@ -9026,6 +9813,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a1b4530d",
+        "display_name": "Shipwreck Map",
         "bedrock_options": {
           "icon": "j864d71a"
         },
@@ -9034,6 +9822,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b1a2e1e6",
+        "display_name": "Papal Outpost Map",
         "bedrock_options": {
           "icon": "h76cfb3b"
         },
@@ -9042,6 +9831,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:e8508cf5",
+        "display_name": "Chocolate",
         "bedrock_options": {
           "icon": "g7e8921a"
         },
@@ -9050,6 +9840,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:g3f02ebd",
+        "display_name": "Braised Brown Mushroom",
         "bedrock_options": {
           "icon": "k4a3b2fa"
         },
@@ -9058,6 +9849,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ga66407d",
+        "display_name": "Brown Feather",
         "bedrock_options": {
           "icon": "g7105177"
         },
@@ -9066,6 +9858,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ge1bf984",
+        "display_name": "Sweet Berry Mash",
         "bedrock_options": {
           "icon": "b4913f3b"
         },
@@ -9074,6 +9867,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:h81b8840",
+        "display_name": "Green Egg",
         "bedrock_options": {
           "icon": "fb5190ff"
         },
@@ -9082,6 +9876,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:i855c4e5",
+        "display_name": "Pale Garden",
         "bedrock_options": {
           "icon": "d2022be1"
         },
@@ -9090,6 +9885,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:j8fc8359",
+        "display_name": "Abbey Map",
         "bedrock_options": {
           "icon": "b73d6623"
         },
@@ -9098,6 +9894,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:jb5cd022",
+        "display_name": "Trail Ruins Map",
         "bedrock_options": {
           "icon": "f9379f62"
         },
@@ -9106,6 +9903,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:m6f2ad9c",
+        "display_name": "Music Disc Dry Hands",
         "bedrock_options": {
           "icon": "naef9714"
         },
@@ -9114,6 +9912,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:n247d548",
+        "display_name": "Small Egg",
         "bedrock_options": {
           "icon": "j962ee0f"
         },
@@ -9122,6 +9921,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:pa24d4ff",
+        "display_name": "Glow Mash",
         "bedrock_options": {
           "icon": "b97ef2d2"
         },
@@ -9132,6 +9932,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f5345f83",
+        "display_name": "Shakudo Axe",
         "bedrock_options": {
           "icon": "h9784039",
           "display_handheld": true
@@ -9141,6 +9942,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f8a15f6d",
+        "display_name": "Hepatizon Dolabra",
         "bedrock_options": {
           "icon": "n3ac3a7c",
           "display_handheld": true
@@ -9150,6 +9952,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:geaf7d59",
+        "display_name": "Shakudo Dolabra",
         "bedrock_options": {
           "icon": "ff90751d",
           "display_handheld": true
@@ -9159,6 +9962,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:idd3b0c2",
+        "display_name": "Copper Dolabra",
         "bedrock_options": {
           "icon": "ef8ca996",
           "display_handheld": true
@@ -9168,6 +9972,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:k23d83f2",
+        "display_name": "Hepatizon Axe",
         "bedrock_options": {
           "icon": "a5c03403",
           "display_handheld": true
@@ -9177,6 +9982,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:nf17acdc",
+        "display_name": "Steel Axe",
         "bedrock_options": {
           "icon": "pc00070e",
           "display_handheld": true
@@ -9186,6 +9992,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:o9134e52",
+        "display_name": "Steel Dolabra",
         "bedrock_options": {
           "icon": "b8fc6f81",
           "display_handheld": true
@@ -9197,6 +10004,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:i2e4258f",
+        "display_name": "Shakudo Mattock",
         "bedrock_options": {
           "icon": "d1bc7654",
           "display_handheld": true
@@ -9206,6 +10014,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ie0f70b9",
+        "display_name": "Steel Mattock",
         "bedrock_options": {
           "icon": "p0623d0d",
           "display_handheld": true
@@ -9215,6 +10024,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:j7f82f8c",
+        "display_name": "Shakudo Hoe",
         "bedrock_options": {
           "icon": "a5f86703",
           "display_handheld": true
@@ -9224,6 +10034,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:le13a2c5",
+        "display_name": "Steel Hoe",
         "bedrock_options": {
           "icon": "fb83cf0a",
           "display_handheld": true
@@ -9233,6 +10044,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:md2a1468",
+        "display_name": "Hepatizon Hoe",
         "bedrock_options": {
           "icon": "i0f3bbe8",
           "display_handheld": true
@@ -9242,6 +10054,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:n6670646",
+        "display_name": "Hepatizon Mattock",
         "bedrock_options": {
           "icon": "l7c5d77e",
           "display_handheld": true
@@ -9253,6 +10066,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:icffe97d",
+        "display_name": "Steel Pickaxe",
         "bedrock_options": {
           "icon": "bd3e5166",
           "display_handheld": true
@@ -9262,6 +10076,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:l65388ca",
+        "display_name": "Shakudo Pickaxe",
         "bedrock_options": {
           "icon": "k75e8eab",
           "display_handheld": true
@@ -9271,6 +10086,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:mebd926d",
+        "display_name": "Hepatizon Pickaxe",
         "bedrock_options": {
           "icon": "b83e5bd3",
           "display_handheld": true
@@ -9282,6 +10098,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:l057a525",
+        "display_name": "Shakudo Shovel",
         "bedrock_options": {
           "icon": "id4c3a2f",
           "display_handheld": true
@@ -9291,6 +10108,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:l2653012",
+        "display_name": "Steel Shovel",
         "bedrock_options": {
           "icon": "k07b5b89",
           "display_handheld": true
@@ -9300,6 +10118,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:mb7f90b1",
+        "display_name": "Hepatizon Shovel",
         "bedrock_options": {
           "icon": "ge9aa695",
           "display_handheld": true
@@ -9309,6 +10128,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:obeccaba",
+        "display_name": "Steel Shears",
         "bedrock_options": {
           "icon": "m00c3eef",
           "display_handheld": true
@@ -9320,6 +10140,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ed33ea9a",
+        "display_name": "Hepatizon Spear",
         "bedrock_options": {
           "icon": "j8094b82"
         },
@@ -9328,6 +10149,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:j4c25bb8",
+        "display_name": "Steel Spear",
         "bedrock_options": {
           "icon": "l5b2fec2"
         },
@@ -9336,6 +10158,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:m2997715",
+        "display_name": "Shakudo Spear",
         "bedrock_options": {
           "icon": "oa14f610"
         },
@@ -9346,6 +10169,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c056e2f9",
+        "display_name": "Sweet Berry Mash",
         "bedrock_options": {
           "icon": "b4913f3b"
         },
@@ -9354,6 +10178,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:c21ae882",
+        "display_name": "Trail Ruins Map",
         "bedrock_options": {
           "icon": "f9379f62"
         },
@@ -9362,6 +10187,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:d124aa46",
+        "display_name": "Electrum Pickaxe",
         "bedrock_options": {
           "icon": "e0fe04b2",
           "display_handheld": true
@@ -9371,6 +10197,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:d33c4052",
+        "display_name": "Glow Mash",
         "bedrock_options": {
           "icon": "b97ef2d2"
         },
@@ -9379,6 +10206,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:dd9b52a3",
+        "display_name": "Shakudo Sword",
         "bedrock_options": {
           "icon": "kd4ea8f9",
           "display_handheld": true
@@ -9388,6 +10216,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:e9915fb3",
+        "display_name": "Hepatizon Sword",
         "bedrock_options": {
           "icon": "md690bf4",
           "display_handheld": true
@@ -9397,6 +10226,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f0045cd9",
+        "display_name": "Small Egg",
         "bedrock_options": {
           "icon": "j962ee0f"
         },
@@ -9405,6 +10235,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f14c033a",
+        "display_name": "Braised Brown Mushroom",
         "bedrock_options": {
           "icon": "k4a3b2fa"
         },
@@ -9413,6 +10244,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f8059b51",
+        "display_name": "Green Egg",
         "bedrock_options": {
           "icon": "fb5190ff"
         },
@@ -9421,6 +10253,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ga64a209",
+        "display_name": "Cleaver",
         "bedrock_options": {
           "icon": "o6b750b4",
           "display_handheld": true
@@ -9430,6 +10263,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:hf92641f",
+        "display_name": "Papal Outpost Map",
         "bedrock_options": {
           "icon": "h76cfb3b"
         },
@@ -9438,6 +10272,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:i561a7c9",
+        "display_name": "Pale Garden",
         "bedrock_options": {
           "icon": "d2022be1"
         },
@@ -9446,6 +10281,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:i6fc39a6",
+        "display_name": "Music Disc Dry Hands",
         "bedrock_options": {
           "icon": "naef9714"
         },
@@ -9454,6 +10290,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:j0b22de7",
+        "display_name": "Steel Claymore",
         "bedrock_options": {
           "icon": "k1b1fe66",
           "display_handheld": true
@@ -9463,6 +10300,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:j422b991",
+        "display_name": "Shipwreck Map",
         "bedrock_options": {
           "icon": "j864d71a"
         },
@@ -9471,6 +10309,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:jf572f48",
+        "display_name": "Abbey Map",
         "bedrock_options": {
           "icon": "b73d6623"
         },
@@ -9479,6 +10318,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:l24db65e",
+        "display_name": "Silver Sword",
         "bedrock_options": {
           "icon": "ede48dba",
           "display_handheld": true
@@ -9488,6 +10328,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:l9388c02",
+        "display_name": "Steel Sword",
         "bedrock_options": {
           "icon": "jfcf3525",
           "display_handheld": true
@@ -9497,6 +10338,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:m4be2ce2",
+        "display_name": "Warding Sword",
         "bedrock_options": {
           "icon": "ff74568d",
           "display_handheld": true
@@ -9506,6 +10348,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:naee2ddd",
+        "display_name": "Brown Feather",
         "bedrock_options": {
           "icon": "g7105177"
         },
@@ -9514,6 +10357,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:o2f36832",
+        "display_name": "Chocolate",
         "bedrock_options": {
           "icon": "g7e8921a"
         },
@@ -9524,6 +10368,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f23ebe55",
+        "display_name": "Apotropaic Arrow",
         "bedrock_options": {
           "icon": "n7536c20"
         },
@@ -9532,6 +10377,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:o67c5a71",
+        "display_name": "Nightshade Arrow",
         "bedrock_options": {
           "icon": "e2910216"
         },
@@ -9542,6 +10388,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:m855b8a6",
+        "display_name": "Saltwater Temperate",
         "bedrock_options": {
           "icon": "l833277d"
         },
@@ -9552,6 +10399,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ia462cb1",
+        "display_name": "Asylum Seeker",
         "bedrock_options": {
           "icon": "n57b1222"
         },
@@ -9562,6 +10410,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:a6ae924e",
+        "display_name": "Shakudo Pickaxe",
         "bedrock_options": {
           "icon": "k75e8eab",
           "display_handheld": true
@@ -9571,6 +10420,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f8555427",
+        "display_name": "Steel Dolabra",
         "bedrock_options": {
           "icon": "b8fc6f81",
           "display_handheld": true
@@ -9582,6 +10432,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:if955301",
+        "display_name": "Hepatizon Pickaxe",
         "bedrock_options": {
           "icon": "b83e5bd3",
           "display_handheld": true
@@ -9593,6 +10444,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:b9a05473",
+        "display_name": "Papal Outpost Map",
         "bedrock_options": {
           "icon": "h76cfb3b"
         },
@@ -9601,6 +10453,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:d07bce75",
+        "display_name": "Trail Ruins Map",
         "bedrock_options": {
           "icon": "f9379f62"
         },
@@ -9609,6 +10462,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f4678e8f",
+        "display_name": "Pale Garden",
         "bedrock_options": {
           "icon": "d2022be1"
         },
@@ -9617,6 +10471,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:f74610d5",
+        "display_name": "Brown Feather",
         "bedrock_options": {
           "icon": "g7105177"
         },
@@ -9625,6 +10480,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:fc734221",
+        "display_name": "Crook",
         "bedrock_options": {
           "icon": "p1539cab",
           "display_handheld": true
@@ -9634,6 +10490,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ff302b6f",
+        "display_name": "Sweet Berry Mash",
         "bedrock_options": {
           "icon": "b4913f3b"
         },
@@ -9642,6 +10499,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:geba30a9",
+        "display_name": "Braised Brown Mushroom",
         "bedrock_options": {
           "icon": "k4a3b2fa"
         },
@@ -9650,6 +10508,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:ha3ae5cb",
+        "display_name": "Chocolate",
         "bedrock_options": {
           "icon": "g7e8921a"
         },
@@ -9658,6 +10517,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:k0bd8508",
+        "display_name": "Abbey Map",
         "bedrock_options": {
           "icon": "b73d6623"
         },
@@ -9666,6 +10526,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:kb0665d0",
+        "display_name": "Music Disc Dry Hands",
         "bedrock_options": {
           "icon": "naef9714"
         },
@@ -9674,6 +10535,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:lc62dcc4",
+        "display_name": "Green Egg",
         "bedrock_options": {
           "icon": "fb5190ff"
         },
@@ -9682,6 +10544,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:n91bceee",
+        "display_name": "Glow Mash",
         "bedrock_options": {
           "icon": "b97ef2d2"
         },
@@ -9690,6 +10553,7 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:necb24de",
+        "display_name": "Small Egg",
         "bedrock_options": {
           "icon": "j962ee0f"
         },
@@ -9698,10 +10562,253 @@
       {
         "type": "definition",
         "bedrock_identifier": "r:o3c5f204",
+        "display_name": "Shipwreck Map",
         "bedrock_options": {
           "icon": "j864d71a"
         },
         "model": "matcha:shipwreck_map"
+      }
+    ],
+    "minecraft:blaze_spawn_egg": [
+      {
+        "type": "definition",
+        "bedrock_identifier": "r:v3420879",
+        "display_name": "Nazar",
+        "bedrock_options": {
+          "icon": "v537ab3b"
+        },
+        "model": "minecraft:blaze_spawn_egg"
+      }
+    ],
+    "minecraft:breeze_rod": [
+      {
+        "type": "definition",
+        "bedrock_identifier": "r:v0c5d1f7",
+        "display_name": "Baked Pumpkin",
+        "bedrock_options": {
+          "icon": "v788ba2c"
+        },
+        "model": "minecraft:breeze_rod"
+      }
+    ],
+    "minecraft:enderman_spawn_egg": [
+      {
+        "type": "definition",
+        "bedrock_identifier": "r:v4e96dc5",
+        "display_name": "Flour",
+        "bedrock_options": {
+          "icon": "vafbf048"
+        },
+        "model": "minecraft:enderman_spawn_egg"
+      }
+    ],
+    "minecraft:endermite_spawn_egg": [
+      {
+        "type": "definition",
+        "bedrock_identifier": "r:vf184a65",
+        "display_name": "Benzene",
+        "bedrock_options": {
+          "icon": "v374403d"
+        },
+        "model": "minecraft:endermite_spawn_egg"
+      }
+    ],
+    "minecraft:fermented_spider_eye": [
+      {
+        "type": "definition",
+        "bedrock_identifier": "r:v0be9a45",
+        "display_name": "Baked Apple",
+        "bedrock_options": {
+          "icon": "v952bbb0"
+        },
+        "model": "minecraft:fermented_spider_eye"
+      }
+    ],
+    "minecraft:ghast_spawn_egg": [
+      {
+        "type": "definition",
+        "bedrock_identifier": "r:v360cd12",
+        "display_name": "Pumpkin Curry Stock",
+        "bedrock_options": {
+          "icon": "v3e61fe8"
+        },
+        "model": "minecraft:ghast_spawn_egg"
+      }
+    ],
+    "minecraft:happy_ghast_spawn_egg": [
+      {
+        "type": "definition",
+        "bedrock_identifier": "r:v9013322",
+        "display_name": "Oil",
+        "bedrock_options": {
+          "icon": "v96221a9"
+        },
+        "model": "minecraft:happy_ghast_spawn_egg"
+      }
+    ],
+    "minecraft:hoglin_spawn_egg": [
+      {
+        "type": "definition",
+        "bedrock_identifier": "r:v676feea",
+        "display_name": "Seitan",
+        "bedrock_options": {
+          "icon": "v14aff43"
+        },
+        "model": "minecraft:hoglin_spawn_egg"
+      }
+    ],
+    "minecraft:magma_cream": [
+      {
+        "type": "definition",
+        "bedrock_identifier": "r:ve725368",
+        "display_name": "Sweet Berry Mash",
+        "bedrock_options": {
+          "icon": "v392dbea"
+        },
+        "model": "minecraft:magma_cream"
+      }
+    ],
+    "minecraft:magma_cube_spawn_egg": [
+      {
+        "type": "definition",
+        "bedrock_identifier": "r:v6ebd7a8",
+        "display_name": "Bag of Flour",
+        "bedrock_options": {
+          "icon": "vbb164d5"
+        },
+        "model": "minecraft:magma_cube_spawn_egg"
+      }
+    ],
+    "minecraft:mushroom_stew": [
+      {
+        "type": "definition",
+        "bedrock_identifier": "r:v2b5d411",
+        "display_name": "Chocolate",
+        "bedrock_options": {
+          "icon": "vb91d862"
+        },
+        "model": "minecraft:mushroom_stew"
+      }
+    ],
+    "minecraft:piglin_brute_spawn_egg": [
+      {
+        "type": "definition",
+        "bedrock_identifier": "r:vd9f1b65",
+        "display_name": "Carbon-Rich Iron",
+        "bedrock_options": {
+          "icon": "v5a7be97"
+        },
+        "model": "minecraft:piglin_brute_spawn_egg"
+      }
+    ],
+    "minecraft:piglin_spawn_egg": [
+      {
+        "type": "definition",
+        "bedrock_identifier": "r:v934a7e4",
+        "display_name": "Molasses",
+        "bedrock_options": {
+          "icon": "v7b41c90"
+        },
+        "model": "minecraft:piglin_spawn_egg"
+      }
+    ],
+    "minecraft:rabbit_foot": [
+      {
+        "type": "definition",
+        "bedrock_identifier": "r:v86498cb",
+        "display_name": "Braised Mushroom",
+        "bedrock_options": {
+          "icon": "v4cb8508"
+        },
+        "model": "minecraft:rabbit_foot"
+      }
+    ],
+    "minecraft:resin_brick": [
+      {
+        "type": "definition",
+        "bedrock_identifier": "r:v91e1af1",
+        "display_name": "Steel Alloy",
+        "bedrock_options": {
+          "icon": "v134e070"
+        },
+        "model": "minecraft:resin_brick"
+      }
+    ],
+    "minecraft:rotten_flesh": [
+      {
+        "type": "definition",
+        "bedrock_identifier": "r:vafb39c0",
+        "display_name": "Glow Berry Mash",
+        "bedrock_options": {
+          "icon": "vc1a0c44"
+        },
+        "model": "minecraft:rotten_flesh"
+      }
+    ],
+    "minecraft:shulker_spawn_egg": [
+      {
+        "type": "definition",
+        "bedrock_identifier": "r:vbec032b",
+        "display_name": "Dough",
+        "bedrock_options": {
+          "icon": "vcf4c89c"
+        },
+        "model": "minecraft:shulker_spawn_egg"
+      }
+    ],
+    "minecraft:strider_spawn_egg": [
+      {
+        "type": "definition",
+        "bedrock_identifier": "r:v9d249f5",
+        "display_name": "Curry Stock",
+        "bedrock_options": {
+          "icon": "vea162ed"
+        },
+        "model": "minecraft:strider_spawn_egg"
+      }
+    ],
+    "minecraft:vindicator_spawn_egg": [
+      {
+        "type": "definition",
+        "bedrock_identifier": "r:v20b120a",
+        "display_name": "Raw Diamond",
+        "bedrock_options": {
+          "icon": "v499293a"
+        },
+        "model": "minecraft:vindicator_spawn_egg"
+      }
+    ],
+    "minecraft:wither_skeleton_spawn_egg": [
+      {
+        "type": "definition",
+        "bedrock_identifier": "r:v596fea0",
+        "display_name": "Ramen Stock",
+        "bedrock_options": {
+          "icon": "vda13e7d"
+        },
+        "model": "minecraft:wither_skeleton_spawn_egg"
+      }
+    ],
+    "minecraft:zoglin_spawn_egg": [
+      {
+        "type": "definition",
+        "bedrock_identifier": "r:va3cd790",
+        "display_name": "Paneer Curry Stock",
+        "bedrock_options": {
+          "icon": "vd5bd6b9"
+        },
+        "model": "minecraft:zoglin_spawn_egg"
+      }
+    ],
+    "minecraft:zombified_piglin_spawn_egg": [
+      {
+        "type": "definition",
+        "bedrock_identifier": "r:ve762ce0",
+        "display_name": "Green Curry Stock",
+        "bedrock_options": {
+          "icon": "vc187ec6"
+        },
+        "model": "minecraft:zombified_piglin_spawn_egg"
       }
     ]
   }
