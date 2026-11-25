@@ -1,0 +1,36 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "matcha:item/shakudo_elytra_broken",
+      "materials": {
+        "default": "elytra",
+        "enchanted": "elytra_glint"
+      },
+      "textures": {
+        "default": "textures/entity/equipment/wings/shakudo_elytra",
+        "enchanted": "textures/misc/enchanted_actor_glint"
+      },
+      "geometry": {
+        "default": "geometry.elytra"
+      },
+      "animations": {
+        "swimming": "animation.elytra.swimming",
+        "default": "animation.elytra.default",
+        "gliding": "animation.elytra.gliding",
+        "sneaking": "animation.elytra.sneaking",
+        "sleeping": "animation.elytra.sleeping",
+        "default_controller": "controller.animation.elytra.default"
+      },
+      "scripts": {
+        "animate": [
+          "default_controller"
+        ],
+        "parent_setup": "variable.chest_layer_visible = 0.0;"
+      },
+      "render_controllers": [
+        "controller.render.armor"
+      ]
+    }
+  }
+}

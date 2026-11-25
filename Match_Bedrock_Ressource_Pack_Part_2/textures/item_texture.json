@@ -1,0 +1,1413 @@
+{
+  "resource_pack_name": "Matcha_V3",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "matcha.item_electrum_chestplate_emerald_trim_icon": {
+      "textures": "textures/item/electrum_chestplate_emerald_trim_icon"
+    },
+    "matcha.item_amber": {
+      "textures": "textures/item/amber"
+    },
+    "matcha.item_chocolate_chip_cookie": {
+      "textures": "textures/item/chocolate_chip_cookie"
+    },
+    "matcha.item_golden_pickled_carrots": {
+      "textures": "textures/item/golden_pickled_carrots"
+    },
+    "matcha.item_sturdy_leather_leggings_iron_trim_icon": {
+      "textures": "textures/item/sturdy_leather_leggings_iron_trim_icon"
+    },
+    "matcha.item_electrum_leggings_quartz_trim_icon": {
+      "textures": "textures/item/electrum_leggings_quartz_trim_icon"
+    },
+    "matcha.item_steel_chestplate_netherite_trim_icon": {
+      "textures": "textures/item/steel_chestplate_netherite_trim_icon"
+    },
+    "matcha.item_steel_sword": {
+      "textures": "textures/item/steel_sword"
+    },
+    "matcha.item_hepatizon_elytra": {
+      "textures": "textures/item/hepatizon_elytra"
+    },
+    "matcha.item_topaz_earrings": {
+      "textures": "textures/item/topaz_earrings"
+    },
+    "matcha.item_electrum_chestplate_iron_trim_icon": {
+      "textures": "textures/item/electrum_chestplate_iron_trim_icon"
+    },
+    "matcha.item_shakudo_leggings_gold_trim_icon": {
+      "textures": "textures/item/shakudo_leggings_gold_trim_icon"
+    },
+    "matcha.item_electrum_chestplate": {
+      "textures": "textures/item/electrum_chestplate"
+    },
+    "matcha.item_electrum_boots_gold_trim_icon": {
+      "textures": "textures/item/electrum_boots_gold_trim_icon"
+    },
+    "matcha.item_shakudo_leggings_copper_trim_icon": {
+      "textures": "textures/item/shakudo_leggings_copper_trim_icon"
+    },
+    "matcha.item_electrum_hoe": {
+      "textures": "textures/item/electrum_hoe"
+    },
+    "matcha.item_electrum_helmet_redstone_trim_icon": {
+      "textures": "textures/item/electrum_helmet_redstone_trim_icon"
+    },
+    "geyser_mc.block_andesite_icon": {
+      "textures": "textures/block/andesite_icon"
+    },
+    "matcha.item_blessing_cronus": {
+      "textures": "textures/item/blessing_cronus"
+    },
+    "matcha.item_steel_boots_amethyst_trim_icon": {
+      "textures": "textures/item/steel_boots_amethyst_trim_icon"
+    },
+    "matcha.item_shakudo_boots": {
+      "textures": "textures/item/shakudo_boots"
+    },
+    "matcha.block_warding_stone_icon": {
+      "textures": "textures/block/warding_stone_icon"
+    },
+    "matcha.item_music_disc_crete": {
+      "textures": "textures/item/music_disc_crete"
+    },
+    "matcha.item_hepatizon_helmet": {
+      "textures": "textures/item/hepatizon_helmet"
+    },
+    "matcha.item_mead": {
+      "textures": "textures/item/mead"
+    },
+    "matcha.item_sturdy_leather_boots_amethyst_trim_icon": {
+      "textures": "textures/item/sturdy_leather_boots_amethyst_trim_icon"
+    },
+    "matcha.item_trim_colour_resin": {
+      "textures": "textures/item/trim_colour_resin"
+    },
+    "matcha.item_hepatizon_sword": {
+      "textures": "textures/item/hepatizon_sword"
+    },
+    "matcha.item_trim_colour_quartz": {
+      "textures": "textures/item/trim_colour_quartz"
+    },
+    "matcha.item_electrum_helmet_hepatizon_trim_icon": {
+      "textures": "textures/item/electrum_helmet_hepatizon_trim_icon"
+    },
+    "matcha.item_shakudo_helmet_hepatizon_trim_icon": {
+      "textures": "textures/item/shakudo_helmet_hepatizon_trim_icon"
+    },
+    "matcha.item_shakudo_boots_amethyst_trim_icon": {
+      "textures": "textures/item/shakudo_boots_amethyst_trim_icon"
+    },
+    "matcha.item_electrum_boots_lapis_trim_icon": {
+      "textures": "textures/item/electrum_boots_lapis_trim_icon"
+    },
+    "matcha.item_shakudo_leggings_shakudo_trim_icon": {
+      "textures": "textures/item/shakudo_leggings_shakudo_trim_icon"
+    },
+    "matcha.item_steel_boots_lapis_trim_icon": {
+      "textures": "textures/item/steel_boots_lapis_trim_icon"
+    },
+    "matcha.item_steel_helmet_quartz_trim_icon": {
+      "textures": "textures/item/steel_helmet_quartz_trim_icon"
+    },
+    "matcha.item_electrum_boots_hepatizon_trim_icon": {
+      "textures": "textures/item/electrum_boots_hepatizon_trim_icon"
+    },
+    "matcha.item_electrum_leggings_emerald_trim_icon": {
+      "textures": "textures/item/electrum_leggings_emerald_trim_icon"
+    },
+    "matcha.item_sturdy_leather_boots_iron_trim_icon": {
+      "textures": "textures/item/sturdy_leather_boots_iron_trim_icon"
+    },
+    "matcha.item_shakudo_leggings_emerald_trim_icon": {
+      "textures": "textures/item/shakudo_leggings_emerald_trim_icon"
+    },
+    "matcha.item_sturdy_leather_helmet_gold_trim_icon": {
+      "textures": "textures/item/sturdy_leather_helmet_gold_trim_icon"
+    },
+    "matcha.item_sturdy_leather_leggings_hepatizon_trim_icon": {
+      "textures": "textures/item/sturdy_leather_leggings_hepatizon_trim_icon"
+    },
+    "matcha.item_shakudo_helmet_copper_trim_icon": {
+      "textures": "textures/item/shakudo_helmet_copper_trim_icon"
+    },
+    "matcha.item_sturdy_leather_boots_electrum_trim_icon": {
+      "textures": "textures/item/sturdy_leather_boots_electrum_trim_icon"
+    },
+    "matcha.item_amnestic_wrapped": {
+      "textures": "textures/item/amnestic_wrapped"
+    },
+    "matcha.item_music_disc_elegy_of_the_abbey": {
+      "textures": "textures/item/music_disc_elegy_of_the_abbey"
+    },
+    "matcha.item_chorus_mochi": {
+      "textures": "textures/item/chorus_mochi"
+    },
+    "matcha.item_avesta": {
+      "textures": "textures/item/avesta"
+    },
+    "matcha.item_steel_boots_electrum_trim_icon": {
+      "textures": "textures/item/steel_boots_electrum_trim_icon"
+    },
+    "matcha.item_steel_claymore": {
+      "textures": "textures/item/steel_claymore"
+    },
+    "matcha.item_shakudo_helmet_iron_trim_icon": {
+      "textures": "textures/item/shakudo_helmet_iron_trim_icon"
+    },
+    "matcha.item_sturdy_leather_leggings_copper_trim_icon": {
+      "textures": "textures/item/sturdy_leather_leggings_copper_trim_icon"
+    },
+    "matcha.item_shakudo_boots_electrum_trim_icon": {
+      "textures": "textures/item/shakudo_boots_electrum_trim_icon"
+    },
+    "matcha.item_electrum_pickaxe": {
+      "textures": "textures/item/electrum_pickaxe"
+    },
+    "matcha.item_ruby_circlet": {
+      "textures": "textures/item/ruby_circlet"
+    },
+    "geyser_mc.block_deepslate_icon": {
+      "textures": "textures/block/deepslate_icon"
+    },
+    "matcha.item_baked_golden_apple": {
+      "textures": "textures/item/baked_golden_apple"
+    },
+    "matcha.item_electrum_helmet_lapis_trim_icon": {
+      "textures": "textures/item/electrum_helmet_lapis_trim_icon"
+    },
+    "matcha.item_steel_pickaxe": {
+      "textures": "textures/item/steel_pickaxe"
+    },
+    "matcha.item_shakudo_helmet_resin_trim_icon": {
+      "textures": "textures/item/shakudo_helmet_resin_trim_icon"
+    },
+    "matcha.item_carrot_cupcake": {
+      "textures": "textures/item/carrot_cupcake"
+    },
+    "matcha.item_shakudo_chestplate_amethyst_trim_icon": {
+      "textures": "textures/item/shakudo_chestplate_amethyst_trim_icon"
+    },
+    "matcha.item_shakudo_leggings_amethyst_trim_icon": {
+      "textures": "textures/item/shakudo_leggings_amethyst_trim_icon"
+    },
+    "matcha.item_steel_leggings_resin_trim_icon": {
+      "textures": "textures/item/steel_leggings_resin_trim_icon"
+    },
+    "matcha.item_steel_chestplate_resin_trim_icon": {
+      "textures": "textures/item/steel_chestplate_resin_trim_icon"
+    },
+    "matcha.item_diamond_mattock": {
+      "textures": "textures/item/diamond_mattock"
+    },
+    "geyser_mc.block_granite_icon": {
+      "textures": "textures/block/granite_icon"
+    },
+    "matcha.item_shakudo_chestplate_gold_trim_icon": {
+      "textures": "textures/item/shakudo_chestplate_gold_trim_icon"
+    },
+    "matcha.item_electrum_leggings_amethyst_trim_icon": {
+      "textures": "textures/item/electrum_leggings_amethyst_trim_icon"
+    },
+    "matcha.item_sturdy_leather_leggings_resin_trim_icon": {
+      "textures": "textures/item/sturdy_leather_leggings_resin_trim_icon"
+    },
+    "matcha.item_shakudo_chestplate_netherite_trim_icon": {
+      "textures": "textures/item/shakudo_chestplate_netherite_trim_icon"
+    },
+    "matcha.item_steel_leggings_iron_trim_icon": {
+      "textures": "textures/item/steel_leggings_iron_trim_icon"
+    },
+    "matcha.item_steel_chestplate_amethyst_trim_icon": {
+      "textures": "textures/item/steel_chestplate_amethyst_trim_icon"
+    },
+    "matcha.item_electrum_boots_diamond_trim_icon": {
+      "textures": "textures/item/electrum_boots_diamond_trim_icon"
+    },
+    "matcha.item_bruschetta": {
+      "textures": "textures/item/bruschetta"
+    },
+    "matcha.item_shakudo_leggings_resin_trim_icon": {
+      "textures": "textures/item/shakudo_leggings_resin_trim_icon"
+    },
+    "matcha.item_pupusa": {
+      "textures": "textures/item/pupusa"
+    },
+    "matcha.item_rose_classic": {
+      "textures": "textures/item/rose_classic"
+    },
+    "geyser_mc.block_prismarine_icon": {
+      "textures": "textures/block/prismarine_icon"
+    },
+    "matcha.item_diamond_dolabra": {
+      "textures": "textures/item/diamond_dolabra"
+    },
+    "matcha.item_shakudo_leggings_electrum_trim_icon": {
+      "textures": "textures/item/shakudo_leggings_electrum_trim_icon"
+    },
+    "matcha.item_steel_chestplate_hepatizon_trim_icon": {
+      "textures": "textures/item/steel_chestplate_hepatizon_trim_icon"
+    },
+    "matcha.item_electrum_axe": {
+      "textures": "textures/item/electrum_axe"
+    },
+    "matcha.item_electrum_leggings_netherite_trim_icon": {
+      "textures": "textures/item/electrum_leggings_netherite_trim_icon"
+    },
+    "matcha.item_shakudo_leggings_netherite_trim_icon": {
+      "textures": "textures/item/shakudo_leggings_netherite_trim_icon"
+    },
+    "matcha.item_electrum_helmet_diamond_trim_icon": {
+      "textures": "textures/item/electrum_helmet_diamond_trim_icon"
+    },
+    "matcha.item_invisible_item_frame": {
+      "textures": "textures/item/invisible_item_frame"
+    },
+    "matcha.item_electrum_boots": {
+      "textures": "textures/item/electrum_boots"
+    },
+    "matcha.item_shakudo_hoe": {
+      "textures": "textures/item/shakudo_hoe"
+    },
+    "matcha.item_steel_boots_copper_trim_icon": {
+      "textures": "textures/item/steel_boots_copper_trim_icon"
+    },
+    "matcha.item_steel_chestplate_copper_trim_icon": {
+      "textures": "textures/item/steel_chestplate_copper_trim_icon"
+    },
+    "matcha.item_brachio_chicken_nugget": {
+      "textures": "textures/item/brachio_chicken_nugget"
+    },
+    "matcha.item_steel_leggings_redstone_trim_icon": {
+      "textures": "textures/item/steel_leggings_redstone_trim_icon"
+    },
+    "matcha.item_cooked_pufferfish": {
+      "textures": "textures/item/cooked_pufferfish"
+    },
+    "matcha.item_mushroom_soup": {
+      "textures": "textures/item/mushroom_soup"
+    },
+    "matcha.item_tricero_chicken_nugget": {
+      "textures": "textures/item/tricero_chicken_nugget"
+    },
+    "geyser_mc.block_terracotta_icon": {
+      "textures": "textures/block/terracotta_icon"
+    },
+    "matcha.item_copper_mattock": {
+      "textures": "textures/item/copper_mattock"
+    },
+    "matcha.item_sturdy_leather_leggings_gold_trim_icon": {
+      "textures": "textures/item/sturdy_leather_leggings_gold_trim_icon"
+    },
+    "matcha.item_steel_chestplate_shakudo_trim_icon": {
+      "textures": "textures/item/steel_chestplate_shakudo_trim_icon"
+    },
+    "matcha.item_copper_dolabra": {
+      "textures": "textures/item/copper_dolabra"
+    },
+    "matcha.item_shakudo_helmet_amethyst_trim_icon": {
+      "textures": "textures/item/shakudo_helmet_amethyst_trim_icon"
+    },
+    "matcha.item_electrum_helmet_gold_trim_icon": {
+      "textures": "textures/item/electrum_helmet_gold_trim_icon"
+    },
+    "matcha.item_sturdy_leather_boots_redstone_trim_icon": {
+      "textures": "textures/item/sturdy_leather_boots_redstone_trim_icon"
+    },
+    "matcha.item_music_disc_abbey": {
+      "textures": "textures/item/music_disc_abbey"
+    },
+    "matcha.item_sturdy_leather_helmet_netherite_trim_icon": {
+      "textures": "textures/item/sturdy_leather_helmet_netherite_trim_icon"
+    },
+    "matcha.item_mushroom_pizza": {
+      "textures": "textures/item/mushroom_pizza"
+    },
+    "matcha.item_shakudo_boots_redstone_trim_icon": {
+      "textures": "textures/item/shakudo_boots_redstone_trim_icon"
+    },
+    "matcha.item_shakudo_helmet_electrum_trim_icon": {
+      "textures": "textures/item/shakudo_helmet_electrum_trim_icon"
+    },
+    "matcha.item_shakudo_helmet_lapis_trim_icon": {
+      "textures": "textures/item/shakudo_helmet_lapis_trim_icon"
+    },
+    "matcha.item_shakudo_leggings_iron_trim_icon": {
+      "textures": "textures/item/shakudo_leggings_iron_trim_icon"
+    },
+    "matcha.item_grilled_melon": {
+      "textures": "textures/item/grilled_melon"
+    },
+    "matcha.item_electrum_boots_emerald_trim_icon": {
+      "textures": "textures/item/electrum_boots_emerald_trim_icon"
+    },
+    "matcha.item_golden_steamed_carrots": {
+      "textures": "textures/item/golden_steamed_carrots"
+    },
+    "matcha.item_electrum_leggings_resin_trim_icon": {
+      "textures": "textures/item/electrum_leggings_resin_trim_icon"
+    },
+    "matcha.item_sturdy_leather_helmet_copper_trim_icon": {
+      "textures": "textures/item/sturdy_leather_helmet_copper_trim_icon"
+    },
+    "matcha.item_green_curry": {
+      "textures": "textures/item/green_curry"
+    },
+    "matcha.item_music_disc_malachite": {
+      "textures": "textures/item/music_disc_malachite"
+    },
+    "matcha.item_electrum_boots_iron_trim_icon": {
+      "textures": "textures/item/electrum_boots_iron_trim_icon"
+    },
+    "matcha.item_iron_mattock": {
+      "textures": "textures/item/iron_mattock"
+    },
+    "matcha.item_sturdy_leather_chestplate_lapis_trim_icon": {
+      "textures": "textures/item/sturdy_leather_chestplate_lapis_trim_icon"
+    },
+    "matcha.item_sturdy_leather_chestplate": {
+      "textures": "textures/item/sturdy_leather_chestplate"
+    },
+    "matcha.item_steel_leggings_lapis_trim_icon": {
+      "textures": "textures/item/steel_leggings_lapis_trim_icon"
+    },
+    "matcha.item_sturdy_leather_boots_quartz_trim_icon": {
+      "textures": "textures/item/sturdy_leather_boots_quartz_trim_icon"
+    },
+    "matcha.item_sturdy_leather_boots_gold_trim_icon": {
+      "textures": "textures/item/sturdy_leather_boots_gold_trim_icon"
+    },
+    "matcha.item_sturdy_leather_leggings_lapis_trim_icon": {
+      "textures": "textures/item/sturdy_leather_leggings_lapis_trim_icon"
+    },
+    "geyser_mc.block_smooth_red_sandstone_icon": {
+      "textures": "textures/block/smooth_red_sandstone_icon"
+    },
+    "matcha.item_shakudo_boots_netherite_trim_icon": {
+      "textures": "textures/item/shakudo_boots_netherite_trim_icon"
+    },
+    "matcha.item_iron_dolabra": {
+      "textures": "textures/item/iron_dolabra"
+    },
+    "matcha.item_enoch": {
+      "textures": "textures/item/enoch"
+    },
+    "matcha.item_shakudo_leggings_lapis_trim_icon": {
+      "textures": "textures/item/shakudo_leggings_lapis_trim_icon"
+    },
+    "matcha.item_blessing_prometheus": {
+      "textures": "textures/item/blessing_prometheus"
+    },
+    "matcha.item_shakudo_chestplate_redstone_trim_icon": {
+      "textures": "textures/item/shakudo_chestplate_redstone_trim_icon"
+    },
+    "matcha.item_sturdy_leather_leggings_diamond_trim_icon": {
+      "textures": "textures/item/sturdy_leather_leggings_diamond_trim_icon"
+    },
+    "matcha.item_shakudo_chestplate_hepatizon_trim_icon": {
+      "textures": "textures/item/shakudo_chestplate_hepatizon_trim_icon"
+    },
+    "geyser_mc.block_dripstone_block_icon": {
+      "textures": "textures/block/dripstone_block_icon"
+    },
+    "matcha.item_ptero_chicken_nugget": {
+      "textures": "textures/item/ptero_chicken_nugget"
+    },
+    "matcha.item_blessing_will": {
+      "textures": "textures/item/blessing_will"
+    },
+    "matcha.item_pumpkin_jam": {
+      "textures": "textures/item/pumpkin_jam"
+    },
+    "matcha.item_electrum_boots_copper_trim_icon": {
+      "textures": "textures/item/electrum_boots_copper_trim_icon"
+    },
+    "matcha.item_shakudo_elytra": {
+      "textures": "textures/item/shakudo_elytra"
+    },
+    "matcha.item_shakudo_axe": {
+      "textures": "textures/item/shakudo_axe"
+    },
+    "matcha.item_ice_cream": {
+      "textures": "textures/item/ice_cream"
+    },
+    "matcha.item_electrum_leggings_redstone_trim_icon": {
+      "textures": "textures/item/electrum_leggings_redstone_trim_icon"
+    },
+    "matcha.item_steel_chestplate_redstone_trim_icon": {
+      "textures": "textures/item/steel_chestplate_redstone_trim_icon"
+    },
+    "matcha.item_electrum_leggings_hepatizon_trim_icon": {
+      "textures": "textures/item/electrum_leggings_hepatizon_trim_icon"
+    },
+    "matcha.item_shakudo_leggings_hepatizon_trim_icon": {
+      "textures": "textures/item/shakudo_leggings_hepatizon_trim_icon"
+    },
+    "matcha.item_nopales": {
+      "textures": "textures/item/nopales"
+    },
+    "matcha.item_trim_colour_patina": {
+      "textures": "textures/item/trim_colour_patina"
+    },
+    "matcha.item_sweet_berry_danish": {
+      "textures": "textures/item/sweet_berry_danish"
+    },
+    "matcha.item_ruby": {
+      "textures": "textures/item/ruby"
+    },
+    "matcha.item_blessing_arachnae": {
+      "textures": "textures/item/blessing_arachnae"
+    },
+    "matcha.item_rind_jam": {
+      "textures": "textures/item/rind_jam"
+    },
+    "matcha.item_steel_leggings_gold_trim_icon": {
+      "textures": "textures/item/steel_leggings_gold_trim_icon"
+    },
+    "geyser_mc.block_glass_icon": {
+      "textures": "textures/block/glass_icon"
+    },
+    "matcha.block_bedrock_buster_icon": {
+      "textures": "textures/block/bedrock_buster_icon"
+    },
+    "matcha.item_trim_colour_amethyst": {
+      "textures": "textures/item/trim_colour_amethyst"
+    },
+    "matcha.item_steel_leggings_copper_trim_icon": {
+      "textures": "textures/item/steel_leggings_copper_trim_icon"
+    },
+    "matcha.item_electrum_boots_redstone_trim_icon": {
+      "textures": "textures/item/electrum_boots_redstone_trim_icon"
+    },
+    "matcha.item_shakudo_helmet": {
+      "textures": "textures/item/shakudo_helmet"
+    },
+    "geyser_mc.block_stone_icon": {
+      "textures": "textures/block/stone_icon"
+    },
+    "matcha.item_canned_golden_apples": {
+      "textures": "textures/item/canned_golden_apples"
+    },
+    "matcha.item_steel_chestplate": {
+      "textures": "textures/item/steel_chestplate"
+    },
+    "matcha.item_red_mushroom_stroganoff": {
+      "textures": "textures/item/red_mushroom_stroganoff"
+    },
+    "matcha.item_electrum_leggings_gold_trim_icon": {
+      "textures": "textures/item/electrum_leggings_gold_trim_icon"
+    },
+    "matcha.item_shakudo_leggings_quartz_trim_icon": {
+      "textures": "textures/item/shakudo_leggings_quartz_trim_icon"
+    },
+    "matcha.item_cheese_pizza": {
+      "textures": "textures/item/cheese_pizza"
+    },
+    "matcha.item_hepatizon_elytra_broken": {
+      "textures": "textures/item/hepatizon_elytra_broken"
+    },
+    "matcha.item_wooden_cross": {
+      "textures": "textures/item/wooden_cross"
+    },
+    "matcha.item_steel_helmet_shakudo_trim_icon": {
+      "textures": "textures/item/steel_helmet_shakudo_trim_icon"
+    },
+    "matcha.item_shakudo_chestplate_iron_trim_icon": {
+      "textures": "textures/item/shakudo_chestplate_iron_trim_icon"
+    },
+    "matcha.item_blessing_midas": {
+      "textures": "textures/item/blessing_midas"
+    },
+    "matcha.item_sturdy_leather_helmet_shakudo_trim_icon": {
+      "textures": "textures/item/sturdy_leather_helmet_shakudo_trim_icon"
+    },
+    "matcha.item_meat_pizza": {
+      "textures": "textures/item/meat_pizza"
+    },
+    "matcha.item_gnocchi_recipe": {
+      "textures": "textures/item/gnocchi_recipe"
+    },
+    "matcha.item_steel_helmet_emerald_trim_icon": {
+      "textures": "textures/item/steel_helmet_emerald_trim_icon"
+    },
+    "matcha.item_sturdy_leather_helmet_hepatizon_trim_icon": {
+      "textures": "textures/item/sturdy_leather_helmet_hepatizon_trim_icon"
+    },
+    "matcha.item_sturdy_leather_helmet_emerald_trim_icon": {
+      "textures": "textures/item/sturdy_leather_helmet_emerald_trim_icon"
+    },
+    "matcha.item_shakudo_helmet_shakudo_trim_icon": {
+      "textures": "textures/item/shakudo_helmet_shakudo_trim_icon"
+    },
+    "matcha.item_quran": {
+      "textures": "textures/item/quran"
+    },
+    "matcha.item_snow_shovel": {
+      "textures": "textures/item/snow_shovel"
+    },
+    "matcha.item_steel_helmet_copper_trim_icon": {
+      "textures": "textures/item/steel_helmet_copper_trim_icon"
+    },
+    "matcha.item_steel_shovel": {
+      "textures": "textures/item/steel_shovel"
+    },
+    "matcha.item_shakudo_helmet_emerald_trim_icon": {
+      "textures": "textures/item/shakudo_helmet_emerald_trim_icon"
+    },
+    "matcha.item_shakudo_leggings_diamond_trim_icon": {
+      "textures": "textures/item/shakudo_leggings_diamond_trim_icon"
+    },
+    "matcha.item_steel_helmet_lapis_trim_icon": {
+      "textures": "textures/item/steel_helmet_lapis_trim_icon"
+    },
+    "matcha.item_sturdy_leather_chestplate_shakudo_trim_icon": {
+      "textures": "textures/item/sturdy_leather_chestplate_shakudo_trim_icon"
+    },
+    "matcha.item_silver_sword": {
+      "textures": "textures/item/silver_sword"
+    },
+    "matcha.item_sturdy_leather_chestplate_emerald_trim_icon": {
+      "textures": "textures/item/sturdy_leather_chestplate_emerald_trim_icon"
+    },
+    "matcha.item_blessing_clement": {
+      "textures": "textures/item/blessing_clement"
+    },
+    "matcha.item_trim_colour_electrum": {
+      "textures": "textures/item/trim_colour_electrum"
+    },
+    "matcha.item_sturdy_leather_boots": {
+      "textures": "textures/item/sturdy_leather_boots"
+    },
+    "matcha.item_steel_boots_gold_trim_icon": {
+      "textures": "textures/item/steel_boots_gold_trim_icon"
+    },
+    "matcha.item_steel_leggings_amethyst_trim_icon": {
+      "textures": "textures/item/steel_leggings_amethyst_trim_icon"
+    },
+    "matcha.item_hepatizon_mattock": {
+      "textures": "textures/item/hepatizon_mattock"
+    },
+    "matcha.item_shakudo_boots_hepatizon_trim_icon": {
+      "textures": "textures/item/shakudo_boots_hepatizon_trim_icon"
+    },
+    "matcha.item_shakudo_boots_copper_trim_icon": {
+      "textures": "textures/item/shakudo_boots_copper_trim_icon"
+    },
+    "matcha.item_sturdy_leather_chestplate_iron_trim_icon": {
+      "textures": "textures/item/sturdy_leather_chestplate_iron_trim_icon"
+    },
+    "matcha.item_steel_mattock": {
+      "textures": "textures/item/steel_mattock"
+    },
+    "matcha.item_electrum_dolabra": {
+      "textures": "textures/item/electrum_dolabra"
+    },
+    "matcha.item_sturdy_leather_boots_resin_trim_icon": {
+      "textures": "textures/item/sturdy_leather_boots_resin_trim_icon"
+    },
+    "matcha.item_hepatizon_dolabra": {
+      "textures": "textures/item/hepatizon_dolabra"
+    },
+    "matcha.item_paneer_makhani": {
+      "textures": "textures/item/paneer_makhani"
+    },
+    "matcha.item_trim_colour_cinnabar": {
+      "textures": "textures/item/trim_colour_cinnabar"
+    },
+    "matcha.item_electrum_helmet_iron_trim_icon": {
+      "textures": "textures/item/electrum_helmet_iron_trim_icon"
+    },
+    "geyser_mc.block_cinnabar_icon": {
+      "textures": "textures/block/cinnabar_icon"
+    },
+    "matcha.item_steel_leggings_electrum_trim_icon": {
+      "textures": "textures/item/steel_leggings_electrum_trim_icon"
+    },
+    "matcha.item_steel_boots": {
+      "textures": "textures/item/steel_boots"
+    },
+    "matcha.item_steel_helmet_iron_trim_icon": {
+      "textures": "textures/item/steel_helmet_iron_trim_icon"
+    },
+    "matcha.item_steel_dolabra": {
+      "textures": "textures/item/steel_dolabra"
+    },
+    "matcha.item_steel_chestplate_gold_trim_icon": {
+      "textures": "textures/item/steel_chestplate_gold_trim_icon"
+    },
+    "matcha.item_electrum_chestplate_resin_trim_icon": {
+      "textures": "textures/item/electrum_chestplate_resin_trim_icon"
+    },
+    "matcha.item_sturdy_leather_chestplate_quartz_trim_icon": {
+      "textures": "textures/item/sturdy_leather_chestplate_quartz_trim_icon"
+    },
+    "matcha.item_adamant_mattock": {
+      "textures": "textures/item/adamant_mattock"
+    },
+    "matcha.item_sturdy_leather_helmet_redstone_trim_icon": {
+      "textures": "textures/item/sturdy_leather_helmet_redstone_trim_icon"
+    },
+    "matcha.item_electrum_chestplate_redstone_trim_icon": {
+      "textures": "textures/item/electrum_chestplate_redstone_trim_icon"
+    },
+    "matcha.item_adamant_dolabra": {
+      "textures": "textures/item/adamant_dolabra"
+    },
+    "matcha.item_bunuelo": {
+      "textures": "textures/item/bunuelo"
+    },
+    "geyser_mc.block_diorite_icon": {
+      "textures": "textures/block/diorite_icon"
+    },
+    "matcha.item_topaz": {
+      "textures": "textures/item/topaz"
+    },
+    "matcha.item_japanese_curry": {
+      "textures": "textures/item/japanese_curry"
+    },
+    "geyser_mc.block_tuff_icon": {
+      "textures": "textures/block/tuff_icon"
+    },
+    "matcha.item_golden_carrot_cupcake": {
+      "textures": "textures/item/golden_carrot_cupcake"
+    },
+    "matcha.item_pad_thai": {
+      "textures": "textures/item/pad_thai"
+    },
+    "matcha.item_electrum_chestplate_netherite_trim_icon": {
+      "textures": "textures/item/electrum_chestplate_netherite_trim_icon"
+    },
+    "matcha.item_sturdy_leather_helmet_icon": {
+      "textures": "textures/item/sturdy_leather_helmet_icon"
+    },
+    "matcha.item_hepatizon_boots": {
+      "textures": "textures/item/hepatizon_boots"
+    },
+    "matcha.item_sturdy_leather_chestplate_netherite_trim_icon": {
+      "textures": "textures/item/sturdy_leather_chestplate_netherite_trim_icon"
+    },
+    "matcha.item_lumpia": {
+      "textures": "textures/item/lumpia"
+    },
+    "matcha.item_blessing_demeter": {
+      "textures": "textures/item/blessing_demeter"
+    },
+    "matcha.item_trim_colour_iron": {
+      "textures": "textures/item/trim_colour_iron"
+    },
+    "matcha.item_pumpkin_empanada": {
+      "textures": "textures/item/pumpkin_empanada"
+    },
+    "matcha.item_electrum_helmet": {
+      "textures": "textures/item/electrum_helmet"
+    },
+    "matcha.item_pickled_red_mushrooms": {
+      "textures": "textures/item/pickled_red_mushrooms"
+    },
+    "matcha.item_electrum_helmet_quartz_trim_icon": {
+      "textures": "textures/item/electrum_helmet_quartz_trim_icon"
+    },
+    "matcha.item_steel_chestplate_diamond_trim_icon": {
+      "textures": "textures/item/steel_chestplate_diamond_trim_icon"
+    },
+    "matcha.item_steel_helmet_amethyst_trim_icon": {
+      "textures": "textures/item/steel_helmet_amethyst_trim_icon"
+    },
+    "matcha.item_solomon": {
+      "textures": "textures/item/solomon"
+    },
+    "matcha.item_amethyst_earrings": {
+      "textures": "textures/item/amethyst_earrings"
+    },
+    "matcha.item_pumpkin_curry": {
+      "textures": "textures/item/pumpkin_curry"
+    },
+    "matcha.item_blessing_warding": {
+      "textures": "textures/item/blessing_warding"
+    },
+    "matcha.item_cheerful_clay_statue": {
+      "textures": "textures/item/cheerful_clay_statue"
+    },
+    "matcha.item_shakudo_boots_shakudo_trim_icon": {
+      "textures": "textures/item/shakudo_boots_shakudo_trim_icon"
+    },
+    "matcha.item_shakudo_spear": {
+      "textures": "textures/item/shakudo_spear"
+    },
+    "matcha.item_steel_helmet_electrum_trim_icon": {
+      "textures": "textures/item/steel_helmet_electrum_trim_icon"
+    },
+    "matcha.item_bubbling_mead": {
+      "textures": "textures/item/bubbling_mead"
+    },
+    "matcha.item_shakudo_boots_emerald_trim_icon": {
+      "textures": "textures/item/shakudo_boots_emerald_trim_icon"
+    },
+    "geyser_mc.block_smooth_quartz_icon": {
+      "textures": "textures/block/smooth_quartz_icon"
+    },
+    "matcha.item_tanakh": {
+      "textures": "textures/item/tanakh"
+    },
+    "matcha.item_shakudo_leggings": {
+      "textures": "textures/item/shakudo_leggings"
+    },
+    "matcha.item_pickled_crimson_fungus": {
+      "textures": "textures/item/pickled_crimson_fungus"
+    },
+    "matcha.item_shakudo_chestplate_electrum_trim_icon": {
+      "textures": "textures/item/shakudo_chestplate_electrum_trim_icon"
+    },
+    "matcha.item_shakudo_mattock": {
+      "textures": "textures/item/shakudo_mattock"
+    },
+    "matcha.item_hepatizon_chestplate": {
+      "textures": "textures/item/hepatizon_chestplate"
+    },
+    "matcha.item_fish_bones": {
+      "textures": "textures/item/fish_bones"
+    },
+    "matcha.item_sturdy_leather_boots_lapis_trim_icon": {
+      "textures": "textures/item/sturdy_leather_boots_lapis_trim_icon"
+    },
+    "matcha.item_trim_colour_steel": {
+      "textures": "textures/item/trim_colour_steel"
+    },
+    "matcha.item_sturdy_leather_leggings_netherite_trim_icon": {
+      "textures": "textures/item/sturdy_leather_leggings_netherite_trim_icon"
+    },
+    "matcha.item_sweet_berry_toast": {
+      "textures": "textures/item/sweet_berry_toast"
+    },
+    "matcha.item_shakudo_elytra_broken": {
+      "textures": "textures/item/shakudo_elytra_broken"
+    },
+    "matcha.item_diamond_earrings": {
+      "textures": "textures/item/diamond_earrings"
+    },
+    "matcha.item_sturdy_leather_boots_copper_trim_icon": {
+      "textures": "textures/item/sturdy_leather_boots_copper_trim_icon"
+    },
+    "matcha.item_hepatizon_shovel": {
+      "textures": "textures/item/hepatizon_shovel"
+    },
+    "matcha.item_electrum_leggings_iron_trim_icon": {
+      "textures": "textures/item/electrum_leggings_iron_trim_icon"
+    },
+    "matcha.item_electrum_leggings_electrum_trim_icon": {
+      "textures": "textures/item/electrum_leggings_electrum_trim_icon"
+    },
+    "geyser_mc.block_blackstone_icon": {
+      "textures": "textures/block/blackstone_icon"
+    },
+    "matcha.item_steel_boots_netherite_trim_icon": {
+      "textures": "textures/item/steel_boots_netherite_trim_icon"
+    },
+    "matcha.item_steel_chestplate_electrum_trim_icon": {
+      "textures": "textures/item/steel_chestplate_electrum_trim_icon"
+    },
+    "matcha.item_shakudo_dolabra": {
+      "textures": "textures/item/shakudo_dolabra"
+    },
+    "matcha.item_electrum_boots_amethyst_trim_icon": {
+      "textures": "textures/item/electrum_boots_amethyst_trim_icon"
+    },
+    "matcha.item_blessing_ares": {
+      "textures": "textures/item/blessing_ares"
+    },
+    "matcha.item_sturdy_leather_leggings_icon": {
+      "textures": "textures/item/sturdy_leather_leggings_icon"
+    },
+    "matcha.item_blessing_paris": {
+      "textures": "textures/item/blessing_paris"
+    },
+    "matcha.item_trim_colour_lapis": {
+      "textures": "textures/item/trim_colour_lapis"
+    },
+    "matcha.item_oatmeal": {
+      "textures": "textures/item/oatmeal"
+    },
+    "matcha.item_electrum_leggings": {
+      "textures": "textures/item/electrum_leggings"
+    },
+    "matcha.item_electrum_boots_electrum_trim_icon": {
+      "textures": "textures/item/electrum_boots_electrum_trim_icon"
+    },
+    "matcha.item_sweet_berry_jam": {
+      "textures": "textures/item/sweet_berry_jam"
+    },
+    "matcha.item_sturdy_leather_chestplate_gold_trim_icon": {
+      "textures": "textures/item/sturdy_leather_chestplate_gold_trim_icon"
+    },
+    "matcha.item_electrum_boots_quartz_trim_icon": {
+      "textures": "textures/item/electrum_boots_quartz_trim_icon"
+    },
+    "matcha.item_steel_chestplate_emerald_trim_icon": {
+      "textures": "textures/item/steel_chestplate_emerald_trim_icon"
+    },
+    "matcha.item_brownie": {
+      "textures": "textures/item/brownie"
+    },
+    "matcha.item_shakudo_chestplate_quartz_trim_icon": {
+      "textures": "textures/item/shakudo_chestplate_quartz_trim_icon"
+    },
+    "matcha.item_shakudo_chestplate_shakudo_trim_icon": {
+      "textures": "textures/item/shakudo_chestplate_shakudo_trim_icon"
+    },
+    "matcha.item_blessing_apollo": {
+      "textures": "textures/item/blessing_apollo"
+    },
+    "matcha.item_sturdy_leather_boots_diamond_trim_icon": {
+      "textures": "textures/item/sturdy_leather_boots_diamond_trim_icon"
+    },
+    "matcha.item_electrum_chestplate_quartz_trim_icon": {
+      "textures": "textures/item/electrum_chestplate_quartz_trim_icon"
+    },
+    "matcha.item_kontomire_stew": {
+      "textures": "textures/item/kontomire_stew"
+    },
+    "matcha.item_shakudo_boots_resin_trim_icon": {
+      "textures": "textures/item/shakudo_boots_resin_trim_icon"
+    },
+    "matcha.item_steel_helmet_gold_trim_icon": {
+      "textures": "textures/item/steel_helmet_gold_trim_icon"
+    },
+    "matcha.item_sturdy_leather_chestplate_redstone_trim_icon": {
+      "textures": "textures/item/sturdy_leather_chestplate_redstone_trim_icon"
+    },
+    "matcha.item_electrum_chestplate_hepatizon_trim_icon": {
+      "textures": "textures/item/electrum_chestplate_hepatizon_trim_icon"
+    },
+    "matcha.item_steel_boots_iron_trim_icon": {
+      "textures": "textures/item/steel_boots_iron_trim_icon"
+    },
+    "matcha.item_steel_helmet_netherite_trim_icon": {
+      "textures": "textures/item/steel_helmet_netherite_trim_icon"
+    },
+    "matcha.item_sturdy_leather_chestplate_hepatizon_trim_icon": {
+      "textures": "textures/item/sturdy_leather_chestplate_hepatizon_trim_icon"
+    },
+    "matcha.item_charred_meat": {
+      "textures": "textures/item/charred_meat"
+    },
+    "matcha.item_steel_leggings": {
+      "textures": "textures/item/steel_leggings"
+    },
+    "matcha.item_gnocchi": {
+      "textures": "textures/item/gnocchi"
+    },
+    "matcha.item_blessing_yama": {
+      "textures": "textures/item/blessing_yama"
+    },
+    "matcha.item_music_disc_labyrinthine": {
+      "textures": "textures/item/music_disc_labyrinthine"
+    },
+    "matcha.item_french_toast": {
+      "textures": "textures/item/french_toast"
+    },
+    "matcha.item_electrum_spear": {
+      "textures": "textures/item/electrum_spear"
+    },
+    "matcha.item_steel_leggings_quartz_trim_icon": {
+      "textures": "textures/item/steel_leggings_quartz_trim_icon"
+    },
+    "matcha.item_pickled_tomatoes": {
+      "textures": "textures/item/pickled_tomatoes"
+    },
+    "matcha.item_shakudo_sword": {
+      "textures": "textures/item/shakudo_sword"
+    },
+    "matcha.item_pickled_carrots": {
+      "textures": "textures/item/pickled_carrots"
+    },
+    "matcha.item_blessing_yamm": {
+      "textures": "textures/item/blessing_yamm"
+    },
+    "matcha.item_blessing_daedalus": {
+      "textures": "textures/item/blessing_daedalus"
+    },
+    "matcha.item_steel_chestplate_iron_trim_icon": {
+      "textures": "textures/item/steel_chestplate_iron_trim_icon"
+    },
+    "matcha.item_steel_chestplate_lapis_trim_icon": {
+      "textures": "textures/item/steel_chestplate_lapis_trim_icon"
+    },
+    "matcha.item_steel_hoe": {
+      "textures": "textures/item/steel_hoe"
+    },
+    "matcha.item_sturdy_leather_helmet_resin_trim_icon": {
+      "textures": "textures/item/sturdy_leather_helmet_resin_trim_icon"
+    },
+    "matcha.item_honied_french_toast": {
+      "textures": "textures/item/honied_french_toast"
+    },
+    "matcha.item_steel_helmet_diamond_trim_icon": {
+      "textures": "textures/item/steel_helmet_diamond_trim_icon"
+    },
+    "matcha.item_sturdy_leather_helmet_amethyst_trim_icon": {
+      "textures": "textures/item/sturdy_leather_helmet_amethyst_trim_icon"
+    },
+    "matcha.item_braised_crimson_fungus": {
+      "textures": "textures/item/braised_crimson_fungus"
+    },
+    "matcha.item_steel_helmet_redstone_trim_icon": {
+      "textures": "textures/item/steel_helmet_redstone_trim_icon"
+    },
+    "matcha.item_sturdy_leather_helmet_diamond_trim_icon": {
+      "textures": "textures/item/sturdy_leather_helmet_diamond_trim_icon"
+    },
+    "matcha.item_shakudo_boots_iron_trim_icon": {
+      "textures": "textures/item/shakudo_boots_iron_trim_icon"
+    },
+    "matcha.item_shakudo_helmet_diamond_trim_icon": {
+      "textures": "textures/item/shakudo_helmet_diamond_trim_icon"
+    },
+    "matcha.item_steel_leggings_diamond_trim_icon": {
+      "textures": "textures/item/steel_leggings_diamond_trim_icon"
+    },
+    "matcha.item_electrum_leggings_shakudo_trim_icon": {
+      "textures": "textures/item/electrum_leggings_shakudo_trim_icon"
+    },
+    "matcha.item_hepatizon_hoe": {
+      "textures": "textures/item/hepatizon_hoe"
+    },
+    "matcha.item_sturdy_leather_helmet_electrum_trim_icon": {
+      "textures": "textures/item/sturdy_leather_helmet_electrum_trim_icon"
+    },
+    "matcha.item_sturdy_leather_chestplate_diamond_trim_icon": {
+      "textures": "textures/item/sturdy_leather_chestplate_diamond_trim_icon"
+    },
+    "matcha.item_hepatizon_laurel": {
+      "textures": "textures/item/hepatizon_laurel"
+    },
+    "matcha.item_sturdy_leather_boots_shakudo_trim_icon": {
+      "textures": "textures/item/sturdy_leather_boots_shakudo_trim_icon"
+    },
+    "matcha.item_electrum_chestplate_amethyst_trim_icon": {
+      "textures": "textures/item/electrum_chestplate_amethyst_trim_icon"
+    },
+    "matcha.item_sturdy_leather_boots_emerald_trim_icon": {
+      "textures": "textures/item/sturdy_leather_boots_emerald_trim_icon"
+    },
+    "matcha.item_steel_shears": {
+      "textures": "textures/item/steel_shears"
+    },
+    "matcha.item_blessing_aeolus": {
+      "textures": "textures/item/blessing_aeolus"
+    },
+    "matcha.item_steel_boots_hepatizon_trim_icon": {
+      "textures": "textures/item/steel_boots_hepatizon_trim_icon"
+    },
+    "matcha.item_glow_jam": {
+      "textures": "textures/item/glow_jam"
+    },
+    "matcha.item_trim_colour_hepatizon": {
+      "textures": "textures/item/trim_colour_hepatizon"
+    },
+    "matcha.item_melon_sorbet": {
+      "textures": "textures/item/melon_sorbet"
+    },
+    "matcha.item_hepatizon_pickaxe": {
+      "textures": "textures/item/hepatizon_pickaxe"
+    },
+    "matcha.item_braised_red_mushroom": {
+      "textures": "textures/item/braised_red_mushroom"
+    },
+    "geyser_mc.block_smooth_basalt_icon": {
+      "textures": "textures/block/smooth_basalt_icon"
+    },
+    "matcha.item_electrum_leggings_copper_trim_icon": {
+      "textures": "textures/item/electrum_leggings_copper_trim_icon"
+    },
+    "matcha.item_warped_pizza": {
+      "textures": "textures/item/warped_pizza"
+    },
+    "matcha.item_stego_chicken_nugget": {
+      "textures": "textures/item/stego_chicken_nugget"
+    },
+    "matcha.item_porkchop_classic": {
+      "textures": "textures/item/porkchop_classic"
+    },
+    "matcha.item_honey_ginger_tea": {
+      "textures": "textures/item/honey_ginger_tea"
+    },
+    "matcha.item_latke": {
+      "textures": "textures/item/latke"
+    },
+    "matcha.item_electrum_chestplate_electrum_trim_icon": {
+      "textures": "textures/item/electrum_chestplate_electrum_trim_icon"
+    },
+    "matcha.item_shakudo_boots_quartz_trim_icon": {
+      "textures": "textures/item/shakudo_boots_quartz_trim_icon"
+    },
+    "matcha.item_sturdy_leather_boots_netherite_trim_icon": {
+      "textures": "textures/item/sturdy_leather_boots_netherite_trim_icon"
+    },
+    "matcha.item_fish_and_chips": {
+      "textures": "textures/item/fish_and_chips"
+    },
+    "matcha.item_steel_boots_diamond_trim_icon": {
+      "textures": "textures/item/steel_boots_diamond_trim_icon"
+    },
+    "matcha.item_naan": {
+      "textures": "textures/item/naan"
+    },
+    "matcha.item_shakudo_boots_lapis_trim_icon": {
+      "textures": "textures/item/shakudo_boots_lapis_trim_icon"
+    },
+    "matcha.item_sturdy_leather_chestplate_resin_trim_icon": {
+      "textures": "textures/item/sturdy_leather_chestplate_resin_trim_icon"
+    },
+    "matcha.item_sturdy_leather_chestplate_copper_trim_icon": {
+      "textures": "textures/item/sturdy_leather_chestplate_copper_trim_icon"
+    },
+    "matcha.item_crimson_stroganoff": {
+      "textures": "textures/item/crimson_stroganoff"
+    },
+    "matcha.item_ramen": {
+      "textures": "textures/item/ramen"
+    },
+    "matcha.item_sturdy_leather_leggings_redstone_trim_icon": {
+      "textures": "textures/item/sturdy_leather_leggings_redstone_trim_icon"
+    },
+    "matcha.item_divine_comedy": {
+      "textures": "textures/item/divine_comedy"
+    },
+    "matcha.item_electrum_sword": {
+      "textures": "textures/item/electrum_sword"
+    },
+    "matcha.item_beacon_kindling": {
+      "textures": "textures/item/beacon_kindling"
+    },
+    "matcha.item_steel_leggings_netherite_trim_icon": {
+      "textures": "textures/item/steel_leggings_netherite_trim_icon"
+    },
+    "matcha.item_blessing_artemis": {
+      "textures": "textures/item/blessing_artemis"
+    },
+    "matcha.item_steel_helmet_hepatizon_trim_icon": {
+      "textures": "textures/item/steel_helmet_hepatizon_trim_icon"
+    },
+    "matcha.item_electrum_leggings_lapis_trim_icon": {
+      "textures": "textures/item/electrum_leggings_lapis_trim_icon"
+    },
+    "matcha.item_steel_leggings_shakudo_trim_icon": {
+      "textures": "textures/item/steel_leggings_shakudo_trim_icon"
+    },
+    "matcha.item_fried_egg": {
+      "textures": "textures/item/fried_egg"
+    },
+    "matcha.item_trim_colour_shakudo": {
+      "textures": "textures/item/trim_colour_shakudo"
+    },
+    "matcha.item_steel_axe": {
+      "textures": "textures/item/steel_axe"
+    },
+    "matcha.item_pickled_mushrooms": {
+      "textures": "textures/item/pickled_mushrooms"
+    },
+    "matcha.item_paradise_lost": {
+      "textures": "textures/item/paradise_lost"
+    },
+    "matcha.item_sturdy_leather_helmet_lapis_trim_icon": {
+      "textures": "textures/item/sturdy_leather_helmet_lapis_trim_icon"
+    },
+    "matcha.item_steel_leggings_emerald_trim_icon": {
+      "textures": "textures/item/steel_leggings_emerald_trim_icon"
+    },
+    "matcha.item_trim_colour_gold": {
+      "textures": "textures/item/trim_colour_gold"
+    },
+    "matcha.item_shakudo_helmet_quartz_trim_icon": {
+      "textures": "textures/item/shakudo_helmet_quartz_trim_icon"
+    },
+    "matcha.item_pickled_potatoes": {
+      "textures": "textures/item/pickled_potatoes"
+    },
+    "matcha.item_mournful_clay_statue": {
+      "textures": "textures/item/mournful_clay_statue"
+    },
+    "matcha.item_electrum_helmet_copper_trim_icon": {
+      "textures": "textures/item/electrum_helmet_copper_trim_icon"
+    },
+    "matcha.item_warding_sword": {
+      "textures": "textures/item/warding_sword"
+    },
+    "matcha.item_sturdy_leather_leggings_quartz_trim_icon": {
+      "textures": "textures/item/sturdy_leather_leggings_quartz_trim_icon"
+    },
+    "matcha.item_electrum_mattock": {
+      "textures": "textures/item/electrum_mattock"
+    },
+    "matcha.item_electrum_chestplate_gold_trim_icon": {
+      "textures": "textures/item/electrum_chestplate_gold_trim_icon"
+    },
+    "matcha.item_canned_apples": {
+      "textures": "textures/item/canned_apples"
+    },
+    "matcha.item_hepatizon_axe": {
+      "textures": "textures/item/hepatizon_axe"
+    },
+    "matcha.item_steel_boots_shakudo_trim_icon": {
+      "textures": "textures/item/steel_boots_shakudo_trim_icon"
+    },
+    "matcha.item_steel_boots_redstone_trim_icon": {
+      "textures": "textures/item/steel_boots_redstone_trim_icon"
+    },
+    "matcha.item_bobwhite_spawn_egg": {
+      "textures": "textures/item/bobwhite_spawn_egg"
+    },
+    "matcha.item_steel_boots_emerald_trim_icon": {
+      "textures": "textures/item/steel_boots_emerald_trim_icon"
+    },
+    "matcha.item_shakudo_shovel": {
+      "textures": "textures/item/shakudo_shovel"
+    },
+    "matcha.item_shakudo_boots_diamond_trim_icon": {
+      "textures": "textures/item/shakudo_boots_diamond_trim_icon"
+    },
+    "geyser_mc.block_smooth_sandstone_icon": {
+      "textures": "textures/block/smooth_sandstone_icon"
+    },
+    "matcha.item_butcher_knife": {
+      "textures": "textures/item/butcher_knife"
+    },
+    "matcha.item_shakudo_chestplate_resin_trim_icon": {
+      "textures": "textures/item/shakudo_chestplate_resin_trim_icon"
+    },
+    "matcha.item_electrum_boots_shakudo_trim_icon": {
+      "textures": "textures/item/electrum_boots_shakudo_trim_icon"
+    },
+    "matcha.item_pickled_warped_fungus": {
+      "textures": "textures/item/pickled_warped_fungus"
+    },
+    "matcha.item_puerquito": {
+      "textures": "textures/item/puerquito"
+    },
+    "matcha.item_shakudo_boots_gold_trim_icon": {
+      "textures": "textures/item/shakudo_boots_gold_trim_icon"
+    },
+    "matcha.item_shakudo_pickaxe": {
+      "textures": "textures/item/shakudo_pickaxe"
+    },
+    "matcha.item_sturdy_leather_chestplate_amethyst_trim_icon": {
+      "textures": "textures/item/sturdy_leather_chestplate_amethyst_trim_icon"
+    },
+    "matcha.item_electrum_helmet_shakudo_trim_icon": {
+      "textures": "textures/item/electrum_helmet_shakudo_trim_icon"
+    },
+    "matcha.item_opal": {
+      "textures": "textures/item/opal"
+    },
+    "matcha.item_sturdy_leather_boots_hepatizon_trim_icon": {
+      "textures": "textures/item/sturdy_leather_boots_hepatizon_trim_icon"
+    },
+    "matcha.item_adamant_claymore": {
+      "textures": "textures/item/adamant_claymore"
+    },
+    "matcha.item_rusty_axe": {
+      "textures": "textures/item/rusty_axe"
+    },
+    "matcha.item_steel_helmet_resin_trim_icon": {
+      "textures": "textures/item/steel_helmet_resin_trim_icon"
+    },
+    "matcha.item_steel_boots_quartz_trim_icon": {
+      "textures": "textures/item/steel_boots_quartz_trim_icon"
+    },
+    "matcha.item_electrum_helmet_emerald_trim_icon": {
+      "textures": "textures/item/electrum_helmet_emerald_trim_icon"
+    },
+    "matcha.item_heart_container": {
+      "textures": "textures/item/heart_container"
+    },
+    "matcha.item_steel_chestplate_quartz_trim_icon": {
+      "textures": "textures/item/steel_chestplate_quartz_trim_icon"
+    },
+    "matcha.item_sturdy_leather_chestplate_electrum_trim_icon": {
+      "textures": "textures/item/sturdy_leather_chestplate_electrum_trim_icon"
+    },
+    "matcha.item_steamed_carrots": {
+      "textures": "textures/item/steamed_carrots"
+    },
+    "matcha.item_blessing_talos": {
+      "textures": "textures/item/blessing_talos"
+    },
+    "matcha.item_electrum_helmet_amethyst_trim_icon": {
+      "textures": "textures/item/electrum_helmet_amethyst_trim_icon"
+    },
+    "matcha.item_shakudo_helmet_gold_trim_icon": {
+      "textures": "textures/item/shakudo_helmet_gold_trim_icon"
+    },
+    "matcha.item_steel_helmet": {
+      "textures": "textures/item/steel_helmet"
+    },
+    "geyser_mc.block_calcite_icon": {
+      "textures": "textures/block/calcite_icon"
+    },
+    "matcha.item_blessing_glaucus": {
+      "textures": "textures/item/blessing_glaucus"
+    },
+    "matcha.item_shakudo_chestplate_copper_trim_icon": {
+      "textures": "textures/item/shakudo_chestplate_copper_trim_icon"
+    },
+    "matcha.item_steel_leggings_hepatizon_trim_icon": {
+      "textures": "textures/item/steel_leggings_hepatizon_trim_icon"
+    },
+    "matcha.item_blessing_hyacinthus": {
+      "textures": "textures/item/blessing_hyacinthus"
+    },
+    "matcha.item_shakudo_leggings_redstone_trim_icon": {
+      "textures": "textures/item/shakudo_leggings_redstone_trim_icon"
+    },
+    "matcha.item_electrum_chestplate_copper_trim_icon": {
+      "textures": "textures/item/electrum_chestplate_copper_trim_icon"
+    },
+    "matcha.item_electrum_helmet_electrum_trim_icon": {
+      "textures": "textures/item/electrum_helmet_electrum_trim_icon"
+    },
+    "matcha.item_sturdy_leather_helmet_iron_trim_icon": {
+      "textures": "textures/item/sturdy_leather_helmet_iron_trim_icon"
+    },
+    "matcha.item_steel_spear": {
+      "textures": "textures/item/steel_spear"
+    },
+    "matcha.item_shakudo_chestplate_diamond_trim_icon": {
+      "textures": "textures/item/shakudo_chestplate_diamond_trim_icon"
+    },
+    "matcha.item_electrum_chestplate_diamond_trim_icon": {
+      "textures": "textures/item/electrum_chestplate_diamond_trim_icon"
+    },
+    "matcha.item_blessing_god_king": {
+      "textures": "textures/item/blessing_god_king"
+    },
+    "matcha.item_electrum_helmet_netherite_trim_icon": {
+      "textures": "textures/item/electrum_helmet_netherite_trim_icon"
+    },
+    "matcha.item_golden_apple_empanada": {
+      "textures": "textures/item/golden_apple_empanada"
+    },
+    "matcha.item_shakudo_helmet_netherite_trim_icon": {
+      "textures": "textures/item/shakudo_helmet_netherite_trim_icon"
+    },
+    "matcha.item_music_disc_golden": {
+      "textures": "textures/item/music_disc_golden"
+    },
+    "matcha.item_blessing_eros": {
+      "textures": "textures/item/blessing_eros"
+    },
+    "matcha.item_tinder": {
+      "textures": "textures/item/tinder"
+    },
+    "matcha.item_bokguk": {
+      "textures": "textures/item/bokguk"
+    },
+    "matcha.item_electrum_boots_netherite_trim_icon": {
+      "textures": "textures/item/electrum_boots_netherite_trim_icon"
+    },
+    "matcha.item_blessing_icarus": {
+      "textures": "textures/item/blessing_icarus"
+    },
+    "matcha.item_trim_colour_diamond": {
+      "textures": "textures/item/trim_colour_diamond"
+    },
+    "matcha.item_lapis_earrings": {
+      "textures": "textures/item/lapis_earrings"
+    },
+    "matcha.item_stroganoff": {
+      "textures": "textures/item/stroganoff"
+    },
+    "matcha.item_braised_warped_fungus": {
+      "textures": "textures/item/braised_warped_fungus"
+    },
+    "matcha.item_electrum_boots_resin_trim_icon": {
+      "textures": "textures/item/electrum_boots_resin_trim_icon"
+    },
+    "matcha.item_sturdy_leather_helmet_quartz_trim_icon": {
+      "textures": "textures/item/sturdy_leather_helmet_quartz_trim_icon"
+    },
+    "matcha.item_hepatizon_spear": {
+      "textures": "textures/item/hepatizon_spear"
+    },
+    "matcha.item_amber_earrings": {
+      "textures": "textures/item/amber_earrings"
+    },
+    "matcha.item_steel_boots_resin_trim_icon": {
+      "textures": "textures/item/steel_boots_resin_trim_icon"
+    },
+    "matcha.item_electrum_chestplate_lapis_trim_icon": {
+      "textures": "textures/item/electrum_chestplate_lapis_trim_icon"
+    },
+    "matcha.item_shakudo_chestplate_lapis_trim_icon": {
+      "textures": "textures/item/shakudo_chestplate_lapis_trim_icon"
+    },
+    "matcha.item_shakudo_chestplate": {
+      "textures": "textures/item/shakudo_chestplate"
+    },
+    "matcha.item_charred_potato": {
+      "textures": "textures/item/charred_potato"
+    },
+    "matcha.item_warped_stroganoff": {
+      "textures": "textures/item/warped_stroganoff"
+    },
+    "matcha.item_blessing_lu_ban": {
+      "textures": "textures/item/blessing_lu_ban"
+    },
+    "matcha.item_apple_empanada": {
+      "textures": "textures/item/apple_empanada"
+    },
+    "matcha.item_gimmari": {
+      "textures": "textures/item/gimmari"
+    },
+    "matcha.item_grilled_tomatoes": {
+      "textures": "textures/item/grilled_tomatoes"
+    },
+    "matcha.item_sturdy_leather_leggings_amethyst_trim_icon": {
+      "textures": "textures/item/sturdy_leather_leggings_amethyst_trim_icon"
+    },
+    "matcha.item_sturdy_leather_leggings_shakudo_trim_icon": {
+      "textures": "textures/item/sturdy_leather_leggings_shakudo_trim_icon"
+    },
+    "matcha.item_shakudo_helmet_redstone_trim_icon": {
+      "textures": "textures/item/shakudo_helmet_redstone_trim_icon"
+    },
+    "matcha.item_cyan_rose_classic": {
+      "textures": "textures/item/cyan_rose_classic"
+    },
+    "matcha.item_electrum_shovel": {
+      "textures": "textures/item/electrum_shovel"
+    },
+    "matcha.item_sturdy_leather_leggings_emerald_trim_icon": {
+      "textures": "textures/item/sturdy_leather_leggings_emerald_trim_icon"
+    },
+    "matcha.item_charred_fish": {
+      "textures": "textures/item/charred_fish"
+    },
+    "matcha.item_electrum_leggings_diamond_trim_icon": {
+      "textures": "textures/item/electrum_leggings_diamond_trim_icon"
+    },
+    "matcha.item_electrum_helmet_resin_trim_icon": {
+      "textures": "textures/item/electrum_helmet_resin_trim_icon"
+    },
+    "matcha.item_opal_earrings": {
+      "textures": "textures/item/opal_earrings"
+    },
+    "matcha.item_hepatizon_leggings": {
+      "textures": "textures/item/hepatizon_leggings"
+    },
+    "matcha.item_copper_shears": {
+      "textures": "textures/item/copper_shears"
+    },
+    "matcha.item_glow_berry_crumble": {
+      "textures": "textures/item/glow_berry_crumble"
+    },
+    "matcha.item_electrum_chestplate_shakudo_trim_icon": {
+      "textures": "textures/item/electrum_chestplate_shakudo_trim_icon"
+    },
+    "matcha.item_sturdy_leather_leggings_electrum_trim_icon": {
+      "textures": "textures/item/sturdy_leather_leggings_electrum_trim_icon"
+    },
+    "matcha.item_shakudo_chestplate_emerald_trim_icon": {
+      "textures": "textures/item/shakudo_chestplate_emerald_trim_icon"
+    }
+  }
+}
