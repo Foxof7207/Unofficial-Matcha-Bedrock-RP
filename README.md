@@ -16,6 +16,7 @@ Follow the official setup guides above to install GeyserMC and Floodgate before 
 Download the latest release from this repository. It should contain:
 
 - `matcha_mappings.json`
+- `item_mappings.json`
 - `Match_Bedrock_Ressource_Pack_Part_1.zip`
 - `Match_Bedrock_Ressource_Pack_Part_2.zip`
 
